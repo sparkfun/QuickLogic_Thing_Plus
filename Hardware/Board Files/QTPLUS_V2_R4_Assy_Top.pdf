@@ -1,0 +1,956 @@
+%PDF-1.6%‚„œ”
+1 0 obj<</MarkInfo<</UserProperties true>>/Names 19 0 R/Outlines 772 0 R/Metadata 776 0 R/Pages 2 0 R/OCProperties<</D<</RBGroups[]/ON[5 0 R 6 0 R 7 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R 13 0 R 14 0 R 15 0 R 16 0 R 17 0 R]/Order[5 0 R 6 0 R 7 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R 13 0 R 14 0 R 15 0 R 16 0 R 17 0 R]>>/OCGs[5 0 R 6 0 R 7 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R 13 0 R 14 0 R 15 0 R 16 0 R 17 0 R]>>/StructTreeRoot 29 0 R/Type/Catalog>>endobj19 0 obj<</JavaScript 20 0 R>>endobj772 0 obj<</First 773 0 R/Count 2/Last 773 0 R/Type/Outlines>>endobj776 0 obj<</Subtype/XML/Length 3353/Type/Metadata>>stream
+<?xpacket begin="Ôªø" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 4.0-c316 44.266826, Mon Dec 18 2006 14:26:17">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""
+            xmlns:xap="http://ns.adobe.com/xap/1.0/">
+         <xap:ModifyDate>2021-02-04T13:45:22+05:30</xap:ModifyDate>
+         <xap:CreateDate>2021-02-04T13:45:21+05:30</xap:CreateDate>
+         <xap:MetadataDate>2021-02-04T13:45:22+05:30</xap:MetadataDate>
+         <xap:CreatorTool>Allegro Design Publisher</xap:CreatorTool>
+      </rdf:Description>
+      <rdf:Description rdf:about=""
+            xmlns:xapMM="http://ns.adobe.com/xap/1.0/mm/">
+         <xapMM:DocumentID>uuid:93e35fe9-c190-44ec-962d-5088ea9a8648</xapMM:DocumentID>
+         <xapMM:InstanceID>uuid:8dc57cef-e5bf-4aac-8a06-e3d8d8ec86ad</xapMM:InstanceID>
+      </rdf:Description>
+      <rdf:Description rdf:about=""
+            xmlns:dc="http://purl.org/dc/elements/1.1/">
+         <dc:format>application/pdf</dc:format>
+      </rdf:Description>
+      <rdf:Description rdf:about=""
+            xmlns:pdf="http://ns.adobe.com/pdf/1.3/">
+         <pdf:Producer>Adobe PDF Library 8.0</pdf:Producer>
+      </rdf:Description>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?>
+endstreamendobj2 0 obj<</Count 1/Type/Pages/Kids[23 0 R]>>endobj29 0 obj<</K 30 0 R/ParentTree 32 0 R/ParentTreeNextKey 1/Type/StructTreeRoot>>endobj30 0 obj<</K[31 0 R 34 0 R 35 0 R]/P 29 0 R/S 0>>endobj32 0 obj<</Nums[0 33 0 R]>>endobj33 0 obj[31 0 R 34 0 R 35 0 R 36 0 R 37 0 R 38 0 R 47 0 R 48 0 R 49 0 R 50 0 R 51 0 R 56 0 R 57 0 R 60 0 R 61 0 R 63 0 R 64 0 R 66 0 R 67 0 R 69 0 R 70 0 R 71 0 R 74 0 R 75 0 R 77 0 R 78 0 R 79 0 R 82 0 R 83 0 R 85 0 R 86 0 R 88 0 R 89 0 R 91 0 R 92 0 R 95 0 R 96 0 R 98 0 R 99 0 R 101 0 R 102 0 R 103 0 R 107 0 R 108 0 R 111 0 R 112 0 R 115 0 R 116 0 R 118 0 R 119 0 R 121 0 R 122 0 R 125 0 R 126 0 R 129 0 R 130 0 R 132 0 R 133 0 R 136 0 R 137 0 R 139 0 R 140 0 R 142 0 R 143 0 R 144 0 R 149 0 R 150 0 R 151 0 R 156 0 R 157 0 R 159 0 R 160 0 R 161 0 R 166 0 R 167 0 R 168 0 R 173 0 R 174 0 R 176 0 R 177 0 R 178 0 R 182 0 R 183 0 R 185 0 R 186 0 R 188 0 R 189 0 R 191 0 R 192 0 R 194 0 R 195 0 R 197 0 R 198 0 R 201 0 R 202 0 R 204 0 R 205 0 R 206 0 R 211 0 R 212 0 R 214 0 R 215 0 R 218 0 R 219 0 R 221 0 R 222 0 R 225 0 R 226 0 R 227 0 R 232 0 R 233 0 R 235 0 R 236 0 R 238 0 R 239 0 R 242 0 R 243 0 R 245 0 R 246 0 R 248 0 R 249 0 R 250 0 R 255 0 R 256 0 R 259 0 R 260 0 R 262 0 R 263 0 R 264 0 R 269 0 R 270 0 R 272 0 R 273 0 R 276 0 R 277 0 R 278 0 R 283 0 R 284 0 R 287 0 R 288 0 R 290 0 R 291 0 R 293 0 R 294 0 R 295 0 R 299 0 R 300 0 R 302 0 R 303 0 R 305 0 R 306 0 R 308 0 R 309 0 R 310 0 R 311 0 R 313 0 R 314 0 R 316 0 R 317 0 R 320 0 R 321 0 R 323 0 R 324 0 R 326 0 R 327 0 R 330 0 R 331 0 R 332 0 R 337 0 R 338 0 R 340 0 R 341 0 R 342 0 R 347 0 R 348 0 R 350 0 R 351 0 R 353 0 R 354 0 R 356 0 R 357 0 R 359 0 R 360 0 R 362 0 R 363 0 R 365 0 R 366 0 R 368 0 R 369 0 R 372 0 R 373 0 R 376 0 R 377 0 R 379 0 R 380 0 R 382 0 R 383 0 R 385 0 R 386 0 R 388 0 R 389 0 R 391 0 R 392 0 R 394 0 R 395 0 R 397 0 R 398 0 R 400 0 R 401 0 R 403 0 R 404 0 R 406 0 R 407 0 R 409 0 R 410 0 R 412 0 R 413 0 R 415 0 R 416 0 R 418 0 R 419 0 R 420 0 R 425 0 R 426 0 R 428 0 R 429 0 R 431 0 R 432 0 R 435 0 R 436 0 R 438 0 R 439 0 R 441 0 R 442 0 R 444 0 R 445 0 R 447 0 R 448 0 R 450 0 R 451 0 R 453 0 R 454 0 R 456 0 R 457 0 R 459 0 R 460 0 R 462 0 R 463 0 R 466 0 R 467 0 R 470 0 R 471 0 R 473 0 R 474 0 R 476 0 R 477 0 R 480 0 R 481 0 R 483 0 R 484 0 R 486 0 R 487 0 R 489 0 R 490 0 R 493 0 R 494 0 R 496 0 R 497 0 R 500 0 R 501 0 R 503 0 R 504 0 R 506 0 R 507 0 R 509 0 R 510 0 R 512 0 R 513 0 R 515 0 R 516 0 R 518 0 R 519 0 R 521 0 R 522 0 R 524 0 R 525 0 R 527 0 R 528 0 R 530 0 R 531 0 R 533 0 R 534 0 R 536 0 R 537 0 R 539 0 R 540 0 R 542 0 R 543 0 R 546 0 R 547 0 R 550 0 R 551 0 R 553 0 R 554 0 R 556 0 R 557 0 R 559 0 R 560 0 R 562 0 R 563 0 R 564 0 R 569 0 R 570 0 R 572 0 R 573 0 R 574 0 R 579 0 R 580 0 R 582 0 R 583 0 R 585 0 R 586 0 R 588 0 R 589 0 R 591 0 R 592 0 R 593 0 R 594 0 R 596 0 R 597 0 R 599 0 R 600 0 R 602 0 R 603 0 R 604 0 R 605 0 R 608 0 R 609 0 R 610 0 R 613 0 R 614 0 R 616 0 R 617 0 R 619 0 R 620 0 R 622 0 R 623 0 R 625 0 R 626 0 R 628 0 R 629 0 R 631 0 R 632 0 R 634 0 R 635 0 R 637 0 R 638 0 R 640 0 R 641 0 R 643 0 R 644 0 R 646 0 R 647 0 R 649 0 R 650 0 R 651 0 R 656 0 R 657 0 R 659 0 R 660 0 R 662 0 R 663 0 R 665 0 R 666 0 R 668 0 R 669 0 R 671 0 R 672 0 R 674 0 R 675 0 R 679 0 R 680 0 R 682 0 R 683 0 R 685 0 R 686 0 R 688 0 R 689 0 R 691 0 R 692 0 R 694 0 R 695 0 R 697 0 R 698 0 R 700 0 R 701 0 R 703 0 R 704 0 R 706 0 R 707 0 R 709 0 R 710 0 R 712 0 R 713 0 R 715 0 R 716 0 R 718 0 R 719 0 R 721 0 R 722 0 R 723 0 R 724 0 R 726 0 R 727 0 R 729 0 R 730 0 R 732 0 R 733 0 R 735 0 R 736 0 R 738 0 R 739 0 R 741 0 R 742 0 R 744 0 R 745 0 R 747 0 R 748 0 R 749 0 R 752 0 R 753 0 R 754 0 R 759 0 R 760 0 R]endobj31 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K[0 748 0 R 650 0 R 277 0 R 563 0 R 50 0 R 205 0 R 177 0 R 167 0 R 341 0 R 160 0 R 37 0 R 150 0 R 294 0 R 753 0 R 78 0 R 70 0 R 263 0 R 226 0 R 249 0 R 102 0 R 331 0 R 143 0 R 419 0 R 609 0 R 573 0 R]/P 30 0 R/S/Package/Pg 23 0 R>>endobj34 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K[1 130 0 R 195 0 R 67 0 R 219 0 R 116 0 R 140 0 R 392 0 R 48 0 R 57 0 R 543 0 R 477 0 R 463 0 R 366 0 R 348 0 R 481 0 R 487 0 R 494 0 R 363 0 R 686 0 R 689 0 R 692 0 R 695 0 R 698 0 R 727 0 R 716 0 R 719 0 R 722 0 R 724 0 R 707 0 R 710 0 R 713 0 R 701 0 R 288 0 R 306 0 R 300 0 R 246 0 R 202 0 R 83 0 R 86 0 R 89 0 R 96 0 R 192 0 R 119 0 R 324 0 R 236 0 R 540 0 R 531 0 R 745 0 R 736 0 R 410 0 R 416 0 R 404 0 R 398 0 R 528 0 R 525 0 R 303 0 R 309 0 R 603 0 R 270 0 R 314 0 R 380 0 R 451 0 R 454 0 R 560 0 R 589 0 R 592 0 R 597 0 R 594 0 R 647 0 R 448 0 R 557 0 R 644 0 R 641 0 R 623 0 R 620 0 R 586 0 R 554 0 R 291 0 R 311 0 R 460 0 R 484 0 R 99 0 R 357 0 R 354 0 R 338 0 R 516 0 R 534 0 R 522 0 R 501 0 R 474 0 R 510 0 R 389 0 R 471 0 R 507 0 R 504 0 R 513 0 R 439 0 R 429 0 R 239 0 R 432 0 R 327 0 R 243 0 R 317 0 R 467 0 R 490 0 R 547 0 R 497 0 R 519 0 R 537 0 R 174 0 R 75 0 R 64 0 R 126 0 R]/P 30 0 R/S/Net/Pg 23 0 R>>endobj35 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 2/P 30 0 R/S/Test#20Point/Pg 23 0 R>>endobj36 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 3/P 38 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj37 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K[4 680 0 R 61 0 R 38 0 R 669 0 R]/P 31 0 R/S/MH2_5MM/Pg 23 0 R>>endobj38 0 obj<</A[<</O/UserProperties/P[<</F()/N()>>]>><</O/UserProperties/P[<</F(IC)/N 39 0 R>>]>><</O/UserProperties/P[<</F 40 0 R/N(Device)>>]>><</O/UserProperties/P[<</F 42 0 R/N 41 0 R>>]>><</O/UserProperties/P[<</F(12.7000)/N(Height)>>]>><</O/UserProperties/P[<</F 43 0 R/N(Location)>>]>><</O/UserProperties/P[<</F 40 0 R/N 44 0 R>>]>><</O/UserProperties/P[<</F(H3)/N 45 0 R>>]>><</O/UserProperties/P[<</F(MH2_5MM)/N 46 0 R>>]>><</O/UserProperties/P[<</F(MH)/N(Value)>>]>>]/K[5 36 0 R]/P 37 0 R/S/H3/Pg 23 0 R>>endobj47 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 6/P 48 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj48 0 obj<</A<</O/UserProperties/P[<</F(DUMMY)/N(Net)>>]>>/K[7 47 0 R]/P 34 0 R/S/DUMMY/Pg 23 0 R>>endobj49 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 8/P 51 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj50 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K[9 51 0 R]/P 31 0 R/S/GCT_USB4105-GF-A/Pg 23 0 R>>endobj51 0 obj<</A[<</O/UserProperties/P[<</F()/N()>>]>><</O/UserProperties/P[<</F(IC)/N 39 0 R>>]>><</O/UserProperties/P[<</F 52 0 R/N(Device)>>]>><</O/UserProperties/P[<</F 42 0 R/N 41 0 R>>]>><</O/UserProperties/P[<</F(12.7000)/N(Height)>>]>><</O/UserProperties/P[<</F 53 0 R/N(Location)>>]>><</O/UserProperties/P[<</F 52 0 R/N 44 0 R>>]>><</O/UserProperties/P[<</F(J5)/N 45 0 R>>]>><</O/UserProperties/P[<</F 54 0 R/N 46 0 R>>]>><</O/UserProperties/P[<</F 55 0 R/N(Value)>>]>>]/K[10 49 0 R]/P 50 0 R/S/J5/Pg 23 0 R>>endobj56 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 11/P 57 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj57 0 obj<</A[<</O/UserProperties/P[<</F(GND)/N(Net)>>]>><</O/UserProperties/P[<</F 59 0 R/N 58 0 R>>]>>]/K[12 56 0 R]/P 34 0 R/S/GND/Pg 23 0 R>>endobj60 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 13/P 61 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj61 0 obj<</A[<</O/UserProperties/P[<</F()/N()>>]>><</O/UserProperties/P[<</F(IC)/N 39 0 R>>]>><</O/UserProperties/P[<</F 40 0 R/N(Device)>>]>><</O/UserProperties/P[<</F 42 0 R/N 41 0 R>>]>><</O/UserProperties/P[<</F(12.7000)/N(Height)>>]>><</O/UserProperties/P[<</F 62 0 R/N(Location)>>]>><</O/UserProperties/P[<</F 40 0 R/N 44 0 R>>]>><</O/UserProperties/P[<</F(H2)/N 45 0 R>>]>><</O/UserProperties/P[<</F(MH2_5MM)/N 46 0 R>>]>><</O/UserProperties/P[<</F(MH)/N(Value)>>]>>]/K[14 60 0 R]/P 37 0 R/S/H2/Pg 23 0 R>>endobj63 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 15/P 64 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj64 0 obj<</A[<</O/UserProperties/P[<</F(USB_D_P)/N(Net)>>]>><</O/UserProperties/P[<</F 65 0 R/N 58 0 R>>]>>]/K[16 63 0 R]/P 34 0 R/S/USB_D_P/Pg 23 0 R>>endobj66 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 17/P 67 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj67 0 obj<</A[<</O/UserProperties/P[<</F(+VBUS)/N(Net)>>]>><</O/UserProperties/P[<</F 68 0 R/N 58 0 R>>]>>]/K[18 66 0 R]/P 34 0 R/S/+VBUS/Pg 23 0 R>>endobj69 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 19/P 71 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj70 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K[20 71 0 R 260 0 R 273 0 R 157 0 R 583 0 R 551 0 R]/P 31 0 R/S/SMD_0603/Pg 23 0 R>>endobj71 0 obj<</A[<</O/UserProperties/P[<</F()/N()>>]>><</O/UserProperties/P[<</F(IC)/N 39 0 R>>]>><</O/UserProperties/P[<</F 72 0 R/N(Device)>>]>><</O/UserProperties/P[<</F 42 0 R/N 41 0 R>>]>><</O/UserProperties/P[<</F(12.7000)/N(Height)>>]>><</O/UserProperties/P[<</F 73 0 R/N(Location)>>]>><</O/UserProperties/P[<</F 72 0 R/N 44 0 R>>]>><</O/UserProperties/P[<</F(C15)/N 45 0 R>>]>><</O/UserProperties/P[<</F(SMD_0603)/N 46 0 R>>]>><</O/UserProperties/P[<</F(4.7uF)/N(Value)>>]>>]/K[21 69 0 R]/P 70 0 R/S/C15/Pg 23 0 R>>endobj74 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 22/P 75 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj75 0 obj<</A[<</O/UserProperties/P[<</F(USB_D_N)/N(Net)>>]>><</O/UserProperties/P[<</F 76 0 R/N 58 0 R>>]>>]/K[23 74 0 R]/P 34 0 R/S/USB_D_N/Pg 23 0 R>>endobj77 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 24/P 79 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj78 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K[25 570 0 R 457 0 R 605 0 R 614 0 R 222 0 R 635 0 R 638 0 R 672 0 R 215 0 R 108 0 R 580 0 R 442 0 R 742 0 R 733 0 R 739 0 R 730 0 R 436 0 R 426 0 R 413 0 R 401 0 R 395 0 R 407 0 R 256 0 R 233 0 R 321 0 R 133 0 R 183 0 R 360 0 R 284 0 R 369 0 R 600 0 R 663 0 R 198 0 R 666 0 R 660 0 R 386 0 R 383 0 R 632 0 R 626 0 R 373 0 R 445 0 R 377 0 R 189 0 R 212 0 R 112 0 R 137 0 R 122 0 R 92 0 R 79 0 R]/P 31 0 R/S/SMD_0402/Pg 23 0 R>>endobj79 0 obj<</A[<</O/UserProperties/P[<</F()/N()>>]>><</O/UserProperties/P[<</F(IC)/N 39 0 R>>]>><</O/UserProperties/P[<</F 80 0 R/N(Device)>>]>><</O/UserProperties/P[<</F 42 0 R/N 41 0 R>>]>><</O/UserProperties/P[<</F(12.7000)/N(Height)>>]>><</O/UserProperties/P[<</F 81 0 R/N(Location)>>]>><</O/UserProperties/P[<</F 80 0 R/N 44 0 R>>]>><</O/UserProperties/P[<</F(R9)/N 45 0 R>>]>><</O/UserProperties/P[<</F(SMD_0402)/N 46 0 R>>]>><</O/UserProperties/P[<</F(4K7)/N(Value)>>]>>]/K[26 77 0 R]/P 78 0 R/S/R9/Pg 23 0 R>>endobj82 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 27/P 83 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj83 0 obj<</A[<</O/UserProperties/P[<</F(N2984777)/N(Net)>>]>><</O/UserProperties/P[<</F 84 0 R/N 58 0 R>>]>>]/K[28 82 0 R]/P 34 0 R/S/N2984777/Pg 23 0 R>>endobj85 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 29/P 86 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj86 0 obj<</A[<</O/UserProperties/P[<</F(N2984894)/N(Net)>>]>><</O/UserProperties/P[<</F 87 0 R/N 58 0 R>>]>>]/K[30 85 0 R]/P 34 0 R/S/N2984894/Pg 23 0 R>>endobj88 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 31/P 89 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj89 0 obj<</A[<</O/UserProperties/P[<</F(N2985185)/N(Net)>>]>><</O/UserProperties/P[<</F 90 0 R/N 58 0 R>>]>>]/K[32 88 0 R]/P 34 0 R/S/N2985185/Pg 23 0 R>>endobj91 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 33/P 92 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj92 0 obj<</A[<</O/UserProperties/P[<</F()/N()>>]>><</O/UserProperties/P[<</F(IC)/N 39 0 R>>]>><</O/UserProperties/P[<</F 93 0 R/N(Device)>>]>><</O/UserProperties/P[<</F 42 0 R/N 41 0 R>>]>><</O/UserProperties/P[<</F(12.7000)/N(Height)>>]>><</O/UserProperties/P[<</F 94 0 R/N(Location)>>]>><</O/UserProperties/P[<</F 93 0 R/N 44 0 R>>]>><</O/UserProperties/P[<</F(R8)/N 45 0 R>>]>><</O/UserProperties/P[<</F(SMD_0402)/N 46 0 R>>]>><</O/UserProperties/P[<</F(1K5)/N(Value)>>]>>]/K[34 91 0 R]/P 78 0 R/S/R8/Pg 23 0 R>>endobj95 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 35/P 96 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj96 0 obj<</A[<</O/UserProperties/P[<</F(N2985197)/N(Net)>>]>><</O/UserProperties/P[<</F 97 0 R/N 58 0 R>>]>>]/K[36 95 0 R]/P 34 0 R/S/N2985197/Pg 23 0 R>>endobj98 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 37/P 99 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj99 0 obj<</A[<</O/UserProperties/P[<</F(PG)/N(Net)>>]>><</O/UserProperties/P[<</F 100 0 R/N 58 0 R>>]>>]/K[38 98 0 R]/P 34 0 R/S/PG/Pg 23 0 R>>endobj101 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 39/P 103 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj102 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K[40 103 0 R]/P 31 0 R/S/SOT65P210X110-3N/Pg 23 0 R>>endobj103 0 obj<</A[<</O/UserProperties/P[<</F()/N()>>]>><</O/UserProperties/P[<</F(IC)/N 39 0 R>>]>><</O/UserProperties/P[<</F 104 0 R/N(Device)>>]>><</O/UserProperties/P[<</F 42 0 R/N 41 0 R>>]>><</O/UserProperties/P[<</F(12.7000)/N(Height)>>]>><</O/UserProperties/P[<</F 105 0 R/N(Location)>>]>><</O/UserProperties/P[<</F 104 0 R/N 44 0 R>>]>><</O/UserProperties/P[<</F(Q2)/N 45 0 R>>]>><</O/UserProperties/P[<</F 106 0 R/N 46 0 R>>]>><</O/UserProperties/P[<</F(2N7002KW)/N(Value)>>]>>]/K[41 101 0 R]/P 102 0 R/S/Q2/Pg 23 0 R>>endobj107 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 42/P 108 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj108 0 obj<</A[<</O/UserProperties/P[<</F()/N()>>]>><</O/UserProperties/P[<</F(IC)/N 39 0 R>>]>><</O/UserProperties/P[<</F 109 0 R/N(Device)>>]>><</O/UserProperties/P[<</F 42 0 R/N 41 0 R>>]>><</O/UserProperties/P[<</F(12.7000)/N(Height)>>]>><</O/UserProperties/P[<</F 110 0 R/N(Location)>>]>><</O/UserProperties/P[<</F 109 0 R/N 44 0 R>>]>><</O/UserProperties/P[<</F(C5)/N 45 0 R>>]>><</O/UserProperties/P[<</F(SMD_0402)/N 46 0 R>>]>><</O/UserProperties/P[<</F(1uF)/N(Value)>>]>>]/K[43 107 0 R]/P 78 0 R/S/C5/Pg 23 0 R>>endobj111 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 44/P 112 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj112 0 obj<</A[<</O/UserProperties/P[<</F()/N()>>]>><</O/UserProperties/P[<</F(IC)/N 39 0 R>>]>><</O/UserProperties/P[<</F 113 0 R/N(Device)>>]>><</O/UserProperties/P[<</F 42 0 R/N 41 0 R>>]>><</O/UserProperties/P[<</F(12.7000)/N(Height)>>]>><</O/UserProperties/P[<</F 114 0 R/N(Location)>>]>><</O/UserProperties/P[<</F 113 0 R/N 44 0 R>>]>><</O/UserProperties/P[<</F(R5)/N 45 0 R>>]>><</O/UserProperties/P[<</F(SMD_0402)/N 46 0 R>>]>><</O/UserProperties/P[<</F(200K)/N(Value)>>]>>]/K[45 111 0 R]/P 78 0 R/S/R5/Pg 23 0 R>>endobj115 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 46/P 116 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj116 0 obj<</A[<</O/UserProperties/P[<</F(ADC0)/N(Net)>>]>><</O/UserProperties/P[<</F 117 0 R/N 58 0 R>>]>>]/K[47 115 0 R]/P 34 0 R/S/ADC0/Pg 23 0 R>>endobj118 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 48/P 119 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj119 0 obj<</A[<</O/UserProperties/P[<</F(N2985636)/N(Net)>>]>><</O/UserProperties/P[<</F 120 0 R/N 58 0 R>>]>>]/K[49 118 0 R]/P 34 0 R/S/N2985636/Pg 23 0 R>>endobj121 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 50/P 122 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj122 0 obj<</A[<</O/UserProperties/P[<</F()/N()>>]>><</O/UserProperties/P[<</F(IC)/N 39 0 R>>]>><</O/UserProperties/P[<</F 123 0 R/N(Device)>>]>><</O/UserProperties/P[<</F 42 0 R/N 41 0 R>>]>><</O/UserProperties/P[<</F(12.7000)/N(Height)>>]>><</O/UserProperties/P[<</F 124 0 R/N(Location)>>]>><</O/UserProperties/P[<</F 123 0 R/N 44 0 R>>]>><</O/UserProperties/P[<</F(R7)/N 45 0 R>>]>><</O/UserProperties/P[<</F(SMD_0402)/N 46 0 R>>]>><</O/UserProperties/P[<</F(100K)/N(Value)>>]>>]/K[51 121 0 R]/P 78 0 R/S/R7/Pg 23 0 R>>endobj125 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 52/P 126 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj126 0 obj<</A[<</O/UserProperties/P[<</F 127 0 R/N(Net)>>]>><</O/UserProperties/P[<</F 128 0 R/N 58 0 R>>]>>]/K[53 125 0 R]/P 34 0 R/S/USR_BUTTON/Pg 23 0 R>>endobj129 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 54/P 130 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj130 0 obj<</A[<</O/UserProperties/P[<</F(+3V3)/N(Net)>>]>><</O/UserProperties/P[<</F 131 0 R/N 58 0 R>>]>>]/K[55 129 0 R]/P 34 0 R/S/+3V3/Pg 23 0 R>>endobj132 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 56/P 133 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj133 0 obj<</A[<</O/UserProperties/P[<</F()/N()>>]>><</O/UserProperties/P[<</F(IC)/N 39 0 R>>]>><</O/UserProperties/P[<</F 134 0 R/N(Device)>>]>><</O/UserProperties/P[<</F 42 0 R/N 41 0 R>>]>><</O/UserProperties/P[<</F(12.7000)/N(Height)>>]>><</O/UserProperties/P[<</F 135 0 R/N(Location)>>]>><</O/UserProperties/P[<</F 134 0 R/N 44 0 R>>]>><</O/UserProperties/P[<</F(R22)/N 45 0 R>>]>><</O/UserProperties/P[<</F(SMD_0402)/N 46 0 R>>]>><</O/UserProperties/P[<</F(10K)/N(Value)>>]>>]/K[57 132 0 R]/P 78 0 R/S/R22/Pg 23 0 R>>endobj136 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 58/P 137 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj137 0 obj<</A[<</O/UserProperties/P[<</F()/N()>>]>><</O/UserProperties/P[<</F(IC)/N 39 0 R>>]>><</O/UserProperties/P[<</F 134 0 R/N(Device)>>]>><</O/UserProperties/P[<</F 42 0 R/N 41 0 R>>]>><</O/UserProperties/P[<</F(12.7000)/N(Height)>>]>><</O/UserProperties/P[<</F 138 0 R/N(Location)>>]>><</O/UserProperties/P[<</F 134 0 R/N 44 0 R>>]>><</O/UserProperties/P[<</F(R6)/N 45 0 R>>]>><</O/UserProperties/P[<</F(SMD_0402)/N 46 0 R>>]>><</O/UserProperties/P[<</F(10K)/N(Value)>>]>>]/K[59 136 0 R]/P 78 0 R/S/R6/Pg 23 0 R>>endobj139 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 60/P 140 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj140 0 obj<</A[<</O/UserProperties/P[<</F(ADC0_EN)/N(Net)>>]>><</O/UserProperties/P[<</F 141 0 R/N 58 0 R>>]>>]/K[61 139 0 R]/P 34 0 R/S/ADC0_EN/Pg 23 0 R>>endobj142 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 62/P 144 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj143 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K[63 144 0 R 657 0 R 629 0 R]/P 31 0 R/S/TPD2EUSB_SOTFL35P100X50-3N/Pg 23 0 R>>endobj144 0 obj<</A[<</O/UserProperties/P[<</F()/N()>>]>><</O/UserProperties/P[<</F(IC)/N 39 0 R>>]>><</O/UserProperties/P[<</F 145 0 R/N(Device)>>]>><</O/UserProperties/P[<</F 42 0 R/N 41 0 R>>]>><</O/UserProperties/P[<</F(12.7000)/N(Height)>>]>><</O/UserProperties/P[<</F 146 0 R/N(Location)>>]>><</O/UserProperties/P[<</F 145 0 R/N 44 0 R>>]>><</O/UserProperties/P[<</F(D2)/N 45 0 R>>]>><</O/UserProperties/P[<</F 147 0 R/N 46 0 R>>]>><</O/UserProperties/P[<</F 148 0 R/N(Value)>>]>>]/K[64 142 0 R]/P 143 0 R/S/D2/Pg 23 0 R>>endobj149 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 65/P 151 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj150 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K[66 151 0 R]/P 31 0 R/S/NX3008CBKV_SOTFL50P160X60-6N/Pg 23 0 R>>endobj151 0 obj<</A[<</O/UserProperties/P[<</F()/N()>>]>><</O/UserProperties/P[<</F(IC)/N 39 0 R>>]>><</O/UserProperties/P[<</F 152 0 R/N(Device)>>]>><</O/UserProperties/P[<</F 42 0 R/N 41 0 R>>]>><</O/UserProperties/P[<</F(12.7000)/N(Height)>>]>><</O/UserProperties/P[<</F 153 0 R/N(Location)>>]>><</O/UserProperties/P[<</F 152 0 R/N 44 0 R>>]>><</O/UserProperties/P[<</F(Q1)/N 45 0 R>>]>><</O/UserProperties/P[<</F 154 0 R/N 46 0 R>>]>><</O/UserProperties/P[<</F 155 0 R/N(Value)>>]>>]/K[67 149 0 R]/P 150 0 R/S/Q1/Pg 23 0 R>>endobj156 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 68/P 157 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj157 0 obj<</A[<</O/UserProperties/P[<</F()/N()>>]>><</O/UserProperties/P[<</F(IC)/N 39 0 R>>]>><</O/UserProperties/P[<</F 72 0 R/N(Device)>>]>><</O/UserProperties/P[<</F 42 0 R/N 41 0 R>>]>><</O/UserProperties/P[<</F(12.7000)/N(Height)>>]>><</O/UserProperties/P[<</F 158 0 R/N(Location)>>]>><</O/UserProperties/P[<</F 72 0 R/N 44 0 R>>]>><</O/UserProperties/P[<</F(C4)/N 45 0 R>>]>><</O/UserProperties/P[<</F(SMD_0603)/N 46 0 R>>]>><</O/UserProperties/P[<</F(4.7uF)/N(Value)>>]>>]/K[69 156 0 R]/P 70 0 R/S/C4/Pg 23 0 R>>endobj159 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 70/P 161 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj160 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K[71 161 0 R]/P 31 0 R/S/MCP73831T_SOT95P270X145-5N/Pg 23 0 R>>endobj161 0 obj<</A[<</O/UserProperties/P[<</F()/N()>>]>><</O/UserProperties/P[<</F(IC)/N 39 0 R>>]>><</O/UserProperties/P[<</F 162 0 R/N(Device)>>]>><</O/UserProperties/P[<</F 42 0 R/N 41 0 R>>]>><</O/UserProperties/P[<</F(12.7000)/N(Height)>>]>><</O/UserProperties/P[<</F 163 0 R/N(Location)>>]>><</O/UserProperties/P[<</F 162 0 R/N 44 0 R>>]>><</O/UserProperties/P[<</F(IC2)/N 45 0 R>>]>><</O/UserProperties/P[<</F 164 0 R/N 46 0 R>>]>><</O/UserProperties/P[<</F 165 0 R/N(Value)>>]>>]/K[72 159 0 R]/P 160 0 R/S/IC2/Pg 23 0 R>>endobj166 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 73/P 168 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj167 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K[74 168 0 R]/P 31 0 R/S/LEDC1608X85N/Pg 23 0 R>>endobj168 0 obj<</A[<</O/UserProperties/P[<</F()/N()>>]>><</O/UserProperties/P[<</F(IC)/N 39 0 R>>]>><</O/UserProperties/P[<</F 169 0 R/N(Device)>>]>><</O/UserProperties/P[<</F 42 0 R/N 41 0 R>>]>><</O/UserProperties/P[<</F(12.7000)/N(Height)>>]>><</O/UserProperties/P[<</F 170 0 R/N(Location)>>]>><</O/UserProperties/P[<</F 169 0 R/N 44 0 R>>]>><</O/UserProperties/P[<</F(LED1)/N 45 0 R>>]>><</O/UserProperties/P[<</F 171 0 R/N 46 0 R>>]>><</O/UserProperties/P[<</F 172 0 R/N(Value)>>]>>]/K[75 166 0 R]/P 167 0 R/S/LED1/Pg 23 0 R>>endobj173 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 76/P 174 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj174 0 obj<</A[<</O/UserProperties/P[<</F(SYS_RST)/N(Net)>>]>><</O/UserProperties/P[<</F 175 0 R/N 58 0 R>>]>>]/K[77 173 0 R]/P 34 0 R/S/SYS_RST/Pg 23 0 R>>endobj176 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 78/P 178 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj177 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K[79 186 0 R 178 0 R]/P 31 0 R/S/KMR2_1/Pg 23 0 R>>endobj178 0 obj<</A[<</O/UserProperties/P[<</F()/N()>>]>><</O/UserProperties/P[<</F(IC)/N 39 0 R>>]>><</O/UserProperties/P[<</F 179 0 R/N(Device)>>]>><</O/UserProperties/P[<</F 42 0 R/N 41 0 R>>]>><</O/UserProperties/P[<</F(12.7000)/N(Height)>>]>><</O/UserProperties/P[<</F 180 0 R/N(Location)>>]>><</O/UserProperties/P[<</F 179 0 R/N 44 0 R>>]>><</O/UserProperties/P[<</F(S2)/N 45 0 R>>]>><</O/UserProperties/P[<</F(KMR2_1)/N 46 0 R>>]>><</O/UserProperties/P[<</F 181 0 R/N(Value)>>]>>]/K[80 176 0 R]/P 177 0 R/S/S2/Pg 23 0 R>>endobj182 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 81/P 183 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj183 0 obj<</A[<</O/UserProperties/P[<</F()/N()>>]>><</O/UserProperties/P[<</F(IC)/N 39 0 R>>]>><</O/UserProperties/P[<</F 134 0 R/N(Device)>>]>><</O/UserProperties/P[<</F 42 0 R/N 41 0 R>>]>><</O/UserProperties/P[<</F(12.7000)/N(Height)>>]>><</O/UserProperties/P[<</F 184 0 R/N(Location)>>]>><</O/UserProperties/P[<</F 134 0 R/N 44 0 R>>]>><</O/UserProperties/P[<</F(R23)/N 45 0 R>>]>><</O/UserProperties/P[<</F(SMD_0402)/N 46 0 R>>]>><</O/UserProperties/P[<</F(10K)/N(Value)>>]>>]/K[82 182 0 R]/P 78 0 R/S/R23/Pg 23 0 R>>endobj185 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 83/P 186 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj186 0 obj<</A[<</O/UserProperties/P[<</F()/N()>>]>><</O/UserProperties/P[<</F(IC)/N 39 0 R>>]>><</O/UserProperties/P[<</F 179 0 R/N(Device)>>]>><</O/UserProperties/P[<</F 42 0 R/N 41 0 R>>]>><</O/UserProperties/P[<</F(12.7000)/N(Height)>>]>><</O/UserProperties/P[<</F 187 0 R/N(Location)>>]>><</O/UserProperties/P[<</F 179 0 R/N 44 0 R>>]>><</O/UserProperties/P[<</F(S1)/N 45 0 R>>]>><</O/UserProperties/P[<</F(KMR2_1)/N 46 0 R>>]>><</O/UserProperties/P[<</F 181 0 R/N(Value)>>]>>]/K[84 185 0 R]/P 177 0 R/S/S1/Pg 23 0 R>>endobj188 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 85/P 189 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj189 0 obj<</A[<</O/UserProperties/P[<</F()/N()>>]>><</O/UserProperties/P[<</F(IC)/N 39 0 R>>]>><</O/UserProperties/P[<</F 123 0 R/N(Device)>>]>><</O/UserProperties/P[<</F 42 0 R/N 41 0 R>>]>><</O/UserProperties/P[<</F(12.7000)/N(Height)>>]>><</O/UserProperties/P[<</F 190 0 R/N(Location)>>]>><</O/UserProperties/P[<</F 123 0 R/N 44 0 R>>]>><</O/UserProperties/P[<</F(R3)/N 45 0 R>>]>><</O/UserProperties/P[<</F(SMD_0402)/N 46 0 R>>]>><</O/UserProperties/P[<</F(100K)/N(Value)>>]>>]/K[86 188 0 R]/P 78 0 R/S/R3/Pg 23 0 R>>endobj191 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 87/P 192 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj192 0 obj<</A[<</O/UserProperties/P[<</F(N2985457)/N(Net)>>]>><</O/UserProperties/P[<</F 193 0 R/N 58 0 R>>]>>]/K[88 191 0 R]/P 34 0 R/S/N2985457/Pg 23 0 R>>endobj194 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 89/P 195 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj195 0 obj<</A[<</O/UserProperties/P[<</F(+VBAT)/N(Net)>>]>><</O/UserProperties/P[<</F 196 0 R/N 58 0 R>>]>>]/K[90 194 0 R]/P 34 0 R/S/+VBAT/Pg 23 0 R>>endobj197 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 91/P 198 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj198 0 obj<</A[<</O/UserProperties/P[<</F()/N()>>]>><</O/UserProperties/P[<</F(IC)/N 39 0 R>>]>><</O/UserProperties/P[<</F 199 0 R/N(Device)>>]>><</O/UserProperties/P[<</F 42 0 R/N 41 0 R>>]>><</O/UserProperties/P[<</F(12.7000)/N(Height)>>]>><</O/UserProperties/P[<</F 200 0 R/N(Location)>>]>><</O/UserProperties/P[<</F 199 0 R/N 44 0 R>>]>><</O/UserProperties/P[<</F(R2)/N 45 0 R>>]>><</O/UserProperties/P[<</F(SMD_0402)/N 46 0 R>>]>><</O/UserProperties/P[<</F(453K)/N(Value)>>]>>]/K[92 197 0 R]/P 78 0 R/S/R2/Pg 23 0 R>>endobj201 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 93/P 202 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj202 0 obj<</A[<</O/UserProperties/P[<</F(N2984508)/N(Net)>>]>><</O/UserProperties/P[<</F 203 0 R/N 58 0 R>>]>>]/K[94 201 0 R]/P 34 0 R/S/N2984508/Pg 23 0 R>>endobj204 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 95/P 206 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj205 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K[96 206 0 R]/P 31 0 R/S/JST_S2B-PH-SM4-TBLFSN/Pg 23 0 R>>endobj206 0 obj<</A[<</O/UserProperties/P[<</F()/N()>>]>><</O/UserProperties/P[<</F(IC)/N 39 0 R>>]>><</O/UserProperties/P[<</F 207 0 R/N(Device)>>]>><</O/UserProperties/P[<</F 42 0 R/N 41 0 R>>]>><</O/UserProperties/P[<</F(12.7000)/N(Height)>>]>><</O/UserProperties/P[<</F 208 0 R/N(Location)>>]>><</O/UserProperties/P[<</F 207 0 R/N 44 0 R>>]>><</O/UserProperties/P[<</F(J1)/N 45 0 R>>]>><</O/UserProperties/P[<</F 209 0 R/N 46 0 R>>]>><</O/UserProperties/P[<</F 210 0 R/N(Value)>>]>>]/K[97 204 0 R]/P 205 0 R/S/J1/Pg 23 0 R>>endobj211 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 98/P 212 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj212 0 obj<</A[<</O/UserProperties/P[<</F()/N()>>]>><</O/UserProperties/P[<</F(IC)/N 39 0 R>>]>><</O/UserProperties/P[<</F 123 0 R/N(Device)>>]>><</O/UserProperties/P[<</F 42 0 R/N 41 0 R>>]>><</O/UserProperties/P[<</F(12.7000)/N(Height)>>]>><</O/UserProperties/P[<</F 213 0 R/N(Location)>>]>><</O/UserProperties/P[<</F 123 0 R/N 44 0 R>>]>><</O/UserProperties/P[<</F(R4)/N 45 0 R>>]>><</O/UserProperties/P[<</F(SMD_0402)/N 46 0 R>>]>><</O/UserProperties/P[<</F(100K)/N(Value)>>]>>]/K[99 211 0 R]/P 78 0 R/S/R4/Pg 23 0 R>>endobj214 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 100/P 215 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj215 0 obj<</A[<</O/UserProperties/P[<</F()/N()>>]>><</O/UserProperties/P[<</F(IC)/N 39 0 R>>]>><</O/UserProperties/P[<</F 216 0 R/N(Device)>>]>><</O/UserProperties/P[<</F 42 0 R/N 41 0 R>>]>><</O/UserProperties/P[<</F(12.7000)/N(Height)>>]>><</O/UserProperties/P[<</F 217 0 R/N(Location)>>]>><</O/UserProperties/P[<</F 216 0 R/N 44 0 R>>]>><</O/UserProperties/P[<</F(C2)/N 45 0 R>>]>><</O/UserProperties/P[<</F(SMD_0402)/N 46 0 R>>]>><</O/UserProperties/P[<</F(100pF)/N(Value)>>]>>]/K[101 214 0 R]/P 78 0 R/S/C2/Pg 23 0 R>>endobj218 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 102/P 219 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj219 0 obj<</A[<</O/UserProperties/P[<</F(3V3_EN)/N(Net)>>]>><</O/UserProperties/P[<</F 220 0 R/N 58 0 R>>]>>]/K[103 218 0 R]/P 34 0 R/S/3V3_EN/Pg 23 0 R>>endobj221 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 104/P 222 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj222 0 obj<</A[<</O/UserProperties/P[<</F()/N()>>]>><</O/UserProperties/P[<</F(IC)/N 39 0 R>>]>><</O/UserProperties/P[<</F 223 0 R/N(Device)>>]>><</O/UserProperties/P[<</F 42 0 R/N 41 0 R>>]>><</O/UserProperties/P[<</F(12.7000)/N(Height)>>]>><</O/UserProperties/P[<</F 224 0 R/N(Location)>>]>><</O/UserProperties/P[<</F 223 0 R/N 44 0 R>>]>><</O/UserProperties/P[<</F(C14)/N 45 0 R>>]>><</O/UserProperties/P[<</F(SMD_0402)/N 46 0 R>>]>><</O/UserProperties/P[<</F(0.1uF)/N(Value)>>]>>]/K[105 221 0 R]/P 78 0 R/S/C14/Pg 23 0 R>>endobj225 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 106/P 227 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj226 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K[107 227 0 R]/P 31 0 R/S/SON127P500X600X80-9N-D/Pg 23 0 R>>endobj227 0 obj<</A[<</O/UserProperties/P[<</F()/N()>>]>><</O/UserProperties/P[<</F(IC)/N 39 0 R>>]>><</O/UserProperties/P[<</F 228 0 R/N(Device)>>]>><</O/UserProperties/P[<</F 42 0 R/N 41 0 R>>]>><</O/UserProperties/P[<</F(12.7000)/N(Height)>>]>><</O/UserProperties/P[<</F 229 0 R/N(Location)>>]>><</O/UserProperties/P[<</F 228 0 R/N 44 0 R>>]>><</O/UserProperties/P[<</F(IC3)/N 45 0 R>>]>><</O/UserProperties/P[<</F 230 0 R/N 46 0 R>>]>><</O/UserProperties/P[<</F 231 0 R/N(Value)>>]>>]/K[108 225 0 R]/P 226 0 R/S/IC3/Pg 23 0 R>>endobj232 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 109/P 233 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj233 0 obj<</A[<</O/UserProperties/P[<</F()/N()>>]>><</O/UserProperties/P[<</F(IC)/N 39 0 R>>]>><</O/UserProperties/P[<</F 134 0 R/N(Device)>>]>><</O/UserProperties/P[<</F 42 0 R/N 41 0 R>>]>><</O/UserProperties/P[<</F(12.7000)/N(Height)>>]>><</O/UserProperties/P[<</F 234 0 R/N(Location)>>]>><</O/UserProperties/P[<</F 134 0 R/N 44 0 R>>]>><</O/UserProperties/P[<</F(R20)/N 45 0 R>>]>><</O/UserProperties/P[<</F(SMD_0402)/N 46 0 R>>]>><</O/UserProperties/P[<</F(10K)/N(Value)>>]>>]/K[110 232 0 R]/P 78 0 R/S/R20/Pg 23 0 R>>endobj235 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 111/P 236 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj236 0 obj<</A[<</O/UserProperties/P[<</F(N2988191)/N(Net)>>]>><</O/UserProperties/P[<</F 237 0 R/N 58 0 R>>]>>]/K[112 235 0 R]/P 34 0 R/S/N2988191/Pg 23 0 R>>endobj238 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 113/P 239 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj239 0 obj<</A[<</O/UserProperties/P[<</F 240 0 R/N(Net)>>]>><</O/UserProperties/P[<</F 241 0 R/N 58 0 R>>]>>]/K[114 238 0 R]/P 34 0 R/S/SPI_MST_CLK/Pg 23 0 R>>endobj242 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 115/P 243 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj243 0 obj<</A[<</O/UserProperties/P[<</F 244 0 R/N(Net)>>]>><</O/UserProperties/P[<</F(34.25 MM)/N 58 0 R>>]>>]/K[116 242 0 R]/P 34 0 R/S/SPI_MST_MOSI/Pg 23 0 R>>endobj245 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 117/P 246 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj246 0 obj<</A[<</O/UserProperties/P[<</F(N2984124)/N(Net)>>]>><</O/UserProperties/P[<</F 247 0 R/N 58 0 R>>]>>]/K[118 245 0 R]/P 34 0 R/S/N2984124/Pg 23 0 R>>endobj248 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 119/P 250 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj249 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K[120 250 0 R]/P 31 0 R/S/SON50P150X200X100-8N/Pg 23 0 R>>endobj250 0 obj<</A[<</O/UserProperties/P[<</F()/N()>>]>><</O/UserProperties/P[<</F(IC)/N 39 0 R>>]>><</O/UserProperties/P[<</F 251 0 R/N(Device)>>]>><</O/UserProperties/P[<</F 42 0 R/N 41 0 R>>]>><</O/UserProperties/P[<</F(12.7000)/N(Height)>>]>><</O/UserProperties/P[<</F 252 0 R/N(Location)>>]>><</O/UserProperties/P[<</F 251 0 R/N 44 0 R>>]>><</O/UserProperties/P[<</F(IC1)/N 45 0 R>>]>><</O/UserProperties/P[<</F 253 0 R/N 46 0 R>>]>><</O/UserProperties/P[<</F 254 0 R/N(Value)>>]>>]/K[121 248 0 R]/P 249 0 R/S/IC1/Pg 23 0 R>>endobj255 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 122/P 256 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj256 0 obj<</A[<</O/UserProperties/P[<</F()/N()>>]>><</O/UserProperties/P[<</F(IC)/N 39 0 R>>]>><</O/UserProperties/P[<</F 257 0 R/N(Device)>>]>><</O/UserProperties/P[<</F 42 0 R/N 41 0 R>>]>><</O/UserProperties/P[<</F(12.7000)/N(Height)>>]>><</O/UserProperties/P[<</F 258 0 R/N(Location)>>]>><</O/UserProperties/P[<</F 257 0 R/N 44 0 R>>]>><</O/UserProperties/P[<</F(R1)/N 45 0 R>>]>><</O/UserProperties/P[<</F(SMD_0402)/N 46 0 R>>]>><</O/UserProperties/P[<</F(1M5)/N(Value)>>]>>]/K[123 255 0 R]/P 78 0 R/S/R1/Pg 23 0 R>>endobj259 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 124/P 260 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj260 0 obj<</A[<</O/UserProperties/P[<</F()/N()>>]>><</O/UserProperties/P[<</F(IC)/N 39 0 R>>]>><</O/UserProperties/P[<</F 72 0 R/N(Device)>>]>><</O/UserProperties/P[<</F 42 0 R/N 41 0 R>>]>><</O/UserProperties/P[<</F(12.7000)/N(Height)>>]>><</O/UserProperties/P[<</F 261 0 R/N(Location)>>]>><</O/UserProperties/P[<</F 72 0 R/N 44 0 R>>]>><</O/UserProperties/P[<</F(C1)/N 45 0 R>>]>><</O/UserProperties/P[<</F(SMD_0603)/N 46 0 R>>]>><</O/UserProperties/P[<</F(4.7uF)/N(Value)>>]>>]/K[125 259 0 R]/P 70 0 R/S/C1/Pg 23 0 R>>endobj262 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 126/P 264 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj263 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K[127 264 0 R 675 0 R]/P 31 0 R/S/SOD-323_S/Pg 23 0 R>>endobj264 0 obj<</A[<</O/UserProperties/P[<</F()/N()>>]>><</O/UserProperties/P[<</F(IC)/N 39 0 R>>]>><</O/UserProperties/P[<</F 265 0 R/N(Device)>>]>><</O/UserProperties/P[<</F 42 0 R/N 41 0 R>>]>><</O/UserProperties/P[<</F(12.7000)/N(Height)>>]>><</O/UserProperties/P[<</F 266 0 R/N(Location)>>]>><</O/UserProperties/P[<</F 265 0 R/N 44 0 R>>]>><</O/UserProperties/P[<</F(D1)/N 45 0 R>>]>><</O/UserProperties/P[<</F 267 0 R/N 46 0 R>>]>><</O/UserProperties/P[<</F 268 0 R/N(Value)>>]>>]/K[128 262 0 R]/P 263 0 R/S/D1/Pg 23 0 R>>endobj269 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 129/P 270 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj270 0 obj<</A[<</O/UserProperties/P[<</F(N3067899)/N(Net)>>]>><</O/UserProperties/P[<</F 271 0 R/N 58 0 R>>]>>]/K[130 269 0 R]/P 34 0 R/S/N3067899/Pg 23 0 R>>endobj272 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 131/P 273 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj273 0 obj<</A[<</O/UserProperties/P[<</F()/N()>>]>><</O/UserProperties/P[<</F(IC)/N 39 0 R>>]>><</O/UserProperties/P[<</F 274 0 R/N(Device)>>]>><</O/UserProperties/P[<</F 42 0 R/N 41 0 R>>]>><</O/UserProperties/P[<</F(12.7000)/N(Height)>>]>><</O/UserProperties/P[<</F 275 0 R/N(Location)>>]>><</O/UserProperties/P[<</F 274 0 R/N 44 0 R>>]>><</O/UserProperties/P[<</F(C3)/N 45 0 R>>]>><</O/UserProperties/P[<</F(SMD_0603)/N 46 0 R>>]>><</O/UserProperties/P[<</F(22uF)/N(Value)>>]>>]/K[132 272 0 R]/P 70 0 R/S/C3/Pg 23 0 R>>endobj276 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 133/P 278 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj277 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K[134 278 0 R]/P 31 0 R/S/DFE201610E-R47M_1285ASH1R0MP2/Pg 23 0 R>>endobj278 0 obj<</A[<</O/UserProperties/P[<</F()/N()>>]>><</O/UserProperties/P[<</F(IC)/N 39 0 R>>]>><</O/UserProperties/P[<</F 279 0 R/N(Device)>>]>><</O/UserProperties/P[<</F 42 0 R/N 41 0 R>>]>><</O/UserProperties/P[<</F(12.7000)/N(Height)>>]>><</O/UserProperties/P[<</F 280 0 R/N(Location)>>]>><</O/UserProperties/P[<</F 279 0 R/N 44 0 R>>]>><</O/UserProperties/P[<</F(L1)/N 45 0 R>>]>><</O/UserProperties/P[<</F 281 0 R/N 46 0 R>>]>><</O/UserProperties/P[<</F 282 0 R/N(Value)>>]>>]/K[135 276 0 R]/P 277 0 R/S/L1/Pg 23 0 R>>endobj283 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 136/P 284 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj284 0 obj<</A[<</O/UserProperties/P[<</F()/N()>>]>><</O/UserProperties/P[<</F(IC)/N 39 0 R>>]>><</O/UserProperties/P[<</F 285 0 R/N(Device)>>]>><</O/UserProperties/P[<</F 42 0 R/N 41 0 R>>]>><</O/UserProperties/P[<</F(12.7000)/N(Height)>>]>><</O/UserProperties/P[<</F 286 0 R/N(Location)>>]>><</O/UserProperties/P[<</F 285 0 R/N 44 0 R>>]>><</O/UserProperties/P[<</F(R25)/N 45 0 R>>]>><</O/UserProperties/P[<</F(SMD_0402)/N 46 0 R>>]>><</O/UserProperties/P[<</F(100E)/N(Value)>>]>>]/K[137 283 0 R]/P 78 0 R/S/R25/Pg 23 0 R>>endobj287 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 138/P 288 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj288 0 obj<</A[<</O/UserProperties/P[<</F(LED_B)/N(Net)>>]>><</O/UserProperties/P[<</F 289 0 R/N 58 0 R>>]>>]/K[139 287 0 R]/P 34 0 R/S/LED_B/Pg 23 0 R>>endobj290 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 140/P 291 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj291 0 obj<</A[<</O/UserProperties/P[<</F(N3103817)/N(Net)>>]>><</O/UserProperties/P[<</F 292 0 R/N 58 0 R>>]>>]/K[141 290 0 R]/P 34 0 R/S/N3103817/Pg 23 0 R>>endobj293 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 142/P 295 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj294 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K[143 295 0 R]/P 31 0 R/S/P-LCC-4/Pg 23 0 R>>endobj295 0 obj<</A[<</O/UserProperties/P[<</F()/N()>>]>><</O/UserProperties/P[<</F(IC)/N 39 0 R>>]>><</O/UserProperties/P[<</F 296 0 R/N(Device)>>]>><</O/UserProperties/P[<</F 42 0 R/N 41 0 R>>]>><</O/UserProperties/P[<</F(12.7000)/N(Height)>>]>><</O/UserProperties/P[<</F 297 0 R/N(Location)>>]>><</O/UserProperties/P[<</F 296 0 R/N 44 0 R>>]>><</O/UserProperties/P[<</F(LED2)/N 45 0 R>>]>><</O/UserProperties/P[<</F(P-LCC-4)/N 46 0 R>>]>><</O/UserProperties/P[<</F 298 0 R/N(Value)>>]>>]/K[144 293 0 R]/P 294 0 R/S/LED2/Pg 23 0 R>>endobj299 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 145/P 300 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj300 0 obj<</A[<</O/UserProperties/P[<</F(LED_R)/N(Net)>>]>><</O/UserProperties/P[<</F 301 0 R/N 58 0 R>>]>>]/K[146 299 0 R]/P 34 0 R/S/LED_R/Pg 23 0 R>>endobj302 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 147/P 303 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj303 0 obj<</A[<</O/UserProperties/P[<</F(N3061302)/N(Net)>>]>><</O/UserProperties/P[<</F 304 0 R/N 58 0 R>>]>>]/K[148 302 0 R]/P 34 0 R/S/N3061302/Pg 23 0 R>>endobj305 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 149/P 306 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj306 0 obj<</A[<</O/UserProperties/P[<</F(LED_G)/N(Net)>>]>><</O/UserProperties/P[<</F 307 0 R/N 58 0 R>>]>>]/K[150 305 0 R]/P 34 0 R/S/LED_G/Pg 23 0 R>>endobj308 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 151/P 309 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj309 0 obj<</A[<</O/UserProperties/P[<</F(N3061308)/N(Net)>>]>><</O/UserProperties/P[<</F(1.807 MM)/N 58 0 R>>]>>]/K[152 308 0 R]/P 34 0 R/S/N3061308/Pg 23 0 R>>endobj310 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 153/P 311 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj311 0 obj<</A[<</O/UserProperties/P[<</F(N3119865)/N(Net)>>]>><</O/UserProperties/P[<</F 312 0 R/N 58 0 R>>]>>]/K[154 310 0 R]/P 34 0 R/S/N3119865/Pg 23 0 R>>endobj313 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 155/P 314 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj314 0 obj<</A[<</O/UserProperties/P[<</F(N3067935)/N(Net)>>]>><</O/UserProperties/P[<</F 315 0 R/N 58 0 R>>]>>]/K[156 313 0 R]/P 34 0 R/S/N3067935/Pg 23 0 R>>endobj316 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 157/P 317 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj317 0 obj<</A[<</O/UserProperties/P[<</F 318 0 R/N(Net)>>]>><</O/UserProperties/P[<</F 319 0 R/N 58 0 R>>]>>]/K[158 316 0 R]/P 34 0 R/S/SPI_MST_SS/Pg 23 0 R>>endobj320 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 159/P 321 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj321 0 obj<</A[<</O/UserProperties/P[<</F()/N()>>]>><</O/UserProperties/P[<</F(IC)/N 39 0 R>>]>><</O/UserProperties/P[<</F 134 0 R/N(Device)>>]>><</O/UserProperties/P[<</F 42 0 R/N 41 0 R>>]>><</O/UserProperties/P[<</F(12.7000)/N(Height)>>]>><</O/UserProperties/P[<</F 322 0 R/N(Location)>>]>><</O/UserProperties/P[<</F 134 0 R/N 44 0 R>>]>><</O/UserProperties/P[<</F(R21)/N 45 0 R>>]>><</O/UserProperties/P[<</F(SMD_0402)/N 46 0 R>>]>><</O/UserProperties/P[<</F(10K)/N(Value)>>]>>]/K[160 320 0 R]/P 78 0 R/S/R21/Pg 23 0 R>>endobj323 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 161/P 324 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj324 0 obj<</A[<</O/UserProperties/P[<</F(N2988172)/N(Net)>>]>><</O/UserProperties/P[<</F 325 0 R/N 58 0 R>>]>>]/K[162 323 0 R]/P 34 0 R/S/N2988172/Pg 23 0 R>>endobj326 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 163/P 327 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj327 0 obj<</A[<</O/UserProperties/P[<</F 328 0 R/N(Net)>>]>><</O/UserProperties/P[<</F 329 0 R/N 58 0 R>>]>>]/K[164 326 0 R]/P 34 0 R/S/SPI_MST_MISO/Pg 23 0 R>>endobj330 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 165/P 332 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj331 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K[166 332 0 R 351 0 R]/P 31 0 R/S/SOTFL50P160X60-6N/Pg 23 0 R>>endobj332 0 obj<</A[<</O/UserProperties/P[<</F()/N()>>]>><</O/UserProperties/P[<</F(IC)/N 39 0 R>>]>><</O/UserProperties/P[<</F 333 0 R/N(Device)>>]>><</O/UserProperties/P[<</F 42 0 R/N 41 0 R>>]>><</O/UserProperties/P[<</F(12.7000)/N(Height)>>]>><</O/UserProperties/P[<</F 334 0 R/N(Location)>>]>><</O/UserProperties/P[<</F 333 0 R/N 44 0 R>>]>><</O/UserProperties/P[<</F(IC4)/N 45 0 R>>]>><</O/UserProperties/P[<</F 335 0 R/N 46 0 R>>]>><</O/UserProperties/P[<</F 336 0 R/N(Value)>>]>>]/K[167 330 0 R]/P 331 0 R/S/IC4/Pg 23 0 R>>endobj337 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 168/P 338 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj338 0 obj<</A[<</O/UserProperties/P[<</F(Q_LED_R)/N(Net)>>]>><</O/UserProperties/P[<</F 339 0 R/N 58 0 R>>]>>]/K[169 337 0 R]/P 34 0 R/S/Q_LED_R/Pg 23 0 R>>endobj340 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 170/P 342 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj341 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K[171 342 0 R]/P 31 0 R/S/LGA50P200X200100-12N/Pg 23 0 R>>endobj342 0 obj<</A[<</O/UserProperties/P[<</F()/N()>>]>><</O/UserProperties/P[<</F(IC)/N 39 0 R>>]>><</O/UserProperties/P[<</F 343 0 R/N(Device)>>]>><</O/UserProperties/P[<</F 42 0 R/N 41 0 R>>]>><</O/UserProperties/P[<</F(12.7000)/N(Height)>>]>><</O/UserProperties/P[<</F 344 0 R/N(Location)>>]>><</O/UserProperties/P[<</F 343 0 R/N 44 0 R>>]>><</O/UserProperties/P[<</F(AC1)/N 45 0 R>>]>><</O/UserProperties/P[<</F 345 0 R/N 46 0 R>>]>><</O/UserProperties/P[<</F 346 0 R/N(Value)>>]>>]/K[172 340 0 R]/P 341 0 R/S/AC1/Pg 23 0 R>>endobj347 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 173/P 348 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj348 0 obj<</A[<</O/UserProperties/P[<</F(I2C_SDA)/N(Net)>>]>><</O/UserProperties/P[<</F 349 0 R/N 58 0 R>>]>>]/K[174 347 0 R]/P 34 0 R/S/I2C_SDA/Pg 23 0 R>>endobj350 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 175/P 351 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj351 0 obj<</A[<</O/UserProperties/P[<</F()/N()>>]>><</O/UserProperties/P[<</F(IC)/N 39 0 R>>]>><</O/UserProperties/P[<</F 333 0 R/N(Device)>>]>><</O/UserProperties/P[<</F 42 0 R/N 41 0 R>>]>><</O/UserProperties/P[<</F(12.7000)/N(Height)>>]>><</O/UserProperties/P[<</F 352 0 R/N(Location)>>]>><</O/UserProperties/P[<</F 333 0 R/N 44 0 R>>]>><</O/UserProperties/P[<</F(IC5)/N 45 0 R>>]>><</O/UserProperties/P[<</F 335 0 R/N 46 0 R>>]>><</O/UserProperties/P[<</F 336 0 R/N(Value)>>]>>]/K[176 350 0 R]/P 331 0 R/S/IC5/Pg 23 0 R>>endobj353 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 177/P 354 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj354 0 obj<</A[<</O/UserProperties/P[<</F(Q_LED_G)/N(Net)>>]>><</O/UserProperties/P[<</F 355 0 R/N 58 0 R>>]>>]/K[178 353 0 R]/P 34 0 R/S/Q_LED_G/Pg 23 0 R>>endobj356 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 179/P 357 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj357 0 obj<</A[<</O/UserProperties/P[<</F(Q_LED_B)/N(Net)>>]>><</O/UserProperties/P[<</F 358 0 R/N 58 0 R>>]>>]/K[180 356 0 R]/P 34 0 R/S/Q_LED_B/Pg 23 0 R>>endobj359 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 181/P 360 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj360 0 obj<</A[<</O/UserProperties/P[<</F()/N()>>]>><</O/UserProperties/P[<</F(IC)/N 39 0 R>>]>><</O/UserProperties/P[<</F 285 0 R/N(Device)>>]>><</O/UserProperties/P[<</F 42 0 R/N 41 0 R>>]>><</O/UserProperties/P[<</F(12.7000)/N(Height)>>]>><</O/UserProperties/P[<</F 361 0 R/N(Location)>>]>><</O/UserProperties/P[<</F 285 0 R/N 44 0 R>>]>><</O/UserProperties/P[<</F(R24)/N 45 0 R>>]>><</O/UserProperties/P[<</F(SMD_0402)/N 46 0 R>>]>><</O/UserProperties/P[<</F(100E)/N(Value)>>]>>]/K[182 359 0 R]/P 78 0 R/S/R24/Pg 23 0 R>>endobj362 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 183/P 363 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj363 0 obj<</A[<</O/UserProperties/P[<</F(IMU_INT)/N(Net)>>]>><</O/UserProperties/P[<</F 364 0 R/N 58 0 R>>]>>]/K[184 362 0 R]/P 34 0 R/S/IMU_INT/Pg 23 0 R>>endobj365 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 185/P 366 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj366 0 obj<</A[<</O/UserProperties/P[<</F(I2C_SCL)/N(Net)>>]>><</O/UserProperties/P[<</F 367 0 R/N 58 0 R>>]>>]/K[186 365 0 R]/P 34 0 R/S/I2C_SCL/Pg 23 0 R>>endobj368 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 187/P 369 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj369 0 obj<</A[<</O/UserProperties/P[<</F()/N()>>]>><</O/UserProperties/P[<</F(IC)/N 39 0 R>>]>><</O/UserProperties/P[<</F 370 0 R/N(Device)>>]>><</O/UserProperties/P[<</F 42 0 R/N 41 0 R>>]>><</O/UserProperties/P[<</F(12.7000)/N(Height)>>]>><</O/UserProperties/P[<</F 371 0 R/N(Location)>>]>><</O/UserProperties/P[<</F 370 0 R/N 44 0 R>>]>><</O/UserProperties/P[<</F(R26)/N 45 0 R>>]>><</O/UserProperties/P[<</F(SMD_0402)/N 46 0 R>>]>><</O/UserProperties/P[<</F(220E)/N(Value)>>]>>]/K[188 368 0 R]/P 78 0 R/S/R26/Pg 23 0 R>>endobj372 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 189/P 373 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj373 0 obj<</A[<</O/UserProperties/P[<</F()/N()>>]>><</O/UserProperties/P[<</F(IC)/N 39 0 R>>]>><</O/UserProperties/P[<</F 374 0 R/N(Device)>>]>><</O/UserProperties/P[<</F 42 0 R/N 41 0 R>>]>><</O/UserProperties/P[<</F(12.7000)/N(Height)>>]>><</O/UserProperties/P[<</F 375 0 R/N(Location)>>]>><</O/UserProperties/P[<</F 374 0 R/N 44 0 R>>]>><</O/UserProperties/P[<</F(R36)/N 45 0 R>>]>><</O/UserProperties/P[<</F(SMD_0402)/N 46 0 R>>]>><</O/UserProperties/P[<</F(22E)/N(Value)>>]>>]/K[190 372 0 R]/P 78 0 R/S/R36/Pg 23 0 R>>endobj376 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 191/P 377 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj377 0 obj<</A[<</O/UserProperties/P[<</F()/N()>>]>><</O/UserProperties/P[<</F(IC)/N 39 0 R>>]>><</O/UserProperties/P[<</F 123 0 R/N(Device)>>]>><</O/UserProperties/P[<</F 42 0 R/N 41 0 R>>]>><</O/UserProperties/P[<</F(12.7000)/N(Height)>>]>><</O/UserProperties/P[<</F 378 0 R/N(Location)>>]>><</O/UserProperties/P[<</F 123 0 R/N 44 0 R>>]>><</O/UserProperties/P[<</F(R39)/N 45 0 R>>]>><</O/UserProperties/P[<</F(SMD_0402)/N 46 0 R>>]>><</O/UserProperties/P[<</F(100K)/N(Value)>>]>>]/K[192 376 0 R]/P 78 0 R/S/R39/Pg 23 0 R>>endobj379 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 193/P 380 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj380 0 obj<</A[<</O/UserProperties/P[<</F(N3068086)/N(Net)>>]>><</O/UserProperties/P[<</F 381 0 R/N 58 0 R>>]>>]/K[194 379 0 R]/P 34 0 R/S/N3068086/Pg 23 0 R>>endobj382 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 195/P 383 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj383 0 obj<</A[<</O/UserProperties/P[<</F()/N()>>]>><</O/UserProperties/P[<</F(IC)/N 39 0 R>>]>><</O/UserProperties/P[<</F 374 0 R/N(Device)>>]>><</O/UserProperties/P[<</F 42 0 R/N 41 0 R>>]>><</O/UserProperties/P[<</F(12.7000)/N(Height)>>]>><</O/UserProperties/P[<</F 384 0 R/N(Location)>>]>><</O/UserProperties/P[<</F 374 0 R/N 44 0 R>>]>><</O/UserProperties/P[<</F(R33)/N 45 0 R>>]>><</O/UserProperties/P[<</F(SMD_0402)/N 46 0 R>>]>><</O/UserProperties/P[<</F(22E)/N(Value)>>]>>]/K[196 382 0 R]/P 78 0 R/S/R33/Pg 23 0 R>>endobj385 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 197/P 386 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj386 0 obj<</A[<</O/UserProperties/P[<</F()/N()>>]>><</O/UserProperties/P[<</F(IC)/N 39 0 R>>]>><</O/UserProperties/P[<</F 374 0 R/N(Device)>>]>><</O/UserProperties/P[<</F 42 0 R/N 41 0 R>>]>><</O/UserProperties/P[<</F(12.7000)/N(Height)>>]>><</O/UserProperties/P[<</F 387 0 R/N(Location)>>]>><</O/UserProperties/P[<</F 374 0 R/N 44 0 R>>]>><</O/UserProperties/P[<</F(R32)/N 45 0 R>>]>><</O/UserProperties/P[<</F(SMD_0402)/N 46 0 R>>]>><</O/UserProperties/P[<</F(22E)/N(Value)>>]>>]/K[198 385 0 R]/P 78 0 R/S/R32/Pg 23 0 R>>endobj388 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 199/P 389 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj389 0 obj<</A[<</O/UserProperties/P[<</F(S3IO_30)/N(Net)>>]>><</O/UserProperties/P[<</F 390 0 R/N 58 0 R>>]>>]/K[200 388 0 R]/P 34 0 R/S/S3IO_30/Pg 23 0 R>>endobj391 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 201/P 392 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj392 0 obj<</A[<</O/UserProperties/P[<</F(ADC1)/N(Net)>>]>><</O/UserProperties/P[<</F 393 0 R/N 58 0 R>>]>>]/K[202 391 0 R]/P 34 0 R/S/ADC1/Pg 23 0 R>>endobj394 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 203/P 395 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj395 0 obj<</A[<</O/UserProperties/P[<</F()/N()>>]>><</O/UserProperties/P[<</F(IC)/N 39 0 R>>]>><</O/UserProperties/P[<</F 374 0 R/N(Device)>>]>><</O/UserProperties/P[<</F 42 0 R/N 41 0 R>>]>><</O/UserProperties/P[<</F(12.7000)/N(Height)>>]>><</O/UserProperties/P[<</F 396 0 R/N(Location)>>]>><</O/UserProperties/P[<</F 374 0 R/N 44 0 R>>]>><</O/UserProperties/P[<</F(R18)/N 45 0 R>>]>><</O/UserProperties/P[<</F(SMD_0402)/N 46 0 R>>]>><</O/UserProperties/P[<</F(22E)/N(Value)>>]>>]/K[204 394 0 R]/P 78 0 R/S/R18/Pg 23 0 R>>endobj397 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 205/P 398 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj398 0 obj<</A[<</O/UserProperties/P[<</F(N3059478)/N(Net)>>]>><</O/UserProperties/P[<</F 399 0 R/N 58 0 R>>]>>]/K[206 397 0 R]/P 34 0 R/S/N3059478/Pg 23 0 R>>endobj400 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 207/P 401 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj401 0 obj<</A[<</O/UserProperties/P[<</F()/N()>>]>><</O/UserProperties/P[<</F(IC)/N 39 0 R>>]>><</O/UserProperties/P[<</F 374 0 R/N(Device)>>]>><</O/UserProperties/P[<</F 42 0 R/N 41 0 R>>]>><</O/UserProperties/P[<</F(12.7000)/N(Height)>>]>><</O/UserProperties/P[<</F 402 0 R/N(Location)>>]>><</O/UserProperties/P[<</F 374 0 R/N 44 0 R>>]>><</O/UserProperties/P[<</F(R17)/N 45 0 R>>]>><</O/UserProperties/P[<</F(SMD_0402)/N 46 0 R>>]>><</O/UserProperties/P[<</F(22E)/N(Value)>>]>>]/K[208 400 0 R]/P 78 0 R/S/R17/Pg 23 0 R>>endobj403 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 209/P 404 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj404 0 obj<</A[<</O/UserProperties/P[<</F(N3059461)/N(Net)>>]>><</O/UserProperties/P[<</F 405 0 R/N 58 0 R>>]>>]/K[210 403 0 R]/P 34 0 R/S/N3059461/Pg 23 0 R>>endobj406 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 211/P 407 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj407 0 obj<</A[<</O/UserProperties/P[<</F()/N()>>]>><</O/UserProperties/P[<</F(IC)/N 39 0 R>>]>><</O/UserProperties/P[<</F 93 0 R/N(Device)>>]>><</O/UserProperties/P[<</F 42 0 R/N 41 0 R>>]>><</O/UserProperties/P[<</F(12.7000)/N(Height)>>]>><</O/UserProperties/P[<</F 408 0 R/N(Location)>>]>><</O/UserProperties/P[<</F 93 0 R/N 44 0 R>>]>><</O/UserProperties/P[<</F(R19)/N 45 0 R>>]>><</O/UserProperties/P[<</F(SMD_0402)/N 46 0 R>>]>><</O/UserProperties/P[<</F(1K5)/N(Value)>>]>>]/K[212 406 0 R]/P 78 0 R/S/R19/Pg 23 0 R>>endobj409 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 213/P 410 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj410 0 obj<</A[<</O/UserProperties/P[<</F(N3059207)/N(Net)>>]>><</O/UserProperties/P[<</F 411 0 R/N 58 0 R>>]>>]/K[214 409 0 R]/P 34 0 R/S/N3059207/Pg 23 0 R>>endobj412 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 215/P 413 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj413 0 obj<</A[<</O/UserProperties/P[<</F()/N()>>]>><</O/UserProperties/P[<</F(IC)/N 39 0 R>>]>><</O/UserProperties/P[<</F 93 0 R/N(Device)>>]>><</O/UserProperties/P[<</F 42 0 R/N 41 0 R>>]>><</O/UserProperties/P[<</F(12.7000)/N(Height)>>]>><</O/UserProperties/P[<</F 414 0 R/N(Location)>>]>><</O/UserProperties/P[<</F 93 0 R/N 44 0 R>>]>><</O/UserProperties/P[<</F(R16)/N 45 0 R>>]>><</O/UserProperties/P[<</F(SMD_0402)/N 46 0 R>>]>><</O/UserProperties/P[<</F(1K5)/N(Value)>>]>>]/K[216 412 0 R]/P 78 0 R/S/R16/Pg 23 0 R>>endobj415 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 217/P 416 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj416 0 obj<</A[<</O/UserProperties/P[<</F(N3059301)/N(Net)>>]>><</O/UserProperties/P[<</F 417 0 R/N 58 0 R>>]>>]/K[218 415 0 R]/P 34 0 R/S/N3059301/Pg 23 0 R>>endobj418 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 219/P 420 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj419 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K[220 420 0 R]/P 31 0 R/S/VBGA64_3M5X3M5X0M6/Pg 23 0 R>>endobj420 0 obj<</A[<</O/UserProperties/P[<</F()/N()>>]>><</O/UserProperties/P[<</F(IC)/N 39 0 R>>]>><</O/UserProperties/P[<</F 421 0 R/N(Device)>>]>><</O/UserProperties/P[<</F 42 0 R/N 41 0 R>>]>><</O/UserProperties/P[<</F(12.7000)/N(Height)>>]>><</O/UserProperties/P[<</F 422 0 R/N(Location)>>]>><</O/UserProperties/P[<</F 421 0 R/N 44 0 R>>]>><</O/UserProperties/P[<</F(U1)/N 45 0 R>>]>><</O/UserProperties/P[<</F 423 0 R/N 46 0 R>>]>><</O/UserProperties/P[<</F 424 0 R/N(Value)>>]>>]/K[221 418 0 R]/P 419 0 R/S/U1/Pg 23 0 R>>endobj425 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 222/P 426 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj426 0 obj<</A[<</O/UserProperties/P[<</F()/N()>>]>><</O/UserProperties/P[<</F(IC)/N 39 0 R>>]>><</O/UserProperties/P[<</F 134 0 R/N(Device)>>]>><</O/UserProperties/P[<</F 42 0 R/N 41 0 R>>]>><</O/UserProperties/P[<</F(12.7000)/N(Height)>>]>><</O/UserProperties/P[<</F 427 0 R/N(Location)>>]>><</O/UserProperties/P[<</F 134 0 R/N 44 0 R>>]>><</O/UserProperties/P[<</F(R15)/N 45 0 R>>]>><</O/UserProperties/P[<</F(SMD_0402)/N 46 0 R>>]>><</O/UserProperties/P[<</F(10K)/N(Value)>>]>>]/K[223 425 0 R]/P 78 0 R/S/R15/Pg 23 0 R>>endobj428 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 224/P 429 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj429 0 obj<</A[<</O/UserProperties/P[<</F(S3IO_9)/N(Net)>>]>><</O/UserProperties/P[<</F 430 0 R/N 58 0 R>>]>>]/K[225 428 0 R]/P 34 0 R/S/S3IO_9/Pg 23 0 R>>endobj431 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 226/P 432 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj432 0 obj<</A[<</O/UserProperties/P[<</F 433 0 R/N(Net)>>]>><</O/UserProperties/P[<</F 434 0 R/N 58 0 R>>]>>]/K[227 431 0 R]/P 34 0 R/S/SPI_MST_CS2/Pg 23 0 R>>endobj435 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 228/P 436 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj436 0 obj<</A[<</O/UserProperties/P[<</F()/N()>>]>><</O/UserProperties/P[<</F(IC)/N 39 0 R>>]>><</O/UserProperties/P[<</F 134 0 R/N(Device)>>]>><</O/UserProperties/P[<</F 42 0 R/N 41 0 R>>]>><</O/UserProperties/P[<</F(12.7000)/N(Height)>>]>><</O/UserProperties/P[<</F 437 0 R/N(Location)>>]>><</O/UserProperties/P[<</F 134 0 R/N 44 0 R>>]>><</O/UserProperties/P[<</F(R14)/N 45 0 R>>]>><</O/UserProperties/P[<</F(SMD_0402)/N 46 0 R>>]>><</O/UserProperties/P[<</F(10K)/N(Value)>>]>>]/K[229 435 0 R]/P 78 0 R/S/R14/Pg 23 0 R>>endobj438 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 230/P 439 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj439 0 obj<</A[<</O/UserProperties/P[<</F(S3IO_8)/N(Net)>>]>><</O/UserProperties/P[<</F 440 0 R/N 58 0 R>>]>>]/K[231 438 0 R]/P 34 0 R/S/S3IO_8/Pg 23 0 R>>endobj441 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 232/P 442 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj442 0 obj<</A[<</O/UserProperties/P[<</F()/N()>>]>><</O/UserProperties/P[<</F(IC)/N 39 0 R>>]>><</O/UserProperties/P[<</F 223 0 R/N(Device)>>]>><</O/UserProperties/P[<</F 42 0 R/N 41 0 R>>]>><</O/UserProperties/P[<</F(12.7000)/N(Height)>>]>><</O/UserProperties/P[<</F 443 0 R/N(Location)>>]>><</O/UserProperties/P[<</F 223 0 R/N 44 0 R>>]>><</O/UserProperties/P[<</F(C7)/N 45 0 R>>]>><</O/UserProperties/P[<</F(SMD_0402)/N 46 0 R>>]>><</O/UserProperties/P[<</F(0.1uF)/N(Value)>>]>>]/K[233 441 0 R]/P 78 0 R/S/C7/Pg 23 0 R>>endobj444 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 234/P 445 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj445 0 obj<</A[<</O/UserProperties/P[<</F()/N()>>]>><</O/UserProperties/P[<</F(IC)/N 39 0 R>>]>><</O/UserProperties/P[<</F 374 0 R/N(Device)>>]>><</O/UserProperties/P[<</F 42 0 R/N 41 0 R>>]>><</O/UserProperties/P[<</F(12.7000)/N(Height)>>]>><</O/UserProperties/P[<</F 446 0 R/N(Location)>>]>><</O/UserProperties/P[<</F 374 0 R/N 44 0 R>>]>><</O/UserProperties/P[<</F(R38)/N 45 0 R>>]>><</O/UserProperties/P[<</F(SMD_0402)/N 46 0 R>>]>><</O/UserProperties/P[<</F(22E)/N(Value)>>]>>]/K[235 444 0 R]/P 78 0 R/S/R38/Pg 23 0 R>>endobj447 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 236/P 448 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj448 0 obj<</A[<</O/UserProperties/P[<</F(N3070397)/N(Net)>>]>><</O/UserProperties/P[<</F 449 0 R/N 58 0 R>>]>>]/K[237 447 0 R]/P 34 0 R/S/N3070397/Pg 23 0 R>>endobj450 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 238/P 451 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj451 0 obj<</A[<</O/UserProperties/P[<</F(N3068088)/N(Net)>>]>><</O/UserProperties/P[<</F 452 0 R/N 58 0 R>>]>>]/K[239 450 0 R]/P 34 0 R/S/N3068088/Pg 23 0 R>>endobj453 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 240/P 454 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj454 0 obj<</A[<</O/UserProperties/P[<</F(N3068090)/N(Net)>>]>><</O/UserProperties/P[<</F 455 0 R/N 58 0 R>>]>>]/K[241 453 0 R]/P 34 0 R/S/N3068090/Pg 23 0 R>>endobj456 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 242/P 457 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj457 0 obj<</A[<</O/UserProperties/P[<</F()/N()>>]>><</O/UserProperties/P[<</F(IC)/N 39 0 R>>]>><</O/UserProperties/P[<</F 223 0 R/N(Device)>>]>><</O/UserProperties/P[<</F 42 0 R/N 41 0 R>>]>><</O/UserProperties/P[<</F(12.7000)/N(Height)>>]>><</O/UserProperties/P[<</F 458 0 R/N(Location)>>]>><</O/UserProperties/P[<</F 223 0 R/N 44 0 R>>]>><</O/UserProperties/P[<</F(C11)/N 45 0 R>>]>><</O/UserProperties/P[<</F(SMD_0402)/N 46 0 R>>]>><</O/UserProperties/P[<</F(0.1uF)/N(Value)>>]>>]/K[243 456 0 R]/P 78 0 R/S/C11/Pg 23 0 R>>endobj459 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 244/P 460 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj460 0 obj<</A[<</O/UserProperties/P[<</F(PDM_CKO)/N(Net)>>]>><</O/UserProperties/P[<</F 461 0 R/N 58 0 R>>]>>]/K[245 459 0 R]/P 34 0 R/S/PDM_CKO/Pg 23 0 R>>endobj462 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 246/P 463 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj463 0 obj<</A[<</O/UserProperties/P[<</F 464 0 R/N(Net)>>]>><</O/UserProperties/P[<</F 465 0 R/N 58 0 R>>]>>]/K[247 462 0 R]/P 34 0 R/S/HEADER_TX/Pg 23 0 R>>endobj466 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 248/P 467 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj467 0 obj<</A[<</O/UserProperties/P[<</F 468 0 R/N(Net)>>]>><</O/UserProperties/P[<</F 469 0 R/N 58 0 R>>]>>]/K[249 466 0 R]/P 34 0 R/S/SPI_SLV_CLK/Pg 23 0 R>>endobj470 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 250/P 471 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj471 0 obj<</A[<</O/UserProperties/P[<</F(S3IO_35)/N(Net)>>]>><</O/UserProperties/P[<</F 472 0 R/N 58 0 R>>]>>]/K[251 470 0 R]/P 34 0 R/S/S3IO_35/Pg 23 0 R>>endobj473 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 252/P 474 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj474 0 obj<</A[<</O/UserProperties/P[<</F(S3IO_25)/N(Net)>>]>><</O/UserProperties/P[<</F 475 0 R/N 58 0 R>>]>>]/K[253 473 0 R]/P 34 0 R/S/S3IO_25/Pg 23 0 R>>endobj476 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 254/P 477 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj477 0 obj<</A[<</O/UserProperties/P[<</F 478 0 R/N(Net)>>]>><</O/UserProperties/P[<</F 479 0 R/N 58 0 R>>]>>]/K[255 476 0 R]/P 34 0 R/S/HEADER_RX/Pg 23 0 R>>endobj480 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 256/P 481 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj481 0 obj<</A[<</O/UserProperties/P[<</F(I2S_CLK)/N(Net)>>]>><</O/UserProperties/P[<</F 482 0 R/N 58 0 R>>]>>]/K[257 480 0 R]/P 34 0 R/S/I2S_CLK/Pg 23 0 R>>endobj483 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 258/P 484 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj484 0 obj<</A[<</O/UserProperties/P[<</F(PDM_DATA)/N(Net)>>]>><</O/UserProperties/P[<</F 485 0 R/N 58 0 R>>]>>]/K[259 483 0 R]/P 34 0 R/S/PDM_DATA/Pg 23 0 R>>endobj486 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 260/P 487 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj487 0 obj<</A[<</O/UserProperties/P[<</F(I2S_DOUT)/N(Net)>>]>><</O/UserProperties/P[<</F 488 0 R/N 58 0 R>>]>>]/K[261 486 0 R]/P 34 0 R/S/I2S_DOUT/Pg 23 0 R>>endobj489 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 262/P 490 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj490 0 obj<</A[<</O/UserProperties/P[<</F 491 0 R/N(Net)>>]>><</O/UserProperties/P[<</F 492 0 R/N 58 0 R>>]>>]/K[263 489 0 R]/P 34 0 R/S/SPI_SLV_CSN/Pg 23 0 R>>endobj493 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 264/P 494 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj494 0 obj<</A[<</O/UserProperties/P[<</F(I2S_WCLK)/N(Net)>>]>><</O/UserProperties/P[<</F 495 0 R/N 58 0 R>>]>>]/K[265 493 0 R]/P 34 0 R/S/I2S_WCLK/Pg 23 0 R>>endobj496 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 266/P 497 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj497 0 obj<</A[<</O/UserProperties/P[<</F 498 0 R/N(Net)>>]>><</O/UserProperties/P[<</F 499 0 R/N 58 0 R>>]>>]/K[267 496 0 R]/P 34 0 R/S/SPI_SLV_MOSI/Pg 23 0 R>>endobj500 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 268/P 501 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj501 0 obj<</A[<</O/UserProperties/P[<</F(S3IO_13)/N(Net)>>]>><</O/UserProperties/P[<</F 502 0 R/N 58 0 R>>]>>]/K[269 500 0 R]/P 34 0 R/S/S3IO_13/Pg 23 0 R>>endobj503 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 270/P 504 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj504 0 obj<</A[<</O/UserProperties/P[<</F(S3IO_5)/N(Net)>>]>><</O/UserProperties/P[<</F 505 0 R/N 58 0 R>>]>>]/K[271 503 0 R]/P 34 0 R/S/S3IO_5/Pg 23 0 R>>endobj506 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 272/P 507 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj507 0 obj<</A[<</O/UserProperties/P[<</F(S3IO_4)/N(Net)>>]>><</O/UserProperties/P[<</F 508 0 R/N 58 0 R>>]>>]/K[273 506 0 R]/P 34 0 R/S/S3IO_4/Pg 23 0 R>>endobj509 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 274/P 510 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj510 0 obj<</A[<</O/UserProperties/P[<</F(S3IO_2)/N(Net)>>]>><</O/UserProperties/P[<</F 511 0 R/N 58 0 R>>]>>]/K[275 509 0 R]/P 34 0 R/S/S3IO_2/Pg 23 0 R>>endobj512 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 276/P 513 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj513 0 obj<</A[<</O/UserProperties/P[<</F(S3IO_7)/N(Net)>>]>><</O/UserProperties/P[<</F 514 0 R/N 58 0 R>>]>>]/K[277 512 0 R]/P 34 0 R/S/S3IO_7/Pg 23 0 R>>endobj515 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 278/P 516 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj516 0 obj<</A[<</O/UserProperties/P[<</F(S3IO_10)/N(Net)>>]>><</O/UserProperties/P[<</F 517 0 R/N 58 0 R>>]>>]/K[279 515 0 R]/P 34 0 R/S/S3IO_10/Pg 23 0 R>>endobj518 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 280/P 519 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj519 0 obj<</A[<</O/UserProperties/P[<</F(SWD_CLK)/N(Net)>>]>><</O/UserProperties/P[<</F 520 0 R/N 58 0 R>>]>>]/K[281 518 0 R]/P 34 0 R/S/SWD_CLK/Pg 23 0 R>>endobj521 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 282/P 522 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj522 0 obj<</A[<</O/UserProperties/P[<</F(S3IO_12)/N(Net)>>]>><</O/UserProperties/P[<</F 523 0 R/N 58 0 R>>]>>]/K[283 521 0 R]/P 34 0 R/S/S3IO_12/Pg 23 0 R>>endobj524 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 284/P 525 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj525 0 obj<</A[<</O/UserProperties/P[<</F(N3059993)/N(Net)>>]>><</O/UserProperties/P[<</F 526 0 R/N 58 0 R>>]>>]/K[285 524 0 R]/P 34 0 R/S/N3059993/Pg 23 0 R>>endobj527 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 286/P 528 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj528 0 obj<</A[<</O/UserProperties/P[<</F(N3059975)/N(Net)>>]>><</O/UserProperties/P[<</F 529 0 R/N 58 0 R>>]>>]/K[287 527 0 R]/P 34 0 R/S/N3059975/Pg 23 0 R>>endobj530 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 288/P 531 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj531 0 obj<</A[<</O/UserProperties/P[<</F(N3049374)/N(Net)>>]>><</O/UserProperties/P[<</F 532 0 R/N 58 0 R>>]>>]/K[289 530 0 R]/P 34 0 R/S/N3049374/Pg 23 0 R>>endobj533 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 290/P 534 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj534 0 obj<</A[<</O/UserProperties/P[<</F(S3IO_11)/N(Net)>>]>><</O/UserProperties/P[<</F 535 0 R/N 58 0 R>>]>>]/K[291 533 0 R]/P 34 0 R/S/S3IO_11/Pg 23 0 R>>endobj536 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 292/P 537 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj537 0 obj<</A[<</O/UserProperties/P[<</F(SWD_IO)/N(Net)>>]>><</O/UserProperties/P[<</F 538 0 R/N 58 0 R>>]>>]/K[293 536 0 R]/P 34 0 R/S/SWD_IO/Pg 23 0 R>>endobj539 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 294/P 540 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj540 0 obj<</A[<</O/UserProperties/P[<</F(N3049346)/N(Net)>>]>><</O/UserProperties/P[<</F 541 0 R/N 58 0 R>>]>>]/K[295 539 0 R]/P 34 0 R/S/N3049346/Pg 23 0 R>>endobj542 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 296/P 543 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj543 0 obj<</A[<</O/UserProperties/P[<</F 544 0 R/N(Net)>>]>><</O/UserProperties/P[<</F 545 0 R/N 58 0 R>>]>>]/K[297 542 0 R]/P 34 0 R/S/HEADER_P6/Pg 23 0 R>>endobj546 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 298/P 547 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj547 0 obj<</A[<</O/UserProperties/P[<</F 548 0 R/N(Net)>>]>><</O/UserProperties/P[<</F 549 0 R/N 58 0 R>>]>>]/K[299 546 0 R]/P 34 0 R/S/SPI_SLV_MISO/Pg 23 0 R>>endobj550 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 300/P 551 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj551 0 obj<</A[<</O/UserProperties/P[<</F()/N()>>]>><</O/UserProperties/P[<</F(IC)/N 39 0 R>>]>><</O/UserProperties/P[<</F 72 0 R/N(Device)>>]>><</O/UserProperties/P[<</F 42 0 R/N 41 0 R>>]>><</O/UserProperties/P[<</F(12.7000)/N(Height)>>]>><</O/UserProperties/P[<</F 552 0 R/N(Location)>>]>><</O/UserProperties/P[<</F 72 0 R/N 44 0 R>>]>><</O/UserProperties/P[<</F(C9)/N 45 0 R>>]>><</O/UserProperties/P[<</F(SMD_0603)/N 46 0 R>>]>><</O/UserProperties/P[<</F(4.7uF)/N(Value)>>]>>]/K[301 550 0 R]/P 70 0 R/S/C9/Pg 23 0 R>>endobj553 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 302/P 554 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj554 0 obj<</A[<</O/UserProperties/P[<</F(N3070539)/N(Net)>>]>><</O/UserProperties/P[<</F 555 0 R/N 58 0 R>>]>>]/K[303 553 0 R]/P 34 0 R/S/N3070539/Pg 23 0 R>>endobj556 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 304/P 557 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj557 0 obj<</A[<</O/UserProperties/P[<</F(N3070527)/N(Net)>>]>><</O/UserProperties/P[<</F 558 0 R/N 58 0 R>>]>>]/K[305 556 0 R]/P 34 0 R/S/N3070527/Pg 23 0 R>>endobj559 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 306/P 560 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj560 0 obj<</A[<</O/UserProperties/P[<</F(N3068092)/N(Net)>>]>><</O/UserProperties/P[<</F 561 0 R/N 58 0 R>>]>>]/K[307 559 0 R]/P 34 0 R/S/N3068092/Pg 23 0 R>>endobj562 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 308/P 564 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj563 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K[309 704 0 R 564 0 R 683 0 R 617 0 R]/P 31 0 R/S/EXB2HV220JV/Pg 23 0 R>>endobj564 0 obj<</A[<</O/UserProperties/P[<</F()/N()>>]>><</O/UserProperties/P[<</F(IC)/N 39 0 R>>]>><</O/UserProperties/P[<</F 565 0 R/N(Device)>>]>><</O/UserProperties/P[<</F 42 0 R/N 41 0 R>>]>><</O/UserProperties/P[<</F(12.7000)/N(Height)>>]>><</O/UserProperties/P[<</F 566 0 R/N(Location)>>]>><</O/UserProperties/P[<</F 565 0 R/N 44 0 R>>]>><</O/UserProperties/P[<</F(RN2)/N 45 0 R>>]>><</O/UserProperties/P[<</F 567 0 R/N 46 0 R>>]>><</O/UserProperties/P[<</F 568 0 R/N(Value)>>]>>]/K[310 562 0 R]/P 563 0 R/S/RN2/Pg 23 0 R>>endobj569 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 311/P 570 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj570 0 obj<</A[<</O/UserProperties/P[<</F()/N()>>]>><</O/UserProperties/P[<</F(IC)/N 39 0 R>>]>><</O/UserProperties/P[<</F 223 0 R/N(Device)>>]>><</O/UserProperties/P[<</F 42 0 R/N 41 0 R>>]>><</O/UserProperties/P[<</F(12.7000)/N(Height)>>]>><</O/UserProperties/P[<</F 571 0 R/N(Location)>>]>><</O/UserProperties/P[<</F 223 0 R/N 44 0 R>>]>><</O/UserProperties/P[<</F(C10)/N 45 0 R>>]>><</O/UserProperties/P[<</F(SMD_0402)/N 46 0 R>>]>><</O/UserProperties/P[<</F(0.1uF)/N(Value)>>]>>]/K[312 569 0 R]/P 78 0 R/S/C10/Pg 23 0 R>>endobj572 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 313/P 574 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj573 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K[314 574 0 R]/P 31 0 R/S/XTAL_ABS07-32768KHZ-T/Pg 23 0 R>>endobj574 0 obj<</A[<</O/UserProperties/P[<</F()/N()>>]>><</O/UserProperties/P[<</F(IC)/N 39 0 R>>]>><</O/UserProperties/P[<</F 575 0 R/N(Device)>>]>><</O/UserProperties/P[<</F 42 0 R/N 41 0 R>>]>><</O/UserProperties/P[<</F(12.7000)/N(Height)>>]>><</O/UserProperties/P[<</F 576 0 R/N(Location)>>]>><</O/UserProperties/P[<</F 575 0 R/N 44 0 R>>]>><</O/UserProperties/P[<</F(Y2)/N 45 0 R>>]>><</O/UserProperties/P[<</F 577 0 R/N 46 0 R>>]>><</O/UserProperties/P[<</F 578 0 R/N(Value)>>]>>]/K[315 572 0 R]/P 573 0 R/S/Y2/Pg 23 0 R>>endobj579 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 316/P 580 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj580 0 obj<</A[<</O/UserProperties/P[<</F()/N()>>]>><</O/UserProperties/P[<</F(IC)/N 39 0 R>>]>><</O/UserProperties/P[<</F 223 0 R/N(Device)>>]>><</O/UserProperties/P[<</F 42 0 R/N 41 0 R>>]>><</O/UserProperties/P[<</F(12.7000)/N(Height)>>]>><</O/UserProperties/P[<</F 581 0 R/N(Location)>>]>><</O/UserProperties/P[<</F 223 0 R/N 44 0 R>>]>><</O/UserProperties/P[<</F(C6)/N 45 0 R>>]>><</O/UserProperties/P[<</F(SMD_0402)/N 46 0 R>>]>><</O/UserProperties/P[<</F(0.1uF)/N(Value)>>]>>]/K[317 579 0 R]/P 78 0 R/S/C6/Pg 23 0 R>>endobj582 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 318/P 583 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj583 0 obj<</A[<</O/UserProperties/P[<</F()/N()>>]>><</O/UserProperties/P[<</F(IC)/N 39 0 R>>]>><</O/UserProperties/P[<</F 72 0 R/N(Device)>>]>><</O/UserProperties/P[<</F 42 0 R/N 41 0 R>>]>><</O/UserProperties/P[<</F(12.7000)/N(Height)>>]>><</O/UserProperties/P[<</F 584 0 R/N(Location)>>]>><</O/UserProperties/P[<</F 72 0 R/N 44 0 R>>]>><</O/UserProperties/P[<</F(C8)/N 45 0 R>>]>><</O/UserProperties/P[<</F(SMD_0603)/N 46 0 R>>]>><</O/UserProperties/P[<</F(4.7uF)/N(Value)>>]>>]/K[319 582 0 R]/P 70 0 R/S/C8/Pg 23 0 R>>endobj585 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 320/P 586 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj586 0 obj<</A[<</O/UserProperties/P[<</F(N3070537)/N(Net)>>]>><</O/UserProperties/P[<</F 587 0 R/N 58 0 R>>]>>]/K[321 585 0 R]/P 34 0 R/S/N3070537/Pg 23 0 R>>endobj588 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 322/P 589 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj589 0 obj<</A[<</O/UserProperties/P[<</F(N3068094)/N(Net)>>]>><</O/UserProperties/P[<</F 590 0 R/N 58 0 R>>]>>]/K[323 588 0 R]/P 34 0 R/S/N3068094/Pg 23 0 R>>endobj591 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 324/P 592 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj592 0 obj<</A[<</O/UserProperties/P[<</F(N3068096)/N(Net)>>]>><</O/UserProperties/P[<</F(4.218 MM)/N 58 0 R>>]>>]/K[325 591 0 R]/P 34 0 R/S/N3068096/Pg 23 0 R>>endobj593 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 326/P 594 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj594 0 obj<</A[<</O/UserProperties/P[<</F(N3068100)/N(Net)>>]>><</O/UserProperties/P[<</F 595 0 R/N 58 0 R>>]>>]/K[327 593 0 R]/P 34 0 R/S/N3068100/Pg 23 0 R>>endobj596 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 328/P 597 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj597 0 obj<</A[<</O/UserProperties/P[<</F(N3068098)/N(Net)>>]>><</O/UserProperties/P[<</F 598 0 R/N 58 0 R>>]>>]/K[329 596 0 R]/P 34 0 R/S/N3068098/Pg 23 0 R>>endobj599 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 330/P 600 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj600 0 obj<</A[<</O/UserProperties/P[<</F()/N()>>]>><</O/UserProperties/P[<</F(IC)/N 39 0 R>>]>><</O/UserProperties/P[<</F 285 0 R/N(Device)>>]>><</O/UserProperties/P[<</F 42 0 R/N 41 0 R>>]>><</O/UserProperties/P[<</F(12.7000)/N(Height)>>]>><</O/UserProperties/P[<</F 601 0 R/N(Location)>>]>><</O/UserProperties/P[<</F 285 0 R/N 44 0 R>>]>><</O/UserProperties/P[<</F(R28)/N 45 0 R>>]>><</O/UserProperties/P[<</F(SMD_0402)/N 46 0 R>>]>><</O/UserProperties/P[<</F(100E)/N(Value)>>]>>]/K[331 599 0 R]/P 78 0 R/S/R28/Pg 23 0 R>>endobj602 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 332/P 603 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj603 0 obj<</A[<</O/UserProperties/P[<</F(N3064576)/N(Net)>>]>><</O/UserProperties/P[<</F(2.121 MM)/N 58 0 R>>]>>]/K[333 602 0 R]/P 34 0 R/S/N3064576/Pg 23 0 R>>endobj604 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 334/P 605 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj605 0 obj<</A[<</O/UserProperties/P[<</F()/N()>>]>><</O/UserProperties/P[<</F(IC)/N 39 0 R>>]>><</O/UserProperties/P[<</F 606 0 R/N(Device)>>]>><</O/UserProperties/P[<</F 42 0 R/N 41 0 R>>]>><</O/UserProperties/P[<</F(12.7000)/N(Height)>>]>><</O/UserProperties/P[<</F 607 0 R/N(Location)>>]>><</O/UserProperties/P[<</F 606 0 R/N 44 0 R>>]>><</O/UserProperties/P[<</F(C12)/N 45 0 R>>]>><</O/UserProperties/P[<</F(SMD_0402)/N 46 0 R>>]>><</O/UserProperties/P[<</F(12 pF)/N(Value)>>]>>]/K[335 604 0 R]/P 78 0 R/S/C12/Pg 23 0 R>>endobj608 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 336/P 610 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj609 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K[337 610 0 R]/P 31 0 R/S/VM3011/Pg 23 0 R>>endobj610 0 obj<</A[<</O/UserProperties/P[<</F()/N()>>]>><</O/UserProperties/P[<</F(IC)/N 39 0 R>>]>><</O/UserProperties/P[<</F 611 0 R/N(Device)>>]>><</O/UserProperties/P[<</F 42 0 R/N 41 0 R>>]>><</O/UserProperties/P[<</F(12.7000)/N(Height)>>]>><</O/UserProperties/P[<</F 612 0 R/N(Location)>>]>><</O/UserProperties/P[<</F 611 0 R/N 44 0 R>>]>><</O/UserProperties/P[<</F(U2)/N 45 0 R>>]>><</O/UserProperties/P[<</F(VM3011)/N 46 0 R>>]>><</O/UserProperties/P[<</F(VM3011)/N(Value)>>]>>]/K[338 608 0 R]/P 609 0 R/S/U2/Pg 23 0 R>>endobj613 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 339/P 614 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj614 0 obj<</A[<</O/UserProperties/P[<</F()/N()>>]>><</O/UserProperties/P[<</F(IC)/N 39 0 R>>]>><</O/UserProperties/P[<</F 606 0 R/N(Device)>>]>><</O/UserProperties/P[<</F 42 0 R/N 41 0 R>>]>><</O/UserProperties/P[<</F(12.7000)/N(Height)>>]>><</O/UserProperties/P[<</F 615 0 R/N(Location)>>]>><</O/UserProperties/P[<</F 606 0 R/N 44 0 R>>]>><</O/UserProperties/P[<</F(C13)/N 45 0 R>>]>><</O/UserProperties/P[<</F(SMD_0402)/N 46 0 R>>]>><</O/UserProperties/P[<</F(12 pF)/N(Value)>>]>>]/K[340 613 0 R]/P 78 0 R/S/C13/Pg 23 0 R>>endobj616 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 341/P 617 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj617 0 obj<</A[<</O/UserProperties/P[<</F()/N()>>]>><</O/UserProperties/P[<</F(IC)/N 39 0 R>>]>><</O/UserProperties/P[<</F 565 0 R/N(Device)>>]>><</O/UserProperties/P[<</F 42 0 R/N 41 0 R>>]>><</O/UserProperties/P[<</F(12.7000)/N(Height)>>]>><</O/UserProperties/P[<</F 618 0 R/N(Location)>>]>><</O/UserProperties/P[<</F 565 0 R/N 44 0 R>>]>><</O/UserProperties/P[<</F(RN4)/N 45 0 R>>]>><</O/UserProperties/P[<</F 567 0 R/N 46 0 R>>]>><</O/UserProperties/P[<</F 568 0 R/N(Value)>>]>>]/K[342 616 0 R]/P 563 0 R/S/RN4/Pg 23 0 R>>endobj619 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 343/P 620 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj620 0 obj<</A[<</O/UserProperties/P[<</F(N3070535)/N(Net)>>]>><</O/UserProperties/P[<</F 621 0 R/N 58 0 R>>]>>]/K[344 619 0 R]/P 34 0 R/S/N3070535/Pg 23 0 R>>endobj622 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 345/P 623 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj623 0 obj<</A[<</O/UserProperties/P[<</F(N3070533)/N(Net)>>]>><</O/UserProperties/P[<</F 624 0 R/N 58 0 R>>]>>]/K[346 622 0 R]/P 34 0 R/S/N3070533/Pg 23 0 R>>endobj625 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 347/P 626 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj626 0 obj<</A[<</O/UserProperties/P[<</F()/N()>>]>><</O/UserProperties/P[<</F(IC)/N 39 0 R>>]>><</O/UserProperties/P[<</F 134 0 R/N(Device)>>]>><</O/UserProperties/P[<</F 42 0 R/N 41 0 R>>]>><</O/UserProperties/P[<</F(12.7000)/N(Height)>>]>><</O/UserProperties/P[<</F 627 0 R/N(Location)>>]>><</O/UserProperties/P[<</F 134 0 R/N 44 0 R>>]>><</O/UserProperties/P[<</F(R35)/N 45 0 R>>]>><</O/UserProperties/P[<</F(SMD_0402)/N 46 0 R>>]>><</O/UserProperties/P[<</F(10K)/N(Value)>>]>>]/K[348 625 0 R]/P 78 0 R/S/R35/Pg 23 0 R>>endobj628 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 349/P 629 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj629 0 obj<</A[<</O/UserProperties/P[<</F()/N()>>]>><</O/UserProperties/P[<</F(IC)/N 39 0 R>>]>><</O/UserProperties/P[<</F 145 0 R/N(Device)>>]>><</O/UserProperties/P[<</F 42 0 R/N 41 0 R>>]>><</O/UserProperties/P[<</F(12.7000)/N(Height)>>]>><</O/UserProperties/P[<</F 630 0 R/N(Location)>>]>><</O/UserProperties/P[<</F 145 0 R/N 44 0 R>>]>><</O/UserProperties/P[<</F(D4)/N 45 0 R>>]>><</O/UserProperties/P[<</F 147 0 R/N 46 0 R>>]>><</O/UserProperties/P[<</F 148 0 R/N(Value)>>]>>]/K[350 628 0 R]/P 143 0 R/S/D4/Pg 23 0 R>>endobj631 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 351/P 632 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj632 0 obj<</A[<</O/UserProperties/P[<</F()/N()>>]>><</O/UserProperties/P[<</F(IC)/N 39 0 R>>]>><</O/UserProperties/P[<</F 134 0 R/N(Device)>>]>><</O/UserProperties/P[<</F 42 0 R/N 41 0 R>>]>><</O/UserProperties/P[<</F(12.7000)/N(Height)>>]>><</O/UserProperties/P[<</F 633 0 R/N(Location)>>]>><</O/UserProperties/P[<</F 134 0 R/N 44 0 R>>]>><</O/UserProperties/P[<</F(R34)/N 45 0 R>>]>><</O/UserProperties/P[<</F(SMD_0402)/N 46 0 R>>]>><</O/UserProperties/P[<</F(10K)/N(Value)>>]>>]/K[352 631 0 R]/P 78 0 R/S/R34/Pg 23 0 R>>endobj634 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 353/P 635 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj635 0 obj<</A[<</O/UserProperties/P[<</F()/N()>>]>><</O/UserProperties/P[<</F(IC)/N 39 0 R>>]>><</O/UserProperties/P[<</F 223 0 R/N(Device)>>]>><</O/UserProperties/P[<</F 42 0 R/N 41 0 R>>]>><</O/UserProperties/P[<</F(12.7000)/N(Height)>>]>><</O/UserProperties/P[<</F 636 0 R/N(Location)>>]>><</O/UserProperties/P[<</F 223 0 R/N 44 0 R>>]>><</O/UserProperties/P[<</F(C16)/N 45 0 R>>]>><</O/UserProperties/P[<</F(SMD_0402)/N 46 0 R>>]>><</O/UserProperties/P[<</F(0.1uF)/N(Value)>>]>>]/K[354 634 0 R]/P 78 0 R/S/C16/Pg 23 0 R>>endobj637 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 355/P 638 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj638 0 obj<</A[<</O/UserProperties/P[<</F()/N()>>]>><</O/UserProperties/P[<</F(IC)/N 39 0 R>>]>><</O/UserProperties/P[<</F 223 0 R/N(Device)>>]>><</O/UserProperties/P[<</F 42 0 R/N 41 0 R>>]>><</O/UserProperties/P[<</F(12.7000)/N(Height)>>]>><</O/UserProperties/P[<</F 639 0 R/N(Location)>>]>><</O/UserProperties/P[<</F 223 0 R/N 44 0 R>>]>><</O/UserProperties/P[<</F(C17)/N 45 0 R>>]>><</O/UserProperties/P[<</F(SMD_0402)/N 46 0 R>>]>><</O/UserProperties/P[<</F(0.1uF)/N(Value)>>]>>]/K[356 637 0 R]/P 78 0 R/S/C17/Pg 23 0 R>>endobj640 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 357/P 641 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj641 0 obj<</A[<</O/UserProperties/P[<</F(N3070531)/N(Net)>>]>><</O/UserProperties/P[<</F 642 0 R/N 58 0 R>>]>>]/K[358 640 0 R]/P 34 0 R/S/N3070531/Pg 23 0 R>>endobj643 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 359/P 644 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj644 0 obj<</A[<</O/UserProperties/P[<</F(N3070529)/N(Net)>>]>><</O/UserProperties/P[<</F 645 0 R/N 58 0 R>>]>>]/K[360 643 0 R]/P 34 0 R/S/N3070529/Pg 23 0 R>>endobj646 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 361/P 647 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj647 0 obj<</A[<</O/UserProperties/P[<</F(N3070123)/N(Net)>>]>><</O/UserProperties/P[<</F 648 0 R/N 58 0 R>>]>>]/K[362 646 0 R]/P 34 0 R/S/N3070123/Pg 23 0 R>>endobj649 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 363/P 651 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj650 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K[364 651 0 R]/P 31 0 R/S/CON_2X5_SMA_1P27/Pg 23 0 R>>endobj651 0 obj<</A[<</O/UserProperties/P[<</F()/N()>>]>><</O/UserProperties/P[<</F(IC)/N 39 0 R>>]>><</O/UserProperties/P[<</F 652 0 R/N(Device)>>]>><</O/UserProperties/P[<</F 42 0 R/N 41 0 R>>]>><</O/UserProperties/P[<</F(12.7000)/N(Height)>>]>><</O/UserProperties/P[<</F 653 0 R/N(Location)>>]>><</O/UserProperties/P[<</F 652 0 R/N 44 0 R>>]>><</O/UserProperties/P[<</F(J7)/N 45 0 R>>]>><</O/UserProperties/P[<</F 654 0 R/N 46 0 R>>]>><</O/UserProperties/P[<</F 655 0 R/N(Value)>>]>>]/K[365 649 0 R]/P 650 0 R/S/J7/Pg 23 0 R>>endobj656 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 366/P 657 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj657 0 obj<</A[<</O/UserProperties/P[<</F()/N()>>]>><</O/UserProperties/P[<</F(IC)/N 39 0 R>>]>><</O/UserProperties/P[<</F 145 0 R/N(Device)>>]>><</O/UserProperties/P[<</F 42 0 R/N 41 0 R>>]>><</O/UserProperties/P[<</F(12.7000)/N(Height)>>]>><</O/UserProperties/P[<</F 658 0 R/N(Location)>>]>><</O/UserProperties/P[<</F 145 0 R/N 44 0 R>>]>><</O/UserProperties/P[<</F(D3)/N 45 0 R>>]>><</O/UserProperties/P[<</F 147 0 R/N 46 0 R>>]>><</O/UserProperties/P[<</F 148 0 R/N(Value)>>]>>]/K[367 656 0 R]/P 143 0 R/S/D3/Pg 23 0 R>>endobj659 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 368/P 660 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj660 0 obj<</A[<</O/UserProperties/P[<</F()/N()>>]>><</O/UserProperties/P[<</F(IC)/N 39 0 R>>]>><</O/UserProperties/P[<</F 80 0 R/N(Device)>>]>><</O/UserProperties/P[<</F 42 0 R/N 41 0 R>>]>><</O/UserProperties/P[<</F(12.7000)/N(Height)>>]>><</O/UserProperties/P[<</F 661 0 R/N(Location)>>]>><</O/UserProperties/P[<</F 80 0 R/N 44 0 R>>]>><</O/UserProperties/P[<</F(R31)/N 45 0 R>>]>><</O/UserProperties/P[<</F(SMD_0402)/N 46 0 R>>]>><</O/UserProperties/P[<</F(4K7)/N(Value)>>]>>]/K[369 659 0 R]/P 78 0 R/S/R31/Pg 23 0 R>>endobj662 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 370/P 663 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj663 0 obj<</A[<</O/UserProperties/P[<</F()/N()>>]>><</O/UserProperties/P[<</F(IC)/N 39 0 R>>]>><</O/UserProperties/P[<</F 80 0 R/N(Device)>>]>><</O/UserProperties/P[<</F 42 0 R/N 41 0 R>>]>><</O/UserProperties/P[<</F(12.7000)/N(Height)>>]>><</O/UserProperties/P[<</F 664 0 R/N(Location)>>]>><</O/UserProperties/P[<</F 80 0 R/N 44 0 R>>]>><</O/UserProperties/P[<</F(R29)/N 45 0 R>>]>><</O/UserProperties/P[<</F(SMD_0402)/N 46 0 R>>]>><</O/UserProperties/P[<</F(4K7)/N(Value)>>]>>]/K[371 662 0 R]/P 78 0 R/S/R29/Pg 23 0 R>>endobj665 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 372/P 666 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj666 0 obj<</A[<</O/UserProperties/P[<</F()/N()>>]>><</O/UserProperties/P[<</F(IC)/N 39 0 R>>]>><</O/UserProperties/P[<</F 134 0 R/N(Device)>>]>><</O/UserProperties/P[<</F 42 0 R/N 41 0 R>>]>><</O/UserProperties/P[<</F(12.7000)/N(Height)>>]>><</O/UserProperties/P[<</F 667 0 R/N(Location)>>]>><</O/UserProperties/P[<</F 134 0 R/N 44 0 R>>]>><</O/UserProperties/P[<</F(R30)/N 45 0 R>>]>><</O/UserProperties/P[<</F(SMD_0402)/N 46 0 R>>]>><</O/UserProperties/P[<</F(10K)/N(Value)>>]>>]/K[373 665 0 R]/P 78 0 R/S/R30/Pg 23 0 R>>endobj668 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 374/P 669 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj669 0 obj<</A[<</O/UserProperties/P[<</F()/N()>>]>><</O/UserProperties/P[<</F(IC)/N 39 0 R>>]>><</O/UserProperties/P[<</F 40 0 R/N(Device)>>]>><</O/UserProperties/P[<</F 42 0 R/N 41 0 R>>]>><</O/UserProperties/P[<</F(12.7000)/N(Height)>>]>><</O/UserProperties/P[<</F 670 0 R/N(Location)>>]>><</O/UserProperties/P[<</F 40 0 R/N 44 0 R>>]>><</O/UserProperties/P[<</F(H4)/N 45 0 R>>]>><</O/UserProperties/P[<</F(MH2_5MM)/N 46 0 R>>]>><</O/UserProperties/P[<</F(MH)/N(Value)>>]>>]/K[375 668 0 R]/P 37 0 R/S/H4/Pg 23 0 R>>endobj671 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 376/P 672 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj672 0 obj<</A[<</O/UserProperties/P[<</F()/N()>>]>><</O/UserProperties/P[<</F(IC)/N 39 0 R>>]>><</O/UserProperties/P[<</F 223 0 R/N(Device)>>]>><</O/UserProperties/P[<</F 42 0 R/N 41 0 R>>]>><</O/UserProperties/P[<</F(12.7000)/N(Height)>>]>><</O/UserProperties/P[<</F 673 0 R/N(Location)>>]>><</O/UserProperties/P[<</F 223 0 R/N 44 0 R>>]>><</O/UserProperties/P[<</F(C18)/N 45 0 R>>]>><</O/UserProperties/P[<</F(SMD_0402)/N 46 0 R>>]>><</O/UserProperties/P[<</F(0.1uF)/N(Value)>>]>>]/K[377 671 0 R]/P 78 0 R/S/C18/Pg 23 0 R>>endobj674 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 378/P 675 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj675 0 obj<</A[<</O/UserProperties/P[<</F()/N()>>]>><</O/UserProperties/P[<</F(IC)/N 39 0 R>>]>><</O/UserProperties/P[<</F 676 0 R/N(Device)>>]>><</O/UserProperties/P[<</F 42 0 R/N 41 0 R>>]>><</O/UserProperties/P[<</F(12.7000)/N(Height)>>]>><</O/UserProperties/P[<</F 677 0 R/N(Location)>>]>><</O/UserProperties/P[<</F 676 0 R/N 44 0 R>>]>><</O/UserProperties/P[<</F(D5)/N 45 0 R>>]>><</O/UserProperties/P[<</F 267 0 R/N 46 0 R>>]>><</O/UserProperties/P[<</F 678 0 R/N(Value)>>]>>]/K[379 674 0 R]/P 263 0 R/S/D5/Pg 23 0 R>>endobj679 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 380/P 680 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj680 0 obj<</A[<</O/UserProperties/P[<</F()/N()>>]>><</O/UserProperties/P[<</F(IC)/N 39 0 R>>]>><</O/UserProperties/P[<</F 40 0 R/N(Device)>>]>><</O/UserProperties/P[<</F 42 0 R/N 41 0 R>>]>><</O/UserProperties/P[<</F(12.7000)/N(Height)>>]>><</O/UserProperties/P[<</F 681 0 R/N(Location)>>]>><</O/UserProperties/P[<</F 40 0 R/N 44 0 R>>]>><</O/UserProperties/P[<</F(H1)/N 45 0 R>>]>><</O/UserProperties/P[<</F(MH2_5MM)/N 46 0 R>>]>><</O/UserProperties/P[<</F(MH)/N(Value)>>]>>]/K[381 679 0 R]/P 37 0 R/S/H1/Pg 23 0 R>>endobj682 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 382/P 683 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj683 0 obj<</A[<</O/UserProperties/P[<</F()/N()>>]>><</O/UserProperties/P[<</F(IC)/N 39 0 R>>]>><</O/UserProperties/P[<</F 565 0 R/N(Device)>>]>><</O/UserProperties/P[<</F 42 0 R/N 41 0 R>>]>><</O/UserProperties/P[<</F(12.7000)/N(Height)>>]>><</O/UserProperties/P[<</F 684 0 R/N(Location)>>]>><</O/UserProperties/P[<</F 565 0 R/N 44 0 R>>]>><</O/UserProperties/P[<</F(RN3)/N 45 0 R>>]>><</O/UserProperties/P[<</F 567 0 R/N 46 0 R>>]>><</O/UserProperties/P[<</F 568 0 R/N(Value)>>]>>]/K[383 682 0 R]/P 563 0 R/S/RN3/Pg 23 0 R>>endobj685 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 384/P 686 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj686 0 obj<</A[<</O/UserProperties/P[<</F(J8.10)/N(Net)>>]>><</O/UserProperties/P[<</F 687 0 R/N 58 0 R>>]>>]/K[385 685 0 R]/P 34 0 R/S/J8.10/Pg 23 0 R>>endobj688 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 386/P 689 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj689 0 obj<</A[<</O/UserProperties/P[<</F(J8.11)/N(Net)>>]>><</O/UserProperties/P[<</F 690 0 R/N 58 0 R>>]>>]/K[387 688 0 R]/P 34 0 R/S/J8.11/Pg 23 0 R>>endobj691 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 388/P 692 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj692 0 obj<</A[<</O/UserProperties/P[<</F(J8.12)/N(Net)>>]>><</O/UserProperties/P[<</F 693 0 R/N 58 0 R>>]>>]/K[389 691 0 R]/P 34 0 R/S/J8.12/Pg 23 0 R>>endobj694 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 390/P 695 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj695 0 obj<</A[<</O/UserProperties/P[<</F(J8.13)/N(Net)>>]>><</O/UserProperties/P[<</F 696 0 R/N 58 0 R>>]>>]/K[391 694 0 R]/P 34 0 R/S/J8.13/Pg 23 0 R>>endobj697 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 392/P 698 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj698 0 obj<</A[<</O/UserProperties/P[<</F(J8.14)/N(Net)>>]>><</O/UserProperties/P[<</F 699 0 R/N 58 0 R>>]>>]/K[393 697 0 R]/P 34 0 R/S/J8.14/Pg 23 0 R>>endobj700 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 394/P 701 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj701 0 obj<</A[<</O/UserProperties/P[<</F(J8.9)/N(Net)>>]>><</O/UserProperties/P[<</F 702 0 R/N 58 0 R>>]>>]/K[395 700 0 R]/P 34 0 R/S/J8.9/Pg 23 0 R>>endobj703 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 396/P 704 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj704 0 obj<</A[<</O/UserProperties/P[<</F()/N()>>]>><</O/UserProperties/P[<</F(IC)/N 39 0 R>>]>><</O/UserProperties/P[<</F 565 0 R/N(Device)>>]>><</O/UserProperties/P[<</F 42 0 R/N 41 0 R>>]>><</O/UserProperties/P[<</F(12.7000)/N(Height)>>]>><</O/UserProperties/P[<</F 705 0 R/N(Location)>>]>><</O/UserProperties/P[<</F 565 0 R/N 44 0 R>>]>><</O/UserProperties/P[<</F(RN1)/N 45 0 R>>]>><</O/UserProperties/P[<</F 567 0 R/N 46 0 R>>]>><</O/UserProperties/P[<</F 568 0 R/N(Value)>>]>>]/K[397 703 0 R]/P 563 0 R/S/RN1/Pg 23 0 R>>endobj706 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 398/P 707 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj707 0 obj<</A[<</O/UserProperties/P[<</F(J8.6)/N(Net)>>]>><</O/UserProperties/P[<</F 708 0 R/N 58 0 R>>]>>]/K[399 706 0 R]/P 34 0 R/S/J8.6/Pg 23 0 R>>endobj709 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 400/P 710 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj710 0 obj<</A[<</O/UserProperties/P[<</F(J8.7)/N(Net)>>]>><</O/UserProperties/P[<</F 711 0 R/N 58 0 R>>]>>]/K[401 709 0 R]/P 34 0 R/S/J8.7/Pg 23 0 R>>endobj712 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 402/P 713 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj713 0 obj<</A[<</O/UserProperties/P[<</F(J8.8)/N(Net)>>]>><</O/UserProperties/P[<</F 714 0 R/N 58 0 R>>]>>]/K[403 712 0 R]/P 34 0 R/S/J8.8/Pg 23 0 R>>endobj715 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 404/P 716 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj716 0 obj<</A[<</O/UserProperties/P[<</F(J8.2)/N(Net)>>]>><</O/UserProperties/P[<</F 717 0 R/N 58 0 R>>]>>]/K[405 715 0 R]/P 34 0 R/S/J8.2/Pg 23 0 R>>endobj718 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 406/P 719 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj719 0 obj<</A[<</O/UserProperties/P[<</F(J8.3)/N(Net)>>]>><</O/UserProperties/P[<</F 720 0 R/N 58 0 R>>]>>]/K[407 718 0 R]/P 34 0 R/S/J8.3/Pg 23 0 R>>endobj721 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 408/P 722 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj722 0 obj<</A[<</O/UserProperties/P[<</F(J8.4)/N(Net)>>]>><</O/UserProperties/P[<</F(8.075 MM)/N 58 0 R>>]>>]/K[409 721 0 R]/P 34 0 R/S/J8.4/Pg 23 0 R>>endobj723 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 410/P 724 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj724 0 obj<</A[<</O/UserProperties/P[<</F(J8.5)/N(Net)>>]>><</O/UserProperties/P[<</F 725 0 R/N 58 0 R>>]>>]/K[411 723 0 R]/P 34 0 R/S/J8.5/Pg 23 0 R>>endobj726 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 412/P 727 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj727 0 obj<</A[<</O/UserProperties/P[<</F(J8.1)/N(Net)>>]>><</O/UserProperties/P[<</F 728 0 R/N 58 0 R>>]>>]/K[413 726 0 R]/P 34 0 R/S/J8.1/Pg 23 0 R>>endobj729 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 414/P 730 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj730 0 obj<</A[<</O/UserProperties/P[<</F()/N()>>]>><</O/UserProperties/P[<</F(IC)/N 39 0 R>>]>><</O/UserProperties/P[<</F 134 0 R/N(Device)>>]>><</O/UserProperties/P[<</F 42 0 R/N 41 0 R>>]>><</O/UserProperties/P[<</F(12.7000)/N(Height)>>]>><</O/UserProperties/P[<</F 731 0 R/N(Location)>>]>><</O/UserProperties/P[<</F 134 0 R/N 44 0 R>>]>><</O/UserProperties/P[<</F(R13)/N 45 0 R>>]>><</O/UserProperties/P[<</F(SMD_0402)/N 46 0 R>>]>><</O/UserProperties/P[<</F(10K)/N(Value)>>]>>]/K[415 729 0 R]/P 78 0 R/S/R13/Pg 23 0 R>>endobj732 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 416/P 733 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj733 0 obj<</A[<</O/UserProperties/P[<</F()/N()>>]>><</O/UserProperties/P[<</F(IC)/N 39 0 R>>]>><</O/UserProperties/P[<</F 134 0 R/N(Device)>>]>><</O/UserProperties/P[<</F 42 0 R/N 41 0 R>>]>><</O/UserProperties/P[<</F(12.7000)/N(Height)>>]>><</O/UserProperties/P[<</F 734 0 R/N(Location)>>]>><</O/UserProperties/P[<</F 134 0 R/N 44 0 R>>]>><</O/UserProperties/P[<</F(R11)/N 45 0 R>>]>><</O/UserProperties/P[<</F(SMD_0402)/N 46 0 R>>]>><</O/UserProperties/P[<</F(10K)/N(Value)>>]>>]/K[417 732 0 R]/P 78 0 R/S/R11/Pg 23 0 R>>endobj735 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 418/P 736 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj736 0 obj<</A[<</O/UserProperties/P[<</F(N3056722)/N(Net)>>]>><</O/UserProperties/P[<</F 737 0 R/N 58 0 R>>]>>]/K[419 735 0 R]/P 34 0 R/S/N3056722/Pg 23 0 R>>endobj738 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 420/P 739 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj739 0 obj<</A[<</O/UserProperties/P[<</F()/N()>>]>><</O/UserProperties/P[<</F(IC)/N 39 0 R>>]>><</O/UserProperties/P[<</F 134 0 R/N(Device)>>]>><</O/UserProperties/P[<</F 42 0 R/N 41 0 R>>]>><</O/UserProperties/P[<</F(12.7000)/N(Height)>>]>><</O/UserProperties/P[<</F 740 0 R/N(Location)>>]>><</O/UserProperties/P[<</F 134 0 R/N 44 0 R>>]>><</O/UserProperties/P[<</F(R12)/N 45 0 R>>]>><</O/UserProperties/P[<</F(SMD_0402)/N 46 0 R>>]>><</O/UserProperties/P[<</F(10K)/N(Value)>>]>>]/K[421 738 0 R]/P 78 0 R/S/R12/Pg 23 0 R>>endobj741 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 422/P 742 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj742 0 obj<</A[<</O/UserProperties/P[<</F()/N()>>]>><</O/UserProperties/P[<</F(IC)/N 39 0 R>>]>><</O/UserProperties/P[<</F 134 0 R/N(Device)>>]>><</O/UserProperties/P[<</F 42 0 R/N 41 0 R>>]>><</O/UserProperties/P[<</F(12.7000)/N(Height)>>]>><</O/UserProperties/P[<</F 743 0 R/N(Location)>>]>><</O/UserProperties/P[<</F 134 0 R/N 44 0 R>>]>><</O/UserProperties/P[<</F(R10)/N 45 0 R>>]>><</O/UserProperties/P[<</F(SMD_0402)/N 46 0 R>>]>><</O/UserProperties/P[<</F(10K)/N(Value)>>]>>]/K[423 741 0 R]/P 78 0 R/S/R10/Pg 23 0 R>>endobj744 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 424/P 745 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj745 0 obj<</A[<</O/UserProperties/P[<</F(N3056718)/N(Net)>>]>><</O/UserProperties/P[<</F 746 0 R/N 58 0 R>>]>>]/K[425 744 0 R]/P 34 0 R/S/N3056718/Pg 23 0 R>>endobj747 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 426/P 749 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj748 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K[427 760 0 R 749 0 R]/P 31 0 R/S/CN2/Pg 23 0 R>>endobj749 0 obj<</A[<</O/UserProperties/P[<</F()/N()>>]>><</O/UserProperties/P[<</F(IC)/N 39 0 R>>]>><</O/UserProperties/P[<</F 750 0 R/N(Device)>>]>><</O/UserProperties/P[<</F 42 0 R/N 41 0 R>>]>><</O/UserProperties/P[<</F(7.8740)/N(Height)>>]>><</O/UserProperties/P[<</F 751 0 R/N(Location)>>]>><</O/UserProperties/P[<</F 750 0 R/N 44 0 R>>]>><</O/UserProperties/P[<</F(J3)/N 45 0 R>>]>><</O/UserProperties/P[<</F(CN2)/N 46 0 R>>]>><</O/UserProperties/P[<</F(CON2)/N(Value)>>]>>]/K[428 747 0 R]/P 748 0 R/S/J3/Pg 23 0 R>>endobj752 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 429/P 754 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj753 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K[430 754 0 R]/P 31 0 R/S/QWIIC_PRT-14417_4208/Pg 23 0 R>>endobj754 0 obj<</A[<</O/UserProperties/P[<</F()/N()>>]>><</O/UserProperties/P[<</F(IC)/N 39 0 R>>]>><</O/UserProperties/P[<</F 755 0 R/N(Device)>>]>><</O/UserProperties/P[<</F 42 0 R/N 41 0 R>>]>><</O/UserProperties/P[<</F(12.7000)/N(Height)>>]>><</O/UserProperties/P[<</F 756 0 R/N(Location)>>]>><</O/UserProperties/P[<</F 755 0 R/N 44 0 R>>]>><</O/UserProperties/P[<</F(J4)/N 45 0 R>>]>><</O/UserProperties/P[<</F 757 0 R/N 46 0 R>>]>><</O/UserProperties/P[<</F 758 0 R/N(Value)>>]>>]/K[431 752 0 R]/P 753 0 R/S/J4/Pg 23 0 R>>endobj759 0 obj<</A<</O/UserProperties/P[<</F()/N()>>]>>/K 432/P 760 0 R/S/ASSY_TOP/Pg 23 0 R>>endobj760 0 obj<</A[<</O/UserProperties/P[<</F()/N()>>]>><</O/UserProperties/P[<</F(IC)/N 39 0 R>>]>><</O/UserProperties/P[<</F 750 0 R/N(Device)>>]>><</O/UserProperties/P[<</F 42 0 R/N 41 0 R>>]>><</O/UserProperties/P[<</F(7.8740)/N(Height)>>]>><</O/UserProperties/P[<</F 761 0 R/N(Location)>>]>><</O/UserProperties/P[<</F 750 0 R/N 44 0 R>>]>><</O/UserProperties/P[<</F(J2)/N 45 0 R>>]>><</O/UserProperties/P[<</F(CN2)/N 46 0 R>>]>><</O/UserProperties/P[<</F(CON2)/N(Value)>>]>>]/K[433 759 0 R]/P 748 0 R/S/J2/Pg 23 0 R>>endobj23 0 obj<</Annots 26 0 R/Parent 2 0 R/StructParents 0/Contents 771 0 R/MediaBox[-36.2551 -50.669 234.255 100.998]/Resources<</Font<</TT0 764 0 R>>/ProcSet[/PDF/Text]/Properties<</MC0 5 0 R/MC1 6 0 R/MC2 7 0 R/MC3 8 0 R/MC4 10 0 R/MC5 16 0 R/MC6 17 0 R>>>>/Type/Page>>endobj26 0 obj[25 0 R]endobj771 0 obj<</Length 29452/Filter/FlateDecode>>stream
+HâÏW]Ø∑}øøb€áKîHë@ ævã5íÿ˜•OÖa∏©SAç†˝˚=5Îµw∆ùΩŒÀ&Hvœ]Iá"yHÍ·›ÕÉnßOn”Ù—Ìtì&ˇ˜Ìœ7ûæ|˝¸∑Wˇyy˚ÎÎ_ﬂæzÛÚ∑∑Ø^Lo_›<∏ªKSûÓ˛q√≥ÍÎ„õ»úE'k3W™”›õõ?|˜Ùn˙”˜}2¶Ôû=˚€ﬂÔ~¯ÒèwøÄÂ@uV¬1è6=~{Ãa‡øorßÃSõì
+[†o˙üÛÙÙœ7i.÷¶ˇ¸Çˇ˛2m_≈œyÉı§ﬂ^ﬂ¸ÛÊŸÕO'…9Lj‚ù©¥Èêf6†Èt»3éuîµ9™8”aI’°ïÄµú58÷°ê£Áh∆Œ2S Ä8Ø:b”éH’·@Ã8¶Œ•Já ‰P¨¬ÜÉxNê9,à©Ceq(ŸYAG*úÊPrôà|ﬂ[Áî´√R¨√JÍê)†r_,Ê{9lîYµ˛õ∑6¸ˇwVl)57…#œö_Á√†e¨ñÜªÂ}aõ6≥Êïƒ@¥r#ku Í∂§Ó·:ÙßÒ±FX‘Rj2Ux(óö§ÓÕIè)T®´©_©H≈tﬂÕ∫Â~1ˇX„·§Y€)≤≠ûÑr4‰·.®P“11ËgW¥ K1W¥˙⁄±w‹<ï˝∂pÊÅÅ…Û¶˛k±E˚iÃ
+à6ß˛{´sŒéMJ`sÅB‚©„:ì≥!w§ñ“kHcl≠óO`ËŒr/*60ªQVj	¨^f`ÜÁæk€%^P°j`7∞vª∫kØ-Ωû∂Ãé[◊ºÀ[z9…2ñõv,©ﬂﬁE›KF
+k-Øñ85Ÿ¿n=∂…πÿ≥¡Kπö{¡’Ñ >Ÿ≤¬·uΩ#dÉó©†êG2µ,(∞;s©·¢°«5BTÁÌ¥ÏÑ‚œv÷tuBÂB≠I›€ ‰,˚˛+"§P√ji≥‚©@FÕ	©îd•Ï&û¢±Ø1ÇÜµ§§ì@Lî!$ŸÌS¥TlÀ¥¡h9dBT)î’›>Ñ∂ÓTà:qµ“RÃõ«NF6wjÂµ"õ
+Œ‹jÖ`Ñêƒ—ΩåÿÏˇ[Ác•ñPJ„R“∂ª	ÉJ<O›≥Îå∆»4Ò
+ü≤';K◊"óµÊò1Jì OQY„J&ç›åŸÛÜe=o∫H.Üæ∆Rç˜éQﬁM?í7Ëˇ)#]hbCIÕdﬂ(‡wƒdÜyxÀ©Vj+¸P⁄˛Çö´˚¥ï-ü¢|KÇQ Ãû5ª”∆ª≈∂K’ß*F6ÿu¶≠≈¯ãLJ®ÏË”f>\Ì&‰61ˆµu™[ÑY˝}£∂ƒ˚*ÈÒÜ∂ﬁO≤ìLCïŸ◊ú¢Ò~,Yﬁ|ﬁê02±ö7‚}|!øñ∂‘¿≠6S<-f©™˛V›…◊∂ãvC˘1Ì∂ƒ®/mØ7â˘£—ÀﬁﬁQ51e∞àœÈóÊV€≈Ù´9˘À–«g|›{=çmıaßÜÈ∑NË∏x$xªﬂGÁeª90≤® 7	’ô	øÓ}Ö
+’è4\FéÄƒÈäº75cf⁄r'R2a˙l!OA5€ó,—Ç‚íÎÉ/â§héÑãÊΩﬁå1{kEé(´ª™!—¥ª≤ÙŸ≈±˛RR¬˝Y¸≠1öƒŒÎı°~„ë0aóÍO‹¥ì£ÚmËúßÁæ},ÁèÃ«On±Îá€È¡ì[ö>rÙ„Ûˇz˛ÛÀÈõo«ÔM√ı∑ﬂˆﬂNÆûyÆπâjUÛ[¢ﬁÖ=ﬂ≥_-k±Ræƒ–ùÈjÓÊ<g‘SÉûÓó3‹rÊúyÓ*3^V‚=Ö⁄a!íºeTÖQüQ…cü˛ÊÚrº|y·” …á„rOé=Fn—}RV˜3VñÚ2◊®9&aú◊ﬂO[G≥OùSˇ8 Nü∞Ï‰Øá±p’¨B3ÏP˜|Ü¡£•V?Ê≥œ$ÜÎ¥ö<Éj*^ñ3√ì™'¢:%E=R0°fëO≠Œøô±_t—Æ√f◊<!.<£Y≥Á˜E<|¿p∫>FûÑı≤§(?˘»ı	Öú{¶P4t™EΩ+TR5≤MÅÜ>ﬂ¨9ª„c≈!©¢}(Ê\Ω8µÕLºût'¨Ñ—∞§2–›¨8ﬁœXd0«d/~Â‚§ÉrÌ™'§E|(Ø)ÀÖn:<ºBÍıM∆¥ÇbSI?u—œ(¯FQÒyâJ£‡˚ó(¯Ô~8ó+Î∫öûk°Ü˜\ÜÄ,]jxÍmÔo∑œwòœ(´1:°T¥o±‰˚`\wÇÆÃ.'!UÒ⁄≈ãb+ÇówBVg¡;Føû
+¶¥ï…EH(lBÉ∂&ºB6l"¯Òãƒìqçº:√±g±¯\^≈'•-ﬂ1)v£ªø∆Vo8§ˆy)ïJáuÅ÷!òcØ,0∑)w®4`¸j9`È{–œÕI"…‚ºπ€î•üªÿ/±µ˜Y'ÔΩ>/´[<Ïœi¿ÿèw(aT¶k¿2`ïáç'g–JéÉ€{H€{K≠ùD©ù“P0,&0P	ƒ÷√·ƒ„ÓAK÷∏µpj·ÄN%0ºJ„(ã£r∏¢Dí‰$FVX‹†Ñì∆QÁŸ>M-;á«ÀXÀå≈uÅ-RsÅ±ó¨ë’p°_u‘UP˜*(eJ˙=w≈ç^!ú˜j<≠™R§d◊õ&ﬁzZ}ôYC‰Óà!C»=p∏\ñÅy`XÁexYØÙ.CÁáP}«Å ÿÌJ?ÑÓè“Qy‡a-Îryó'CÌá–~‡a|ké„u!ó±Âx•§èííè∏F˙±ºÀÎ!j¿¿!^âÜﬂ¡&ÔØ÷ˆ˛i÷ﬁcÛJ0p∑ûÚwHùS9‚	™Ggtz‚ÖæˆÀz=ŒÏ2£∂¯:DÈa‡8Oè±ÍŒÒö0bŸ˘À1ìL/ôµ§,Œç–ócÂÄÀØ2≤õ◊◊Åóıe‡∂‰˘¿À˛ÄΩpø}PÆºj™¡ﬂWÉí1ÉGJözÙS.¢¡hŒiZy¥û∞í{97ø€Ω∞nàƒ˘P@ô
+ª ë,Æ@‰·e
+“Ÿ¨r:™∞’äÔ≥¶úøæ8Æ/éÎã„ˇ|q\uU‘UQóUTE∫XªˇŒ∏—∞·∆ÛÜÕufƒ*UöjCíTº&¯˙Ç∏æ Æ/àØˆÇ∏j™¡´gÍ‹Z?
+Ñ…‰2ÔhŒiZy∏û∞q˜”{b]
+®ûœD≥V©Fµπä†>l*!˘|õ™G|Õ'å2≥≤ôn’ø]åÉQYÒAC˙{&±À)õë^ƒ§4’H¸3'‘π≤TktœîÎ^‡¥‚ùëíî ,Ñ»R’î.ì
+–·ñƒ[V6Tå{Ê‹ÉÆ˙¡–ìEª%6˘~¿s!A˜ÃπÓá∫RJ/“≈UëB˝ÛUõ›∆Æ√˛øUx£Cä"◊ì˝Ô·AvìLb…ˆ‹´qo”ªâ;ê@¥%îÎ‘©¡d;qLBö¢ÿÃÉLªJDVÓ˚ÈT¨o∞.Á"éI`ÿ∏;¬`ÿ	Ö”¡´©üÀBT∂ly2‰dU `"
+YE∫©Ì.ﬁ[K]%⁄3e ıâg%¸¿…òì~Ä4ﬂ¡pÉp\~1/¯L;ôÜEYî†äÁBN\,ı‹Â™fÌIã1¥‘ûÍVújõ∫ß†V;3eMC¸ùPaÅ∏û öıêXπdﬂÈuMÅûPÒ	™•/ãlk4‚5*}GE‚PÇ
+aõ06SV5≈|:´⁄Ä©y6Êåà¡xD"ÒJto˜6"¬{,ç‘ø√É¯¿B∞4Ù&èbx[∑yßF¨ê\†^D¥∆Dº¶à5y0hÑ)Ø≤wØëÖö"ﬂº1m∆@ p$Áº˙…VÎ≤¬Lùî‚Iôä=q2‰¨YÛG]éi⁄È~≠ ft
+‰ÑÒÄ‡«ç í⁄˜frgÆ	~ˆÊ{≥ãÉ ;˜f÷Ek•Frﬂõ0∫n5à◊LÍW©E	òçì1'Dààê“ê¬≤z¶DÉ´…UáöÒ@%§{ <r÷Kâ~`rÍôSΩd£|K?‘
+€Ä–y2Êd]xÄj	veVø‘ZVãÍ*˘ûÒ 0OyD?úå9Ê¡c,pÉØFè÷ÍƒÁà÷”HpÚsﬁd0,Éë“ÌÈ’XùTO÷á®ÿ—à„d»	4†¡∞ƒ((E∫◊G*µu≥:°¡¢d cz.‰òÜ®ÖÙò”‰"µ07%>[ê(÷ù™ûç9Ê°ÚÄààÇëàÓû∫Ω¡V':[ˆòΩ5ÄiÔîdô«D†:Åƒ£k™Û›Y˜d◊ﬁJƒ¿PÓÖ6ÕthEºè!åÜÛY‰œFc8˜áÇ∑Kí|#^‹-Ë≠ìQÎ=YãzV»Â≈∏toó∫¶KÁZ	qs÷'cŒàà^(À´ü	:©›düÀCJ©ö~:ÊòeΩÁÅ„Ä§E‰∏lá©äUãl¬ïdén)OÖú–PiLC∫∂D“∫∫ª$’≥i¿0 ÖO∆úµ√ aÏ€Éµ≠ö’⁄·T»Y;dr◊Üh|¨’⁄·\ÃI¿Ò`}Ö¡…Ñwˇ—∞¬Œ6R{L+Õ€™vxmm  g¡Djäfoá,j’≥ÕJcﬁé)∑ÏÅ'áÚÅ•AA@é§]*⁄• åß£g¬Ûƒ•Ìf˛AWcn\î€∞ˆ†	≤y‘:L˛Ù¶ﬂ‰Æ≈|pOÙ3´•{«E¶ù˙Ê£ò‚¸¥Ò!º˜M÷jÒ?F≈\5#üJ¸H¡±˘«<4Ï o5õvÃF†dñbèAﬁxª}‡r©…BfÛLBu÷‹W‹ßÌæ¥?¸˙
+ÙÓˇÈÛÕ«ı<ﬂøÿæ>éØè_gÛ'V3Ï¢ΩQŒVpBá¥È@D∞ïÛ
+))≥¯r¨}µf@ïÆ[©Ó)wòg+Å∂z*â®≠o≥xxæÓyõØÖƒ√≠µ'„ﬁd∞Áp\ók(¬öCJ#õï¸†“˛ôºi-P™GÆ«]’(ßπËü¿n3‹@{°±1ãq±Õ¯:À„À2k÷ÏW∏õnt÷®¸OÃâ À†ÓΩ˝z1˙Ê1√ÒbD˛ÂÜùx.ä≠aÒ3"G7`ú:£JM_RdÏ´"˜WT©ˆ›^Øz¸˝„ÌÎ≥9fÎ∆T‡’Û¬^pRÃÃlRnG;0Ω≠‡y£Ñ –ÍàJ∂î—âÕá˝∫Ö´âl®≥m|Ù¶ ⁄]« uGbÿÌ—e˜∞Rö‘⁄=ˇö€˛Ù„Aà¡¿1U8µíö∞ck4{ÿ¿Èêá/LTl¥y£-√Ï~ ‡æx5¶á¨?Ü\L-Z:œÊ#õèá;“åùPœü∑ò÷A¿Âl∞x∞ïÇ‡•Y“‹¸Ç≥cÇÜ¸ÅÅ¥Y†œ"≤o%8%åõœ∆Ì™ÉZ˜ˆT¢P‚≤SósÙ™µƒ0NÓA+¸oE∫[ƒÔk7]^‘ÌÁUgΩÊ£^”"a⁄›T‘1mv™√c◊˛»‡s@ŸµÉ∂’®Q|lıˆòäŸLÏÎŸ;z—È=ø…]π˝∫Ê§‡R‹πtΩÀ5é˜≈zØ}≠‹›GwóˇæzØ≈|≠‡iÉ4QK£
+Ås F™Õ‚ƒ—d;[%Ê%íQc]å	ﬁôáıF<i ûY/ÆÖ  ÚW@nå¥:≈öä¥∑›siRÇÿi∫/ñs˚UœIdmÉ&kQ¬82ÍEj”3Î/3Î¥ÖòƒjP. mHˇSäXHﬂÁk.:ΩÁé‹µò€¸¢¡•3ûPjödÀ@·müj˚ì>cºÌõ‰≠}∂Ù•>CvëJNıç}∂Ûµ>´=ı4JÂ∑ˆ\qß¬FYÒ{0î`Îyıß¥i=ﬁ^∑€eËÛÕ«ˇ∂øÿæ>éØè˚:7‘…/µfIÚŸ™;$√>‹ÈüÆ¬´!πk„ƒÙâ≈q)V›Wt˝`Kfj´rËv˚/Ôª·Ø´ä1ë.F‹P≈.UC%˚Ó÷Ï{DSf¢rÙkT˙À„!ot?„‘¢7≤J¡©<W…]î:6å{L@8…LWéßØ¬2J%1©&Ty5Ë¸û;»µ‹‚ÈÛkrà¡vöaƒôlï7¿¸©1Fﬁ∏k2”¢8FÊEÍm÷W¥æñjc‚wxX©2_·u∫êÊÂˆ˝lı“ö˘"-≥‚>Ñ<∫“ñcnË˝]YOÔœké;L.Ô:åq&Ææ–rl6à∫eõı=V⁄s´Ç;*ﬁ\_6Æh˝nTno>∫∏}ˇ|˚ÛŸoõ29˘¿bN¸Òˇ©˘·±][˙‹˝5≤c∞ÌzõPZKmˇ·ì£ÓOÆ=uq\¥ï∆⁄»g¢&~lÏ`fGNêlë˘EΩ∏ P} ‰3.◊o#»›5≠òu3°n˜∞˙u∞¡{5Dê!¥8äPKà€"œRÒÏQÌ®fT{[çzÁë∫ÔA·h[z%ô˛ËU›Ùìﬂ≈†€£´‚<
+(<∞õwÀJ:[fQ—i˚Ì9È5˜QØÅ ∞ﬂ≥Ñ¢ÀµÍ<Ö;’ØCÌ1≥k
+Bë·P0yYÉ˘®ËY5õØ}XÙj'ì¨À‚«£ª~ºı◊U«≠bÔ:≠6úÃ`‰ì@B|: ÖGÕT]:≠˘ìo;Ì‹÷ﬁ3ªA[◊,"“MYœÄµÁ[ZCÎkR˜}ﬂ`.8/]Éò„x’HgÎÎ†gôXò:,ë$b+ @Ùô†ˇ˚∞MlÀÓûQ4+˛ŒRÿq´¥ΩbZh‰vIK”êû)êMìKuË!´Î≥€∆
+ÃU5ê<Å¨!Å¥.Üúﬂíãu»Êrm1©'ì	≥µê„tnM∫öGIà˛∞q‚ù{CmM˙?Û’í‰∏é˜ÔæÄ9ƒè$÷≥ü9D«Ïz˘"ﬁı'!Ÿ.ïMUWôí≠Óée´
+P"ëH¨cˇ84G»U£≤ˆ°òº⁄8‰WΩÎ1&˘RÓó«‹∏öÎzçjÚŒÍìö•„ƒöcûiv	«Ôó‰˙)~˛'(`"rè÷FƒÍ;á\kÌﬁÊÉ>$‚(¯◊‘bålë”î—Zk_CÃ«
+∫C»>⁄sÂN¢/úO%'≤VΩ≠u·œR:Ø¬∞å)h»÷÷Ö~,Ê v“z–RöQ‘C4sa∑QÜ©QQ∏ åàJGúî®á˚Áà•0øâsƒ`˘∆KbKâê∫∂ùlrY…MCûWÅ]Ü,©E)i#˙È%Wñ!4œ„2‰Iç`¶f@r°Í≤çâXÆãà®:µ\7aÕ∂ §;_›8‚∫É®úä„%Òãﬂr„JÆyD$¨á]π≥BÁ‹Ÿ.’írk®4◊TKSó5Â⁄»≤hKí±˘Œ!W,KÌY¿Ä©©Œ5|«›◊≥,c¬!bÆnü;ò1Î !^`‰≠ùLí’*y±é√2$éÅ}Ÿ%Ê“¡Å·ä7>âß*•Eùˆb”ß≠Ï€∑Ä Ô∏ÿ
+%”Ê≈C)‡™5◊ùw…E»∞ƒ≤∑,sIU`ó≠#Ææ£∆⁄Êπº#‚∂Ö\7iQHﬂõ;k„N˘l∂πe<öm£•lu‹‚`ÛF˚F\7È451¬äZÜ¥C‹XÁ!¥MRÁ0ﬂ`~@¡YQ˜∫EáSVuˆ?êyVqå°]	1°o¥kÃ>@æÉCŒ '!)¨5úD@é≤MuŒÎoîb…	FnÉƒ}–JPg¡#BVV8ˆÃ¢"ﬁv∑@Àêö™y}©ÇÛË,∫Peõ•RG(¨Û6cŒ⁄Ÿ w£Äa€êÛàÍAø©©ë’ºj¬¯ñﬂxIÏÉ±Íæï‹4‚:™ü"Cƒº¶&C‹Y·sÌl∫Z[KÃ<’ƒV=ÎZã§Ôüox-©Ò˙Ûı<ˇXæ~ÖMY|qæ=éøøÓjHÇãfiëú)â◊µ‰∏…œ 3¨Wﬁ)R+â=*C[ΩÑÏ1cTZjï1÷$ˇßo∫˙¢ËnÛ˛=':Œú¸ÔøO £ú&˛Î?ˇ˚˚∆NÎÕﬂ∞âû9√Ø1¸Ãÿ«êc‰ß’?f¬ú#∞˚;ÒÕêŸô0Œ˘˛Æìcÿô‘ã‡#f…ƒC) ùÈóOW4Ä;œá©A_úoèwƒ$T3À¥≠Iù´9ê€≤‰2·p9‚”Êw¥ÃıxëRÙIÕ,oMC
+vä¢àƒ'›™k„
+ﬁãxNÇAèª€{ˇ∞d3Ÿ#õõ¬•XsË`2¬$(CdûÛâ4Ê”úV`t==Ù¸"∆Ú)|ô@ØK}Ø]C\Ñ`t]ÛlÍû/∫7◊:Â@ÖÔoª÷“±ﬂÄ¶¿_$YÛco˝˚˚/Iö˘˛ˆOI ûRô‡I<ñ;Úª`\ πzŒˆ6¬#c√6‚ñÑ,$/< ï!¬¬¨/É‚6FX≈”Rºç∂Ó”Ñ≈xÙplπfœ¯2˙∫0H;6â0S‘ÊI4C¸KªN¢˘¯ Uun9{L•bU2˙ñ+GŒ3IÓnªÂ Ç5ó´{çÊÅ– ®¿Ïb]»Rkçº!4l]ﬁôHí	$á°Cd^_lƒß∏!sñÇ)·xá2ò∏1]ﬁ-ñº˘˙+H{˚Ù|y∞GíENË"l©YÜ‹
+‘!“ò.hÁ	°˘äúüû/~‰‘òﬁ[XjYòCﬁ @î™i}&hë°ú:47üZ»“G^ÙD†æ®∫æñ’îë¶)Vâô%Jpzc3kT;Tj˘k*¡´◊†“˘üg6^√øHÉ•“À•i…fß¨µ|5õ›!TÃ”Lœòß6÷R;0©Ù\Q#¯Äã(i™p'πå.sÌ~ˇ5◊ÏÓ∂+À,(©ππéÒßY@	é*j√Ï…:§I®Kªt’tBr·ÛÌ¯ï3√zQ*ãÀÿN±óºu∏Ñ©PÊÚV¸∞5Ï@¶·Ûc't;~•g–äZ{±ìÖ◊¿é0∫«=’ä∑$q ≠¸˙,*⁄§‹OZ§’Ωzî+a"º˘˝Ìüñ$ˆe°«Vµ®§ΩVƒ(D0¨›QZ\™HËhSë¨>¬Áı‚NGë‡è‹™¢3`¥PvB(´∑°elÓO¥@4‰¥î~æ˝Ëåzp~ù9–‡ÜJqòF™ÿ„‡ÛêßxÜ|ãÉ{© ∑√†‘∂ [∏ù'KX§Ø¢Ç≈êﬁY¬ö
+Öãª5qÖÁÁ¡ı|ô;÷~±ìΩ÷ííJ∆JbëLiqÔ≥©8œÆ‚ÓˆkÎu hoŸ£é—X5Àı!j∏P1 ‰1àlÉÕÒŸ–N¥T[≈à¥ìX§T2=«LB:XtOZ∏c•¢wu KÓtÄaå£º‡‹âŸ@KÚêá‡@¸…sﬂÔÓz¸_TP1ëHsCi√
+D’-|5Vîúq,É¸®`ÌLÄOƒï{4?Æ‡B¡∞”ehòm‡⁄•d^õWÌÕV9èÈ€HÛÈ™n˘v˙
+ºc–ø˜¿≥Ñ≈Tº∂ê^+•dOÄ∑X é°˛ÏO¬À…≠†g›—è€vﬁ1åG«∑π=Ûèë¯ßôﬂX$}%eníÌ}3ﬂz}ãºXkM¡bòLGMqˆ∂7ww€#eN‘öªÈQäÿ”Ωé„$ÄñcÎöMÒª∂K“¨œé;sKÎ¡ßTZbÊæ> ÿlLk0_–πö[;~≠;v—≥-◊,ı$5’\äøzrê õ≥'´öΩåôN(ÄMË≈°ïÍ)_zã/Œ∑«{
+Ï)∫3å‹q=Åw=¡¢≤ûàÅ™ø⁄ /¿;ÆÌ… “P!Û*¿Ò}ãÏQ%ô∫íºò≈hÁñãdıÉ™	ëzõ|B&±¨cu=_JI©A˝?ﬂ}Â¶®÷?`◊0ŸX\ﬁ;Hÿa‘*ˆj¡H—¡éxπéãß,Iòkhúp UŸﬂ€.}“Ω8È0Œ<Uuå_»Å{T3Oâ@dZ)0sn;ZgÛ	;*˚Dpzò#IÃ[MûPâ”º‹ÑáªûÓS‡”2ªË…,9¨0n∆R‡Z.)ƒI∞…î¬ıÙ‡É0-ˆ˝U≥1íb wQË≠z›°hXıö8&¶ñƒ√ÀÉe∫Nø˘4/xøÁ-u:=`Ñi\2˛†ŸZ…ÕsÚc?ß ¬’dæu
+®Ω]sa	Uë§àø⁄Î3R∞äNì”¬†”†+›«Î«sp~4ØO&èÖm æa‡q9ô¶Fx,Ï‹ìjÛ‹ôÀ€^i+‘¡qËT8`Á>‰≠(MhMƒm-†õÆøÇb∑Oœóª£wëî∆—£¸Ii ë«t9ó4I«|ERãOœóø¨•vˆ∂“ ≤î
+ëÕ1ê)ó¡ZÜlÎ•xpÏw∑›ZTc¯„ì¥D¢<∏∑EëfÕ∫ª˝“µdÓH!-ÚΩjú¨4ı2§#≥çäDÊ”Eƒ~œπKwPFïÉ^‡ﬂq8ˇ)´√ë^∏Czî2ô‘úC¡ﬁWN¢Jÿß¨éWNÌÃ#Çõ∆
+À»Ù≠ÂlI89V9Y∞úˆÍ´ πçﬁ˜˙ÄX  Çƒ{rŸC˛ﬁGr∆-◊ääÜÆÜ¥'V´h4Frñd;≤«BDÓQL‰'©À€K g©#9%UÏMîÀë›)P8‰„•fÁ’z›Y| 'b‚Ç!dèj°ÓD¯%c˙∫ìtÖ,YãÏçŸâ…/¿ì·˚
+$R7JËÊ:Z ‹lŒ=®ÂzB›ãŸ|¡¡πµLg6§¢¨ª.”—ï^¶3H⁄VÃÛ∂cﬁ\Æúh∏Åœ÷∑É=™e‘Ã\ì®¡\ÌÌ&6Z9≠ŸîduÕßÇx9^Õ?†0åàd™^#¶$GX$‘U∆–d%‚≈l1#∂oïsj!1s™ñ≈õ  Ê)¬óÄxîÄò`–PÛ€!ﬁ¨óÇ™ßïJjÍ‡íâ…£8€uÃ‹⁄ëbÖoêp1w†÷ìF33◊T»£53x≥•ƒ¸j911±«ã&9ÁòÂäI∫`€ÅZOL†¨…™Å≈t[/ÖÌ0-'evI)â1\ÌÌq˚äÊÎ•ü¶ı§,Â^J«WbŸô09õ˛–§í%wÈ„ÜoØC%yΩË≥√¥ûíÏ˜J∂ñjU'ñï¨eΩ‹≥√¥úíarÉÌRP{éI)'ˆŸ€îΩ¬MQ›dÒ≤öûËzËTÓ~qææ>ﬁÔ_$Êv¬1ss2ûWÚVM€i´Æò‚◊”ø_:ZægØböüõûä jnƒ˙ˆ>‡$EŸÑ‘04óI®b’ÀßbSΩπ“#ö¥ﬁ”d-˛ πæ·'≠PÂ§%Ö]`s{èVÉ‘ä“øÔE‰ÏòéÓ'≠âÍ6*ßv√Íà
+æå( î≠ÆríiîÁ¿˚_ÔODgÔ÷y9¸ä0Ω˚≈˘„ıGÅøŸà∫ñ e{ÓJ!˜Ú^Ó`P(l/∫0w4äeËÜVZ‘7¨M,a%GﬂKéL≤b &ö®œ ¶A⁄q'¯:1‰X—á‹[·¬TßZbÇª<ò
+XEKFÚp‡√ép^¨;—ÑÂ”â„Nrá‘÷ê7IÁÜŸﬂÈŸÄŸêè¶∞=œù"8ﬁœ
+ßù#ª¬‘"Øº9|BÂâ®ÚTHz~wÿ°jëœ…©Zp≈"’Àd&9_s“¶ﬁÕıQjR•¶q•°
+{ù¨∑◊ iÄ˜ı©{ïöä·ÓVÇ*C“õIœã…m‘õ(}„ÇÖ¥û$z3—oœlT9ïÜiﬁN+@1[ıòpüZ‡ú~sÁIAÁ1™ÁI5$åBsmÑ¿$(8ÉúíﬂSfc1"’‘}ŒÂ'5ƒnßYâÊòxΩÜ9Á{ã ÊvÃ¨â´ëÛú¢x◊Ã`Ö7◊}≈í∆izÇò˛ÖÍ§Çœ€U∂MUìµäxÿb::©æd:˛?ö%FëQœ•z~[∑&Ù¿”·a∆›O¨©â5os9NµFÔY|Ôœ◊IÿÄ‡ ÑEı‹w∂ÉXjÉms†Ñ`%HÕ\Ò~‡,Ì@ÙÈ &€˛	Ë$çâ„ñ$vîR¯ˆwJ°àµF˜ºY+ù¨gd•≠À>ÚÊ:"	 @(îS¡daêƒs‡Kkñ!jj=© Çö⁄fŒ·"õ^éH∫]±^OèH¬ˇ!b¥ﬁQy◊íT∞/"Sù¯K5≥Ñ?´ß„Ò65f/§\@ƒÒíµo•æø‰i`é}&µ∏ZÑßNÚî#”tÑ€IRWø{∆€NÉZäBÚbK∞Ñ,p«R)QÓA)å≥ö≤◊I˜ﬁrd_ñ¬ënØû¥¿≥™SÈ·øA+*o⁄1wL†ô¨4`ÄNH›oÍ˚h7#~ç!’†∆{ŸQ∆4UAç®3Y9q√rÇ¬ô\Nû(Kå\&Q≤çÀhjñÓ>Írƒ~∆™[W]è_Ú§Éy_>ﬁú-x™‰%¸z∂ö∂¥•†õÎàßj©Å7Ìhπzõk¢út0À* ©
+ñçW†e—˚i2G!#:+w∆H'c—M2ÿÜv’$à'ZıÈˆˇ≤Ø@†,∏…bòŸlÇ}><∫æµpÚÜ1"2∏SÒc `Ù«9*„DóÁØø?=_^åønhÀÊ‚Ö•£»Z,)®$ı–ö,@ıG«ßÍ‘≤ámóÌÿ˘∆Ô#%ŒñÒ∫‰æÅµTûƒöì\î‹NP∏x∑’ÎÈ+ÖexØ0Z{æ&Í1¶©V}âƒ@Ö›ko„êòß|ˆ/JåŒUåJo„bÜ∏1Â%3”„&^H‚}Ø.±QÇæp µíYÏì≠ïmÂËZæ=¥È¡0€71∂UÆÆSì‰’M\`É∆ÅayÅ±U2ÎÏñ¨¿öøk·ÜÙ*ÎR-å5KC`_øÖ¡]≥xùﬁ≤ûTòæi·ÖﬁµOR_©4s¨ë)lè{x!ìﬁıœ1iï$’∞ÿ÷¬£ei◊¬∆…"gMëóa`Ë+ÎÎ´@%2Wâ3!ÎõM)˚2˝ª”7ó≈˚W °@’|bÜCõ“q1˙õîµê¬;á˛I
++,Z*MôÕÑ¿Ìõê≈∂†C£-÷vËùæ∞PîòÑ	¸M∆ZG‡]ˇ$ÅkbjÏuä¿Åø…X"©Ö¿S¯Í|ÆT·†pK∆•Rû⁄3'Rt≈¨]/î¢3^!&|#XM≤væäh°ÚÁ€Pπ‚â´ !ÀI-1kuûZpˇ(¥ùr*≈q£è”W Â&ÂƒìgØ´dEï°“f Bíra„rÑT§ÅÒ„xGK™Õ)>\ƒ!ù2âsØÈ£ü.µ›Q\è∑(‹ ÿÕ=üìàawä,G÷ˇxà˜rΩ~¥›/ŒØ π1ÑÚ&•íîs•:ÂWxﬂ6Ç.'¥∆œıÙU%±ç\æÄ<¥=¡PP™’¸ì⁄a†ú®†«T∫QVó©e`Z¿{£5fœL≠4sù+Ω9ˆ<52Ù‡úa˛ˆ (BÓŸ#∏lÌ›µÁV+Aµe…Àu4Z—ZAH·ÊdìÒ45—Ôp§‹^áµ∑õCp«‡&≥#ÊPM¢¶éWÑÈLÓm≤Ø”ÊºMËõÎêÏA•Tp–;±T%ü‘$ÖùD1≈3gÆó‰âC/¶›/ŒØëó$›Ü/ÅzÕK“"CÔ¿ÛÒÒ®ß(&ütˇÑ€àÏß>(∑πùæ[ÂqßUƒ§√©ùr∫—j™ÑZüÀœ6Z¡™jåN?0e…Å¬SEP◊‹P<+6Z	0®ò…ƒ˜-¬®:Nì√ÓŸNc¨é˛äiú·•Í9RÕõm|/ '™ ~Ï61äS£(œÿNÅç1◊‘à§9èxf˚√ﬁ≤Åä}X|X’*ÃiÎ¿]vW|ì√ÿ)´≠B9?íêù<pœπﬁ3S ´£√z‘qT'ôä£E«ﬂˇl#ÒÊ:DQ-ë6uVUbÂc{EP:ÕòΩty˛
+#˚¯È˘Ú‚»˙U5†¬≤’í@˘T˛ì‘„Ch≤¿‘ß_P˙êÀ∂Àv‹¶™vàÙ5ÅˇÏT@%#QØ¡23
+·√ÄâW•] L˛Û’≤«Ô˛ä˘Åa@ â*ó±s»¡˘	Wn:Êˇ+rf5⁄Àë†hu—ÄªSb/çnjï∂bï4Ó_:
+&)FB ÉZÉC(8Y´„ÆqÇΩd∫G∑Ÿ≠¿êùL’ı≥Ñ»t≠õ{ÿCW £PÙûÂÇzó5¬©iOÀ˚ã˜C>∞ÏZeÏó{§„ £^lÕ˚„Äë‚Ç‚‘‚4Yl%$6ﬂÑf–+l¯[ N±Ë¬†êêΩSF4˛x^∂‡6+–ºÏzsª+¶§¡ö°¢€Ï’\˘˙xÓw≈ÁÛ∫hÅTÇ¡ìªÿ›ûXa4;å¶ÅU¥Eàˆ_èCjm§êˆÜÃp~NüeòU∏:ûˆL∞N\!√’
+•%!ÿ§‹«»¯s(<^h∆‘æX˜◊Oy©åÅ©m) Öíèï aÕ5∑’ÂÍxö"/…m¨Î ‘ÇˆÀó‡_=ÇVò¬¢66Üb0◊¯Ì–ıOÁÃ5¶Æ®—Fıú]@∂l*£4j„{¨^íT`ÍÃFAëÜVﬁÀe˝èö*ôêÍ]çÂ¡ÙbœhiæÈ>àÈ=`Î©ı÷\ª}<lñ| 	5ˇxÿk ñ:DI¨„ˇüºAÌ4∏ì3
+5ıF›˘
+≠W…é2¥bw∫ö—#Y˝å´:∂':…P.‘¨BÇ@©ÛÑ∞E∞: Ï—lrÀhny
+¡w^¢¶©6à_¡3–*Ú´ƒkÙÑ°=+e_"[!f‚Â zq
+$_ú¡πB∆$Õ®˙ÏáçÆò˝0£gZ“¿.ZêÁ^‹ëò]Ü´wõâ%ìAZU@—Dòb‚˚âP‚Î„Y+4òèV–Ü≤∏Cì&ÙÜØ¿pHDK⁄ôàﬁ=ùSÅ+‰>3q(‹a#pƒ˙⁄æC^K_8„÷öﬂ¢)tÁ‘Ï9Ω:ûÅ®öJ.H@ˆu^åêâ–>jö∆ùÜ¶ûSO¡∞|>/ª“!≈÷(¡EÒ2m_îh‰Œ{ì{è-Àå˜ÍÃÙfXñ*#óÑ¢≈ò–ª\¡ïòéqÙ2Â“¯ÂBvs<Qì&ÎPO%eî≈J~o·P1±%ã5^¿TÿÆÅC
+n®…ÒX∑÷úœnA/üÆ€ãg≤ÚÄ	ÊØÇ1KhL%ë√èµ¶°0ÁòüÆ€ãgò®‰c’—∂EáXéL≠µ∫ç≠G[ÛéÆ›√õÜQHjæ@@¢EQ∞a^—µÑ¢˛ê
+›€ﬁ]Ì*∆•ñNyXê⁄ÏÎ#_o·:À‚ı∏Ñœ¿ ”Âf=DÂØÉ!.∞2¨‹5˜ÃF¡~ı≠Ü	íÇã
+LQÖßtC1C–DŒƒ]c`IÕkΩ¯é7(p‚8≥ÔÚ&Wæ>ûâ'B`¬l(O"çm⁄ı"46øHçı'Z£xæ*aß,‹‡OAÈ%‘æWÊœ^ß ª:û•LYÒ”±CwÏÆ˙óõRÄP40©¯à≤Ùf¥"/ëkÍ¶Pû›7âÅ∑⁄ıºÌ∞¿\a{t°AÚà˘‰b…KgÄ ÕºAh˛˙©gt¢ê™-‚∂®õa#ÖáO+ìØèßÕÄ-+Õ¨/¢ÿ†≠∫Â √VyG¯ ˘U[ âsAÊÁó<ä9‹Œ€	ÔÔàåˇ{äª7ÿßf≠01=Ñı©N'Ûyπ|jÆ˚†syo;ç◊π>á=≥„πÜ§)-H?/≥:áV√F`Ê∏^ãtõG÷/ÊyÔ–mÆj+=VΩ˜i8lõV|Áæ”l£˘4≤]RÌèŸûßπ°5?ªgm$s¥;÷eÌ'gV…ˆÁ:˜Ì¡¿›Ω+ˆEÅ¸¢‘˚y;MÁ8⁄ÂóÈ~ßÊ~Ût{o£±]*~ÿtˇÒ˝+¸ı˜?ÀÁœø}ˇ˙Á∑•._æ¸˛ü…ó´eZ‡Z¶fa≤õ˘|¯%€ÎıÒúqAÄ˙KÅ;À°ÃæÖ¶ñ;Y1ÔK«c!ÍÇ∂È≥-˝â*ï°ª∂‡«êøè_¨˚Î4*yÖM{öÊÉR]∂YzIŒã˛wÖævX˛¯·ƒø}¥ŒW~	ñëb ∏&ao·˘\-π¬£= ¨'_¨˚Î?gFL^G$µÄsPA`´È4,≈e˙””©hwã´kæÖ{”û2◊4≈:|DP∂ÔwÕ?Lm»ˆ=∫ÕC∆‹ïL™˜√Ä~»\°•êó'¶∆!ûù∆u1µ∆õŒé:8ËÙ≠%´Pø¡Ü€Lt‘k◊©‰ºbó¶d•„ÿL8]ÑUr•‚ojmNLÆ|}< ºDÊ¢Íû…8¬®.≤èÙª„0‘⁄û:ªÄ„bﬁ^Åö§Z«?œR–∆0Õ }˚‰ãıÚ˙IﬂöS]iV R0SM8∂∫ﬂZ/û6"¯Å+·‹®q[´≥x[õ≈£t{t]πf©µí‚∏Ä%E–«!¡=¥ıú¸øÈè«≥ijÇ9f•‹ó‚◊ç”®∆ÿÅ–‚.áüúŒTàñí≈$/ä»Ã€%¥äFSåákæiÒ>µ›Â”u{Ò¨;ò*öà ÅCïUÃ›DÉÈÛË⁄ÒÎÈÚÈ∫ΩxÜ	™£Aà˚¢ÿcU‘Jhöã_FIfÑvú\≥◊Ö¬jîGÕ	Àz`	ä'‘∑TÇ•r}<«P≤bp?N∑0}òn)ñ∫KÜzØn…¥5•ã‰$p"D!© {≈}T ü´Û…»ÀF±_¨˚ÎßrÍ
+Z∂–ﬁˆ´lCf@ŸëïŸÂãu˝ô•‹™PÖ¿Ç Ñ’ä–Àr|¯Ñ-G|}<Xû)‰*:ÁØ q©C˚ÇsÃ>^˚LhF5¥2ˇü˛Å4.,B9‘€¡˛·ñ ê≥ã”w—¶=cº.„>‚|7sy ÉÕf C	5ÛZKêy3»ø≤(í
+l=¥ª†4ªåfˆ'vgÅ?¢=Õ|¯b›_>k"(!9>@	3úåu	s∏Ñ|ˇäK˛˙˚üÂÛÁﬂæ˝Û€¬∏¯Àóﬂø·Û√0ß‹;ˆ\ä-YàBìñ&ﬁµâó%ó5YHcÿºÔÚ&!πıÒë)n”WÈ,{pP*Õ@º∞G&Æ8É6ÒÕ≤W|!THs=Œ*Ÿj€≤˚≈u∆´„œrOï’ y_»ﬂ‚∂H	¡™œ ‰9°àAMıv%Dˆ¥∫^ñåY‡ﬁ£ÿ˛sˆ}Ñ%§ƒ‚Z+∏Æ˜[Á•W«Á*àj›ñ∞sR’äÉ”jÕß0¥£˛;¿¨ (C„∫(ﬁ2Ë>
+©æ◊TJ^ã‘∞ÓπQfbWR∏U»néœï™ùV
+F≥Y…ÆtjÒï‘∆c∂∆òzüZ¢˜)%.üÆ€ãß[Ê J¿ìé)4díh*	õ9èÈœ!&.üÆ€ã?µ˜4∏à@PÔ›”ÏS∂vçÁ∆3z®Öπ˜∞á[=|¢«¯ßL>≤–HÉıŸ˙‰aH4 [p3Tñ†Aò™∫gÇqak¡R¸◊°:Äl¶íKAÔ‘N1´ÔWÕhv¡L√ån÷@O$∏Õ‹
+8øYëÀ≈…>Ï!"ÁŸ[t#'W’nùóZöì≠ÜZÚ–wËÜ¢◊«_X¡565Vt8=˚Ùx*¨*°})-5mÍ˚9ÑaL√ËB˝ó¸jŸq$πÅ˜˘ä:⁄’2ìÃ◊ug÷0X0˙º¿¢}ôˇ?8Hf=$U´´U⁄i¡>Ã(ŸUï…‰#"œçwÇ W)°rPõÔ¬5◊‘vÕ5@/RXGk=◊Ä`‡FU¸ÆÈÙÚÍÁk†æ∫” 	<c˛TLóy!mì∫!ë”¡πiÒ¬Wﬂe6'ÊÂDåóÅ”1…v†)Äƒ	«°è	ÎcEzö…≠„Loß7¯ÕÜû ÷»LQt=©q˜&å…+⁄ÿ™m˚É‰Œ5ò`ÿ∫û(/Q&âC
+Ñ¬¸G†Ih<∆ ØBµé:Ó7?ŒåM®Í^Œjﬁ«Ò˚ıô.Õm*ZíÙX»y9ƒEèNN&vÍ√π÷àÇ ;îΩƒ¢P˜Ÿa…mLB–èrF…p™
+˚˝Ì*Ÿ'Ø‹]q„UØî›•Uû´ãÙn ®"÷gË˘U¸¬3úäœ?∞*4t√¸(	$±Mó$øç∑tF ,¶b!$B'W!|xå‰ß…©/OÀÏtzkx
+)È‘F™ëU9Á÷˙^•#9ËR∑T—≤ºé‡¥‚p‘x¨0F8ƒ¥w∆cÂRT(K+á‡¸‡ á(F}∞>ÿ§!aÆeåvÚ·ài,ú≥Œ‹Fé•∂|]Óı£çTÉ’D‘óJ8L]ìæZú∏ÈCbHsQ˙l,rt~¸∏<
+ÎÑÇiZ(¥v®:r FA˙´<S≈ë\˘´ßÈıM""ÖùÿtñÇ$tÒg‘l–¡slñ! Å?£Ö	çUŒ@C˙a§kÈòs∂›Ì˜Dc3U–H÷ŸÉ”¸˙f≤0Ñ%)≤|‡kòµéMXèsÆeU»2≤QqÛ$æ’±‘R¸
+àƒÉÉÈüî”'Û≠Å<UÌ»ùö≥È!l¯8xV(.¥`ì¶Ãt¢¬0‡.Ù’Xr2¶’-ê é˘ |ﬂ·B"™Ú6äKåCCháD’‡¯sk®(ò»zıOãç–L¶&@” !*ø'
+%éú–¢\°1‘*M¬P1ÄÅ•\Ó_ò[N`¢Õ:Ç¡ïMá[Ë›CuÚ…ã¸X]û&7hYnƒBBÊÜi(ÒKÜÀ2B«ª)û[qH¬*íäúPU>HÀ¸£+"ø+5ù=Œ#`T}Ä©Ÿ©πÒ•˘^$ÄË1¿èc‰{G$$çïK#¯ä≤d?—≈]N»2A{òé¨)«À1'¶Cªhº07ù–tÑDÃhgh6>TÚ—Ù~3[¸◊ƒ˛¸◊SqãÃW>A:f"‚Cqî=ˆs £Ò∫ˇ¬ß’_O˝≈-ü†∞u:T!—Èáà–— ß BJ¨ı®¢ﬁ].ø¸ˆuˇ~˙Á◊·ßﬂæ Û7X?ø|q◊æˇ˛ˆa?ΩºË+/ˇ˛¬√ÀwØÄ¥¢∑h¥¡ç#§•h\YŸ·Â?_˛Ú∑oÒØ/|˘Âe≠?[BÕ`$ÂÜÇbÖ‘)V˛‹n.Ipı0¸ÅøiÄˇDyõj÷˚Åù–	§X∫…&St3‘¶1ï˛21îØ)ÄnïlñoÑﬁ5ãŸûë—˛Z}√ﬂ,ºx Åí[O>òYµ-D”lN€_Ëo¿
+"7ø5ñ]˜†ø2Ù”ñct∆
+òÙÓBÏfTC≠ª¬|;ï·¢UñCs≥(èô≈M)º~ T÷ﬂÜúÊ}ß ˙°4{CÊ‚Â≠Û»YÛ^¥B*˘ ≤„÷6I∞ºH¡«–gıﬁ8zYËËÜ•÷ØÀº2B“êÄ≥1yôˇ+–uô◊ Ä\xHu$Q1ΩÔæxπËùC0uj!◊‚¶^údO£¥¶"[Ä˙SM¶ö¡´º≈∞<µ:ò?ıô7F≠N]"d_˛Ïuó˝OÙ¨sG?‘ÀÂô◊‘Ùùó‘t=Ω¸|˜≠BÚà*àê‘ï–ÆBz£éŒw,	í¢›—ê§,ºqîî*W—∫Iúsü$ﬁ/Ü\”å>7¸÷ëªÊªÄÛéî¥∆ÔòîyÜ5‹µ‚ÛS‰<Ÿ∑9∏ÈÆs^Yª{L†.©p§L=∂A%UGñ–?|çÜGˇ'T“E:≈·éµÀô#Ω∞⁄1R*-ÌÇ≠ıBI5PMp´5+)<†&«±ké∫Î.XxÆf iÿçºB5ú*¸¿Ä•ùÎV#‘1Çb<1èhŒà˜≤MU?µå´W(w†6¥gØP±hh+X-PkÌõUåÜf3;µÙ}¥˛Oﬁﬁ"ˆ≤v√k˜‡‰ÌÍtØΩ‡çÜ8yÃßLÊe@W3$ Ë
+—B#§V˜Ü†ò∑s@ÎßÂ⁄ Sj÷ì"Îßö‡’∑ïŸ◊U¥`y[ÏJ:$UbDΩ†˚,È≤ôt(mpUÎØ∆ñˆ± ‡Ön!NÃ¶·÷˘wÎ:¿	ZU«e¡‰¬;˚ˆŸ‹∆¨.™∂±ËÚ∆òÇEN:*2∆JÃØeüÃË5µÇ^vq”„;5Ç?ìÁ>¿E¶“”·~óÂ\'YÓP¥ÅØpú∑N§)q¢}„≈‹à*»,/‰Múg&[eI¡`yÿ˚}Jíû§,uÖ.:U∏¸≥èÇ›>˙i‚VÒÌuíò¨À:lc¡"˘—˚}rn*TX ægË8W:a£◊Ì≈†3S@j=Ú.≠wãÈW;ÇêRãª⁄˘Lø:"Aû1`Ì∞<YÌ»í:ﬁ!yﬂë'ú%XSe(8	zÄ<ô;ùU˜)’ßí'oWp+‘b/‡8U©ﬁ84Ì<◊¥7 ì¿û•∫ãqÌ^áBìÿ≥rW4]=Mm˝iˆ.&√Õì„È\'‘”§˚7tkÆ¢‡pÉ©¥≤ìˇ|ƒùî~Ã´yW·f•åÚ<fLJü$G’◊etQhÌ\†E°ÿÍàzòÇkèáÒ˚π©z´F‡Äêˆ1ﬁénmmEùÏBÍªöµj#∆âGˆj[—Mw¿sµÍÖÊIó2ËØ∞Oﬂ öTq^+˚´¥SE€Ø£âÉÆPû€p-R5˘kZ]ÔèIjTÃaî,⁄2ÌñLi”Â’ñò%3	—Na}öúæﬁíQß*UÓå¬,Ü≥	U"Z◊Ë√‚lÁÔëÊ£äèév˙˘é.õ‹ÍÎ#–.*=¬P‘tnP7Ø≥U—Hó≥`Æj˚tÀ-XY_@˚õ÷;bÙŸ∏r]v|¿"è•÷–ÎnCdçåÖ8ƒ<6 ëd≤>ã»ò‹¯7êZ£.ˇá4ÄÁí[iCL®4UlNói9‘Uòá(PáµëÏú‰n¥Ÿ˙¨B≥Ìúîû´Õ6Ë[Pò˝RÀŒﬁ≤ÅÏöq˝‘ﬂ$⁄9%Æ»6±UK/Nm™…⁄‡…R®Â°3ö!Ì"µ€Ã;Ô®+⁄◊]7y∑ƒ†a∏3 ÔeFä
+¶A s(˙ Ù-]gFêôåÃDP
+ñ!Q€9<(dh√[˜z>: ™…¡ÃÿL≈çìÉçöZÑ<’T|Ä’ƒ-ñ¡¡«,ÕàAÉ}h5ê¸a√öÍ{:÷"IéVºz(,_ÈD
+ß'Î"G¢l[A1x•Âä#G≥≈“”∏É®¥¡{÷Ai¨±∑
+»t36$kf˚éKêı∞%∆ÍHG¡•z∞[2˛¬≈¬˝˜≥rBú÷ı$ce@	BëHº†64ú§Q€§Iõﬁ§‡A;;Í¡éùcF£ ÏÓ‹˘ñr◊`ÿ9AhQ»Zò&øjõkæÜ∫ŸWî†úßwig_y±j’Y⁄B^µÜ%qn*v.(uı,â?S_ÄLx(‚ø∫h93Uê¿GÍB√ZÁøÏWIí$7¸J~Äi‹ó≥t—òÕb≤ôÛ¸ˇ„ •äÏÓ±VK:U1‹ á√}ƒŸb!îzï0t-W!@3˙ŒÌœ€í}øÌ¨˝ü›ŸæœÌèw{d‹6∑«‘ù~â<AÍi@⁄ºôÀè†‹ü>Ñ‰ks√õﬁÜ“Y»î\„»˜‘í–∫≤Ü”6¬“s—ÖÅ}6⁄ô≈ƒ›Œû‰≠ S÷∆m†.íYÚíP9÷,a&ùÑ#Ÿ±¢zZ∆ç‹t0„H¥,Ì˜>ﬁØ˛Hz;≈Êß˝DóY!˙1ÈoÌÇÍ≥Â iÁßÚ·fÉç√Pª‡ø‘Y`…T
+’Ç®=e©∑KÇ'Ñë≤/|∑‘Zßkﬁª[„Lí⁄◊ eÊ®´∆›—¬Úif≥]KZ¿À≠>A£Cˇ1ßéÖÖEÃHàõΩ‰/B›≠’_®C$ïªfèÒcNÅ_™∆≠wK fµLG5¯‘N~Ão\Î¶–ÌOdÎ€∫ùn›¡∑vŸæÈÈ»”çN>ΩÁÙ‹S4Æâ≥H≥«6ÖÍ]⁄iH;É"C8I}©ÃÂ&Øïueò*⁄K`ÉY”Ff“4N7O{Tî]¸’}Ω[}S∫3f±.çj
+c™‚9YÍVS¨˙‰øÃØ◊ﬂÉ•¢Dlß‰ì—‘Ü“ˆdt~_BK_91°¿G›|s™vﬁ◊]S¬Æ´#Ÿ›7s™V0∑b3QÖQÃLJ{L#≥u«®Z‡-ózÿªﬂ‰îÚÏU9%éNAA"ÙÛ
+ﬁ.’Áõ·$Òa\‘åÆ¢g‚Eggªù“¯q∞™8#i≠:“≤ñ/µÊióÉr5n(Êbíô¢R:®	eM;÷≠ŒTn…drM/ıô˜ÖSK^ÁïÃiR9Kµq0ë}œk©÷Ñõê:ÉÓ…∞∞ÈË&Y¨&∆¥≤ƒ5ì√ÍYykMå5%'¬°1≥≥åuäΩ;ﬁ8¨}|≤EKQ8›∆t'|ä?¨f¿Ø‰í»~}”jñ
+†T˛»’ò≤"é$ÒD!\YXñ‰›£\‰€JÔ´Ù>=ÃCñwwº)¯Q0êñï@„jæÊ•—‚b˙Ï<"Ê=ê˝8ù∂‡Â35}§6˙Õ~Rúa–∂_å®ÔZõªïäÑ™HÌŸB/ıs∫(Ã+◊™«…x>¢ùGπYòﬂÂ9!^"≤–ÕΩûÆÚB9RXq\õYÃwQn H˚@˙d ôá≈c5
+FÓO_Ø\¬GÊÙ˛¥Ïxi¶)+v‡É˙∞¶Êì÷Çr(à:%"'BÒß–^úÄÉÏ˚®˙mÈ&¢Õíoµ)"›Ω˚¥ r‘*˘;”B»–ÈL(xãoËQo_ÌÉ¶áKáıÉûyo√ª=/<´Ô…”˛ÒâÓó∆=y‚v:p  ¢≤W!Ø·T›y^â§®3ã—ªΩGc);º4nçY\YÉ™œ)Ízd,‘π?Œ%°WÊyY∆Ç}')•Òò˚só0„ ˆ˝IGá—qΩ]CªüÄù©ß˙c2Û‚Æ±Bó?EcjhG∏˛üKÉSÊZÿåöS»ÌÆ?≤/fâí≈¸1Lm≥3	DìÛn∫íx–Ï´‰ˇ9ó≈&G?çóêÀ‰≤˙öÛÿP˘axúO9˜y‹Œ9ô^‚ﬁjs^M G3-œ)R(«*qÑ>ÊÖ”ÎfçÆæÿ∏Dµ´%@»iß∂w≥…œêìƒ¥¥‘œÍ	å§	¬EãüßØù¸<1Õñwä¢iyï≠ô;ü=6É÷M'&6y¡Z¨†áî®çHöÚMÍ˚ê¨±cä=ﬁ›Ò&[«B¡ÒûËœRÛÂñC˘ã≠?fÎ˘Zâ1Å¢w®Kî•Óﬂ˘Èøˇ˙ÁØˇæ®ﬁé2HÅÍáƒà0∆S>Ä˘KW“.“˙!æπ!ß«_hJÏ=Pè√;B7ı3dÆØHŸÊ]/xª˙$¶<#ïJ‚Œ=ıö63*’é⁄∞£.£∏ÕÕQ	Ω‰±gPbπº|{ˆ⁄†—‚{óß`$—¥≥Ùﬂ1÷Ynø„Â0Ó«}´hôq–„5,&@€Ô€¢}«˝∏˝.˚EO°‹ûxº˝àøDs£ˆ⁄=Ì+Pí6îÑîƒ(©€”“-î†∞)cæ|o>‹¨m4ÃÎh¯T+â©Ì@<~vÒÄŸ/Éïâ¢º~‘‡Áøc-#æY≈L„˜qÜ_∞}∑}ò⁄¡84mx Uπ√ wácª•d¯⁄SKÕÅh=Iñ/7¨`A∫—∑¢ÿ˝äotÅèØ:.˘5eƒß\“9›ì±`∆◊1>+u√_Sæ∞.X–r9Ë∑§ﬁU>¢F≥∑.&_ÅN	°C˚AÑ¥{°7úíZúP∫qCr¢ôÀmbî◊µ49=åæ!…Fˆ`S"~_\]e≈ü∏vÌèGg’)ÅΩ∏≥©¯Sÿ¥zÆfr9’ıjcDóôﬂ√0ÆAî≥™˝,£và}ù±;ûmî§©ÒPG˛ﬁ8•h¸◊ms¬∂–¯_
+0<≠öŸô¿J^≠è
+H±Å–ã5≠9Øba/J’-ó+yÿªü
+´oeU!]ë∆–ª\V?_TTäﬂ/ŒOÔ¬¸ã™
+◊ ﬂÈqdüLêaLåJ*cΩëÀ–gÛ√Ã)Ùhô±∂„qTÑ¯\-m∆Ë¶L>Á∫◊Ä⁄ˆÆ+\á•±3¨ÒmıP<”˝'%˙ Ö;Ë'IìWµjX_G(t«Û$*~d1≠~≤W&búˇ"gà±õÄe÷8Õ-CßÇ«*8Y ú/kCΩ≥/J	’î±¨'ÔèBÃ©ÔµïÜ˜˝¡x9ı:3„™;~^Nç∂Z8>›ã€ÔÉóO$∆≥xHﬂågEàn&Å\Q3ö–√„iÚ-¸‰ˇQDê£Øu Î_zUET|1˜ ÔØ'yîˆ ±íå8®|ú ∞d}FÔ_ÒÄÔÜ∫!≈	L<ø'¥⁄©ÄRGe†¸“+P–IsÙçîxÍœÇõç{2π^¯E»å.±üêì7ÅÜáƒáf∂ªîq≤£å≈èÖ6«Dâì_S◊ü}$∏ëF/Ä`Ì∑ôÉ8Qo¡¨'Ù(Tï•ÛTûπd3À‰8ìíÚ„pπLéìÕ)ØƒéÄHáï–5\[˚êÚ
+õ»eµ?R}˘†˛{Mã^¿ó˛ç¢– ¯Ô%]MUäaqé,ùèh@tÉ„¢;áQ‚h∑Ó<aÂ,ÆÇÄAë4«F+í‹pe9qß.0tÍíÃ	√”«µI—R:M!*t2Ø≈{$)îjvöBÔú∏˛◊êH«|¬‹™À„êÉòZ˝j¸üWw,ÿ8A≠ÓxY›®ÌÏ·{SÇf(ıªi4Ø,PM"3” Å‘æT»b"6Õàêû&dïœdâ‚ÛTâH0ESû£ﬁKh®€øùÂc|∞,¢˚ “Y;FË€TFªeBﬁ*‘Î\: ^˛Ê’ŒÁ6*¬F·¯[nŒ
+*ˆUû1'daÃoÎÄ˚∫◊Vÿõ¯òg´qB"Å’C—É=)T3'Ú_:—·w<∑OëÓe(ñ£˚§≈In5Nì˘Zø*7‘%EfT°S8áFæÿü∑%˚~€Y˚=>ª≥}ü€Ôˆ»∏=lnè©;úKÏ¨aô∫Øç[È}‡o¯>ı:¢ÅW˙¯	DÖjûO(™N˝"±ì3CqV∫—ü3jCJá»P§6§Á9°B	)–È§"÷):<á bÚÖBÄË>ﬁ£¬ﬂ6XI¬∂˝Ì2˘=ÁWÉUÅÀZ…É÷T‘`]w÷Q<ÑMzÑÚÏÅK˙s!
+}™˙T<éö·ÚÈ¶.}”Ù!+-¥LÇ`CÎ∆ﬂ ªÿ6l{‰˚]M_7¢–√¸êûÄm•ÖçMæãL[pÛ6`'nU¨ä∫∞åº‰⁄íà‚aúê∑ˆÙÈ·Ã,ΩJÌñì∑KãXCg∆‘Rú±è‘p§—±ú¢f4;èßbò7„>∂ƒ.ƒ•aM–:≥L§≈‹U’3ÂJÊFü<ÄûÎÃ{ß£›ÇÂL¥¶ÙZÛjgb˝?ˆ´%…í^Â] ûÒ-«˙m6ãπC›=.‚ìôº¨Î¨ö¥^Tì<!πª\Zâ≠ó‚∂ÁôY*P≥Úà* ∫YÚæm‰µOîπK µÍ¡=ãK4ë•™ÂgÉ»#xEÑÎiSö{DöZf&≥¢∞m©¸Ïß4˝ªç,Qo;∫YÒÂ«IM§câ|©ôV¥‘rGˆ!ôiS!ÆGâDå¿d”zu√ÈàËcòºaìF´MxX]‚d"}ÌÅ≈Â©#6ø¨(Ë8:É?É1†ÑÄ*fj´ÿ/i¥Ÿ≠Áﬁ⁄Œ”ö˝±QC◊8fuVÿéÆ‹0øë\ÁL*Ùﬂáöh∂Ö~û$‡˝ ;≤ÄüÁzòyE˛F‡ü<Ø˚ÛÔO›^—øukˇ	,&)¸Î=ÃCaª˘œùQÇı1ö¯àJê˚ˇfî‹S≤®%2‡KÑ„Xcc^¸ı÷T C8…ÒkÍ¢§Ò”`5ªÆÏ1¶¡QqÉI>kn™ÜMsY˘Qd≠Í§©¥gÍüSü#Uﬁ‰ùí I	ê3#á}Œ®˝<JeßÎ'N4é¯ÃíÔÊÓ∞q<vºÙÙ…SDßÄOÔ9=˜îç€F îX–gFYñÿUÖıÊ6ˇ4àWƒøt› —∆ÅT¯p´â`f\Bz‡=›≤˜¸÷Â{]æÌΩTÅåáWí ç;Å2'èí¯vYjûá˘¨PÌ6´ÔQP∑>2–nTl™.‘–(6ÜLKÓˆ„JÆq6˙UŒZªuqﬁµ~:Io◊4|£S·W÷¡@3∂£ÈF_-óﬁÓﬂCO√ÖRú›ÈÚº≥aq0C7ó´[w1ô∞Tåo∑~Km\ÉÅ;S!„+p∫ àøm∏P¢˝Œ‡,äJÜT-…ﬂ<S™v{B€∫ó„XˆÈÉ°@≈]2‡‘b'ÙﬂæPê≠zÒ‘Ó&‰ó/¯´èC:ã)’,©Ü¸^‡∑√ŒZ4\∫Ü˛Cÿı˘lõt≤ô"≤% AIß#µmµF
+‰±¶∆zvËçº≥∫Æ>v»RêG0¿&'·î¯o{ù‡¬`Ã˛Kcßƒ˚éKLÇ.˛ÍÖkMÔrò¨t¢
+ïÚ"eÕ—Ô=ìz™UqúÂÍP9ÃUÎó›yiˆÕfµ˚…§X›Ô’Â≈9öY…–'LN[®ΩÏµ>÷ X¿Q≈¶˝÷`<¯èeÙΩ	Ì3øz„rÖtﬁ0hJø&b\X
+ eÂp~ä∏7=HÑôfMøm·˚∂–Ù»†hmY#Ø]–ó‡˘;Q—√Y(»R±á€£1‘•Ñ°¯-±9gØ‘·√a∑uãnZ®»àk_n”∫òZJ€]öZ«j7õ⁄óZ9µF3fÉ“2Ã∆±ßx‚È–D∆1⁄êvk˜´ŒÔ!M} }Ó6ΩW≥±ùíµMŸj6mÏk™∑)◊ZâmxÙNó+kΩ∂âÛ)>øÊ8g√Yd~)-Ò∞ü!ªy7 |¥˘…›|˚≤;è=ÙÆóÁãIE`a÷å_ÎCmba»Y@”Ñ˙1æ¥-˙wı¸’A–	?ÿj¯˛∫A\ÉUT$€Pú~, ˙Åp\≤åó˜Á,ƒ∞Œgyy$xœiÕ‰`-.ı/[‹ﬁiùf^Å(åâ¡!OΩóÁ´’™?ÛÇèˇî‹Æ!fïÛá‚2Â«I~ˆqì/nT…≤y_-:U÷-Xg h\â∆ØŸ˜Ô)„)–lx≠NÅ¨„ÔPˇQyÅJ0™FÆÈä-ìÆ4Y,yd¥ø≥+PWÍÈ‡€ÊJ“P*≥€ıtÃö‰ã™Ï22‘lÔ©~:Ÿz5RmtœÜ0/yÔ…¨1èövZÉJÉüZß1¥⁄ËM¯Ñ&Ω7¥*'Åî>K1›;Î3t⁄Î•kñıKÈËy(*·ôùóá03 %9íÆoN9⁄ñè†68ËØqƒTwê:G™É‚Çn]ï∂jN’‘∂•IŸO),iqÍäJ¶]∏o6÷Ùì≠◊oî*014ù+U´∑)tﬂT\ÎQ”¸∂%¿ä4¿AÇzÑõcßpákû°Rπ„.Ë+¥Y¸Ë≥<L{n]eµ±
+	Âˆ‘"Z\ÉòX$#>˛ÃláC¥¢H~Ò¬µŸÆDNHjc ïd·h≤¨ÏZ#©Ÿ;›î IÄŸœF]È±/'∂È1’'/íéÏ{}Í#ÂHøvÂ(˜c}çv∞dˇívW⁄eÿ¬⁄OM^,~√h„V√hjÕ»O®T€≤øU˚’Tf5-}˘6._Ìc\æv·Î∏¥œãHZÍ:À∏¸d‘_óñ	.®·Rn€Å$gL“üÜı©ÇÌ†π”{j’’∞˝aW}Õ§˚&T73˜5™˚JÌœ˛Kqv‹Lÿ!¬t;]†˜ÙZ?m)€©çΩ 7&Èf⁄wÒõ…∂~ÀBÔl}⁄¨EÚ≠∞ ≠ó˜ºIºV&«ƒâ˜‚Ö/˜C∂ΩÑ•)lïxüç˙+œ?ΩC‘$^πm¡Zl˚©øËmÈ√:ó4≥<∫+‚ƒ“{¿éKÓˇT-[˜7l+|˙vY⁄Jˆô≠é!ùì£≥ò>≠j<=›m D-ja¶Õ>9ﬁw¯÷1éèbûﬂ∑ø3≥”∂s∫ù~œªA‰k˘1ë_ªu"àûI&¸Rg˜Ÿ®ˇA"kJÂç<6èR\dqì§÷BΩªc2ZCç’CÓEƒ/©bõ|Ä¨“1[˝úTb[1ùJEÏ.ÔvåëcïScTù8ìΩò≠¥¶*’¡ÕÚóŸÔ∞-*õR˚∑öœæÏ◊ü™ûÒgc¡Y˜L∏-aÒ˘z<üTíì£5ÏëçP˘=v£ÃGSb∏ùﬂ…◊ÈP)¿_á:2óßsÄ≠’8Á∑Í’ÏÏ…sZ-göä?˘É∫éYÙV§Ô:S7RËÔ7πöëÊTÇ”èE[z:™k:.U«n
+îÇÖ√>≠^jD™t®\ír≈¿	∏Z∫Ru≤[A÷ˇ˜Y}‡F¢ìÙu©LÔ ﬂHı¡ç\ª$;âœ˙◊»}öVK§á¶“âÙ˛Bz¡‡aK2<@z±¡KY2-_ıx®ãj¸™œ˙π>ø•*Mı˘EIÎS$µ(øLîy⁄Ô%J0Væ`&ç@≤ o%π:ë†iqÈèÒ©NLÚÍLa’ ´—˝1 ‘-˜àöç>˜x7õö-yPË–Àò√Rç¸¯1\Ö›oBjMMOHs¶]àÛ.z;9x•∂E#≥-à\é¥√ﬂÁm∆h££>n&x˚.gÑΩhP ŸÉÕœ;5HØ™„f+Üg‘^Èñ¸U`'çNUxÄ5≈õ¥8#¸
+§Bá◊‘DØ
++Çp~÷U¶bÓ©d-Å˘˚Hiä´®ò•	P∫Pº≠$Å y‘€ÂQ(•°@[É∆ 9k>&!‚∆4ÛdÀO◊'rr†™MIÑ_ﬂ#txê\¿7äp%7}ã¨—Wzf"öÏ⁄bB´b◊NP 57NçJ—)∆œ¢S\ﬁ•∞ÍŸ$:)πÅ¯#¸êˇî%‚?Â,∫+¶“%Œ~——Kù© Ç≠Ãï´Ïw–‘'Gçè˙<£’YÚ'ÔJN•f ÏÃwÊ5ß˚µ%''Ëç¯@ê¶9ÓFs‚3∆$ZÕièØb˛[s~ÅÊÿØîMÙä?Ìßf©çí›p÷œ˘ß±˘ÁõG@î´û„∂ ç˝ı¢∆Í&]Ùú˙◊<Y€Ï˜h#5è∞óÖVÛ»eø˛ÙzıŸﬁËmô5õ˜•Ùç∫∞¬ÿ5H)Jì–9],ÚÌâÜÏ)üˇıóΩbbŒxÁçÅ◊_Jh}·ù%ÉÊZ/_º¡}:®b˙w>2g4Z†,∏'‰◊J\”_è‡m◊ÇY;öéõóÅXÌ5QAŸ¶√	ÛQ#—`lõu∏∆(ÿö3◊°ve≠Ù~@∞≠¨ u¥bo˘\+nR£këŒﬁtX[øW.m§Re¨ö |Æ≤˝îQ¿≈8åT@Çë∞‘%7BÙˇeøZñ‰∆ç‡]_—«›iºG[öÉ"‰›µ<æÌŸäp»˝ˇ¡ô(Ä álâÏnÔz≠â9—ÖzdeÍ9içY{CMÖ•
+–ÊƒÏR $Cﬁ 2ª‹vv…>6üå†…ˆ_ù√°§ZFL]7 ›Ç5U)cÇò È‚wÜ÷F3<»å∑Q©˚%ﬂòCú†—?>V«4g‹Âb=ÊOU|Ôﬂ˙-Zk∞bå?d[çπ=÷¨í«©·õTR-úR:v8ìJöÑÂ9ä¸Ñòcï•hH‚Övïï¬%+ˆH!Z≈h©'∆§W^TÚŒÿ·ï.Ï´~E˛Ñú(øl´1GX¬w±ÅlR©p«^√ﬁ`Ä|“	¸ﬁòVó ›≈`–zÈ]§‘‹êS‚S◊]<gqÂ‚◊{^;Õ∞GQÎ“õ€ÈÇ9äZPl»∫UÖÉ∑òètåSMyƒeµ≤6≈§åæX&›∏lèÍ∞◊røRÓø+Ä˜…¸]/˜òt `ä,!…∆{ÀΩπx“‚ırﬂ∞)TVf∏tÇ∆U6µ£düBfBN«∆˚¢{7%=DÀy¸ùüÌÏ—*!vfD¥!e/:œ)‡Ò{‚c∞!B!VHn6÷(‘ÊùÑl»å˙ £˙Ü¨˝ﬁåÃÍ®öB!\ÿûﬁô≠®Ä(~Örsë¬Gëù¶dRXÎ66,|¨ì5^µ≥1∆a g^ ∏Ÿa)MRWRme3Îs'Ö¨¨œÑ)´=‡,ß¥Â∫BÜl4ÖîJ¥•ﬂ©¡G˛òÜïS§yXÂKCtπ¸ôhv~`¢çR ªÖâS46ãù›Ú∞?:¢J4∂àP‡1ôlsmÉ—,≈c¯±?#`1—U8ªIRR%)óË]ˆá*:;îıó8–uˆgŸ◊R˝ tbÌâ9Üæ|˘¥"S+.≈Îjt5»Zt»ªj;YPP*ü≥nUOWùü»0û‰r∑©'ååõârÃ*õ˘Õå$É;p+òê˘∫’zÿ¥
+9√Ÿàc¢coí∑>)d…®jÛ∆÷t≤⁄†Zœ©IûÙëÃ∏TDö≠Ãçù%¸MJêáê®ÎlùáÏ…BÀ[cá/©˘ÎãÄ§Íñb˜“s‘QÏR0-{¥u˛Ü9 ß°á+);å`w∞<ÆÛZõ
+WáQühÙ–0˚ﬂÊzN#Ë84äÕ†ãr–˘∞É:*≈Å˘eÁ‰÷©&¶…k_√ó¡∏CsTÆHï†ïÒ–˙&îØq+®•!Õ†áp`s*A|k˜ÿP
+ …•&⁄QUZ:iÈ…äZæ©““KKã∫h∆∑BñO)6'—z≤∂©+ÓvE√JÉo@¥ƒ/”ó†c„1.S°¥u¥a›e*ß∞óÅÉÖrâ*bå*/Çk˜Wqƒbg
+,Í4b±[/…d6˜cﬂG4x…$®å&Ì=û†iÃêñ∞∂ú‘ıÇõ†\ÀX>(®ú⁄¸`<rYVË¨)QJï®0µhËB’óo—"æ$—ÄôZ4∞Ã≈≤Lºe)Ë∑l÷⁄Ô¡Ø*ú\
+ieÚö‹†5>–@ŒÏgﬁÔ˜àQ!)„.⁄œ÷´@AzB14™ ÚÔ™@ÙC+2y«6˘º|Áµwer7P’2»ÌRiÇœ€â˙MTwL`¬¥tÿÒ©Sn6∆T:°Õ… /öÿÈ/´ûi*©p|yriPO¬ˆø˜Ö ±IäAYU%P~]mÓß-r`^R∂ëË}∞7ÜƒL-ZØB∫,ùÃ˛6„ÿ”1ÀzQpµ'&ÈY«xôÜ¸1urˆÔ•Iƒ>˚R∫Déóµ™⁄ì4FeCaµfoå˚_(C÷¿$≠≤	(DíwòNµ'B>Ñ5WgjúΩ!∆\∏‰ó:ƒN‘zŒÌ:xŒ‡ √ØqÜ‰Æ0¯ =ﬁÌpçt&O<©;â˜Ñ
+n8Ì—'Ì$ $…ﬁíu‹j_±Øú‚a∂éE‘z´8Å ¯°áFœŒw8(Ú¢økçŒœ:$∏B'*˛∞é£d˛»®^∞¨Eá *
+⁄…( 2πò√≤SŸ˚äﬂœ
+å-[÷‡aN©íG`úPˇè3∑WKªz]9ﬁ„∂Ÿ0}hıR8∑Ö„¡"≤J9Ÿò2S~G·¿†	òe6ü5x¨p<ê”Ö†–R,ÁJÁò√¶Ú∏‰∑V°∆R†∞πŸÎ"ÄÅ Ì CÖ9 L‰NJ—ˆÆïîàO¢’dsX]F◊7‚â`æ»'$AH∫≥z7‹Õ>˜ï`‚P!•é›Z’´mí?ÿÀFYeQ∂:0YNì‰}QPõD•îMFtM∆•c>•¯æsA±õ)(Op≈rº'ı~éQkûÉ÷iﬁ!ô—3ˇ5É7{¯çFIæà®#(i‘∂Qﬁ#\"
+BVÈ£BDjH“#Ñ`=R∫[ï∑∆Á B/@°K‚ŸM∫ø-¸d˘t)S_⁄8Eão˘ΩˇÃo˙'ö∞”<·YkG∫Ù≤ø„˙wº_øûr˝8µóaÃ:’>llrŸÇÚ*–Ü^f7≠ll˜qÕ*BÔsÅ›÷◊…≠≠ÖÀ5©àïrï·ïªjŸm˜ ÎV{-»e3øπæGÒÂÏ( ÓÆ¬AŒ∆9–<yaT
+öΩáöŒñFœpy‰)´2ËÀ@+K©	ﬂ$c¨]∞R£Â≠2j¬óä„6´√}
+Lπdî!‚.,ÿm€T∂’¥Aﬁ¨…˛XE◊'_7ÍÎ∫U◊6‹Ì@‹=$´ÙAerFÉà≠”:ßC0z|ÇÜRôe0NÌ!ó_Gh≠SÎŸ‘¨|}˘Úi(\?[#$<Ã⁄P∏™Ç˘⁄“ÆÃóÁüπ¸Ú·œoü˛˙Ù”ÛÂ◊~˙˘˘ÚÒÈoˇxˇÒÈ›Ø?njZ;0jkDi∏Ÿ&ïsêíX˘Q«6‹¡ˆ–\aã‚÷¥G[≈'ø‚⁄‘–vé »Jıª4∞:ÍƒrÊá<Y ˇf'(X˙SSñ‡úôﬂòôcHPûµÊ“Úª\F>¿ï“bJ5ª<Dâ›r∏∫2é¥Cï9yKÕÖÔ"ùıôKÈgvm√)TB6Ó÷ ¬v6≠øÛí∫˙ˇ≈q6"ª»Ç¬´8‚à9óØπ|;«≠”6`r%K—xg50{Ì…ß°íqΩ2k!.øõŸ»&_W6’PuV]ÆxmÒ≥Û@º[Ωæö](QTãÀvS∆E`Y˘sÒòˆÛ8¯|ì·Î.„[$PqP‹Í2F¨täã–]ﬁb’ê⁄áv9…X5|%ç›, j«kJ‚P©<÷Z‘û+Î‚]Ç≠ı8ÁÑ1ƒ1ucìb $W6V˛C ≤ï)©√ïU±^U™œôÖÏC_‹\€á†òn¡Ä-∂Ì\)ä-Õ„› 	Î˚Óïô¡˛Í‡ïOÉ≥´[◊[›{]çÁßN1¸èFWC≠t∑'Ó∫‡PJæ¥˚„—’ê#P†Ä t51LØÛ7‚â·˜{…Ö8≤»ÉëË°â¨–ØØΩ˛Ë^Wë|Ã©ª˘A/
+y⁄M•Úp•GCûä<yHÚÙMñúÀp≤ ·±-êÛÏ¢ÅúçèmÇÏq ËÆΩπŒ‰)[ä#Â˘ê]'3ˇ}¸O	UÅ∞≈¸ Ä^ÍgQFÚºΩg
+sÜÑPZ?<Ñ	äº
+$ˆ7	°Î3.còﬁ“±&•¶Î∞
+∆ΩDﬂ∫˘WQ5
+˚ìØÄ∫,lNR∫åP[ñOe…Ωu:∂O+_•aì∏Ã…mÂ∂ım%¡v¡îiÖÊÀŒB ±Vœa2ÓÑÖcâØB@≤—¯,ùLÁ˚∂bûMp&GªJ2Ωå˜N≥µ¡foÔE≥¶ ∂äúP¸ Å vÂÀöDuÂ˚ØÀ\%È™ı#ÜSÂP~„ss≤∆ﬁ˘ﬂ√i«ŒZ›ÏÙ+ç∫F£vx¢˝≠cˇü E†sÕ#¯ƒ_ûﬂàŸ/üﬁ¸È˘ôOœˇdQï”Ä§Mı£∆†\p÷Ûøﬂ¸w˝„Ûøﬁ<=éπ ¢3±Lv∫úd,î◊≈!á‰ÏË)Îˆ–ˇ√~µkÀë€¿_ô‡M∆⁄Ï„d˜'ú(ÚˇÆ"@6{fÓ®Ô Ådm$·õ†PU(YZ˙?π!™ó|U§¯ät‹}|{Ü⁄‹±≠Á˛ê±à\∫/∆ö!DÉ˜!fI√÷eèR=≠ÕEe’B*Ò˜íıÔ(>ç^#!∏‡u√ (ó™ß	AXº¬‹k^EìL∞6ˆÄ`BfGW‚7rÇÌí;}rhÛ GêäÁ¬fWIïõîx Ê 
+3=§ì8Å±ÆXéÖ[Ä)_¬+§ƒ‹:ﬁ˘‰Ü"‰+âgœáç‚áç∞Zá8í(fˇYlïl±T¶äÔ…—®jcÎF,ŒHGøI≤í’Wƒ„rÔ•èrjæxHË+ú€?¡º 'çéÍwhiCw]|>/Ì∂˜UnKÄ≈+Ç«rˆâaΩôé)∆ıhß@uß}$’È‚R∆‚R5_√d¥®ÊKøUXqgØøésÿqÜ}ÏGOÆP3∫≥©^$R≥/È
+˛2î±ì‘;_ÆLıgz¬ü-§ Ï)ã†W*†º"ö‹$·»¶≈≥Áí„¿CàJÛj9ßŒ)‡’îñ¯û6ùØ¿¶Ï5Ö‡Ø∞ˇí ‘˙íâg©s‹∞ñq ‘N!±~Eg‰ÒmÒfÍ«ÕcŸ¢W%|≠5é~JµÊ5É‘I›0.—«Lh_J({Gydêb”ﬁ6M±X?åï∆„|¶v–§k∑Ö%‹‹±ô√llP1Áú	ΩÉS—~}Ã0m;eÜärqr£ˇ≠^üQØËyéÈñà|FË˝ÛÖÕ¡PD:é≥ï⁄wŸxè—ªÈ≥^¥9$ü\	Ïü[Û=_º∞TeÊŸ,y®ÀÏÅaã´Œ€ØIÂc~;⁄g√ j´ZN˜~S†HnÄtƒåBb√]<≥{ƒ(j§®⁄Jëkænœ'Y])˝†	çŒŸ≈•ÿ‚¿ÉSÓY–◊’|Përàõáh´πIF+LÍ;“v?∑}Ã~\d*ÓT”5ÆU≈}ÆO£ñ⁄lÛ{ïu›üNb6úIπ	ÇﬁéÉçJπ9±rä…lÎòçzÓT‹/ÿ xØ˚√Vˆ¬≤˛B0ÿE…Ü¨√VÇ]Æ…˙ˇáØåXÑÅ	t?êí«åx±œ?6ö˙‹£ö™Ê«‡˘”ôå@≈~«§ö®⁄Õe¸üô/1I%ûä«'ıíƒ.L>} Ü¸©Õ3p∞‡E•‹~Õ}ˇ‘l∏`∆Q-µ8ßxX˛n`%åAÀw⁄≈´°‰çÅ9∆Ö‰˚Õ€î’
+≥ãÌî˘hÏ¢?ËÏ0.[á	0ÆHÅáÂ≈tuPÔ9≠ΩzüÙ 8u◊
+ÙÒÜâU˘Üõ~z8¯1ﬂS⁄0_¿éﬂIÚÕHÙËÛΩ6_:jh¬1V\%—ÙÈMó‹UΩÑãì¡œÅ˘|è,»ÆÛA #øå»·˘-pö'ês®E‚≈Úæiym*'6ıõ¢:?IÀ„y¥vÙ∑ˇ¸˚düA á/∑\Ó=#—$ÄÁÒúBñ¶–Ö≠MÈúœè9ÿ8Çû{˛´˚æõvòáq È˝™
+\0 òQçòå€st!ênJ	∏4? ≥éújµizZê[ß]MF®w„ö8“ÈWÉÎlGÖ≤∫-n2q—i^á1É[Óü€B£[7X«œÙÏ_@u&9°x}&cb±]ı–y¶^iª—7¿Á∫ÌΩ∆ßdπ-[ÃÂ˛;SÌ∂\≥nñB^·1ﬂ{k"ÏE¬æ€.ÔÿAÓ8^SüÅIv‚Ë'ÊàJ
+˝Jx^£q˛ÒÂy 9„qa˝ñ*n=€˝RJ)	*PCSWcñUIRybîF6®NC^RΩ©ç®®,,Ür›áí‰6˜c1Í´›¿©B0NÂÈ’Ï:Nô·Éí$d)«Û{˜^“µ‚œ˜Î≈›LÄ˜À;Ñ=L™¢≥∆9∆„’,´‰„Ÿ√Lç4§dœ)ut{Y†H£µàú„{Oóh˚„\æ7OÁ¶1q®∑Z˜>[≥úb≤«æ˛!ù4y∆%OÈˇ÷6‰Aˆ/y—è4(F@¨gaÖ∏°áﬁ.ô'ππ©>ﬁsûn¯–|mmÃp%ˆ[ƒü;ÑíΩ˜€ã÷\Ò4¡ÒH©%@∂~©÷C¢r∞Ÿr%=_„Ûe,TNéC‡MÈwD˝6A¨Ô√=ÙV4ı∏s E2pïæ˝ñj\üÈ(`;Í‘1;Ú«ã»IπﬁOwû¿ò^>`Ú≈ÁWÊFº:öÓÙy”Ü}{<ÚmÛÓ6‹µ∫M —Ú¶É‘êˆ…ay¢5ÈdµÜ&|»@«TH~€‘+≈i!§Ø°Ï0Lq˚“å &y`<Ì°Ó˚$‡»cË∏sBÈKBk_ì∞õRﬁmà1£€_p¥∫Ê{üNH0^…w–h"¬2hÚ≠]›6≤∆nõ	-^C!5«Õ¨œ5ëÀìiıTpL~F'î±òÍ√êrc‚√ëOîÙ[ìÜÊW”{?Ã‡
+’ê≠≈jZüfKı¨ùor/»≥…†ñFìÀ¶˙„ydÇË”;
+™Ø+[á´˝ôJ∞ªπ
+z‰ìæõëN2ƒg8ÍFêX%]¥æ‹‘‹¯ã]Å£L√˚π[[≠‘≥/ÒdÇa4Gå!‚‡°‚”rÙ8÷ˆé}6√Sl
+ZæßAªá
+ú˛~˙Ëº„È¥ÛMŒ◊<=·Ù∫ÛÀœiy£˚å€PO»*¶õÇôFg‹Ú,w„‚¯Ø9Jæ\´Rˆ7î€Fî∂ç/∆èiVCø¥AFﬂuê»îâ)Û7¶j~®£°ftDL¨éÅÛ'ojõƒØës*ñL§ê ƒ.ù”mI'ÏÉ™ äI«újC≤7¥PÒSí⁄>cæ…aú]qä/Ü@Ä°rø⁄ÅoÜœQ˚“·nQ˛∏Èµ¢˛ÿ√gDZ3∏:WbSHá∏ ß≠cF∏y‰4e!…ˇJ8Ê;∞–∂˛¢Ä˜"Ω¿∆gzÃ3`◊!,_([è‹5LJ˘§‹oìEÕ€d¡$n£EÂJv÷ë`6÷¯Æê—ÿWKFÙ¬r€Ø˛-ÖËÇ#:\7¯g¥S}V]&8#‡¶1x©óåÅÉOK›	Ut`b1HP¡X‰„ÎAπø¢Pò≈‘{º"7÷ﬁ˛'jØF~j„¶?!Ö>î>6ykñºBRG…ügC,Ûò”[†O‰∂˛=˘Ò˜ä‚ı2 Ëx≈wŒJ√Ê4Õ‹ÙÁ√€ylÚWÄ/*‡Ë†ÙÀ3⁄ÿ_Yb/caå	nÂ"⁄L*ñKnUáVÛ‰∆¶:ÑöS‹M>›$äXS‹ç(¶õ¬nD¢Æ”à8éºÈƒŸ¢ﬁ3Ö‹¿{‹~Ú√Ç⁄Wƒòln8£3(êÈon)>êêÆqØ
+π>œM%ò§V®œêY|ﬁ»m3+ìÊg˘U≤˛,u‰≤,¥†¯nä’¸àÛÜ:a∑`Ic>gï€&≤!…⁄æ˛¡–Ï∏¡;/81åõBèLÉú+íŸ‘W˛Î˜ﬂ¸≥éÖûæHÕöø$ˇs4xPô”Üµ¥"rM[O]Ô„S:Ì||±≤îKW~≈+:\ƒ"q'n3Ä^¨4=Âù…ïéô|˛™~a}k1Õﬂê=TéQo—È—x©ÜŒ‹1¢’&·£[˙æPÿ‚øçü[ª\Ã)~q˝ÑJ£· $ãèÇaÓ a«Ü≥bz“ãpdÍŸ ‡ÈR@ø8≠≈Æ«Û\E]J∞pÔπ‹ckU¬%ç“y¬æÄD‚6c3GôCGWv9¨Å€ΩÅ≈S∏l≥Öí∞”!cπN7E◊ãuõ.f#5¯U›ûƒ33„Ç‚≥Üi3^¨/X€GÌjïHŸG»UÁ≈Z(3~]>LﬂåŸÆ3Ω),)gÎÒ´hä©é|FΩáπPπzÓ°L<∑Ù„ËÉ¸ª;~‡GÓ¯ä;nUÁin›ã7q«UxÕ-¸/Î’íW˜9≈ª ÉˇümHR©TQ9€Ïs˝¥$À÷f¿P)`¸¸ìZ›-z¬˙6\£«∑uäÑeﬁaë≈ÆÂÁ2T;!‰Òÿ$˜[bê#x ÃÇ/·Y·fØú∑∂e4újL~uvHscB®ñÇYVDdXGÍ>‰À¸‹Ö©ôOH≈ÿèê≤i:}4S$§cUcÖ EÜâèkvíÚƒs3#ªÉSsöÁ©#≠k¨mZ4"¸rzœâ!s…ùX=5‹/Uºl≈~[lŸiW<ª˙ë{(¸^FA˝xœêıˆCPÑ¡V†âUƒÑÎú&±›b¡gàÜè<Ï’ﬂ 1¯ŸìXïﬁ ˛yfÙ
+œ}GUeÑ1π⁄C€wﬁBÎjºó—o©ïú™'ów™È¶û≈VÍ>Ñ‡áÖîë9¢Û?À˚WnÙXf2ØÌ ü¢√ÎîW ’9rq§¥•E0Ó&ãsS÷Üh~jÈ‹=ü†∞πﬁ∞ ÄŸqä8ó€Õ—a˜{ÖîNi±Rb£J h;+?n∏_8)4"DDÚeÓ{™Õ9TÒI80tø˘≤!¢bÄœôÄárÑâœn/”T≥ã¶ö¡m¶òã°Wi%…¯ÆVRYYÊf+YXa]’ó
+$ñb≠∫àª„vÀ•°ˇÍÌt°ÊÍ∂πôòÇp‰˙ÛâQÆª@KUﬁÆ”·*ç$·ÔW>ªœò"å†d|ŸHm”» (*±’√¢§Ë´e‚+£∆ÙCQí?◊ì…mh≤íaÂñ’+w#‚É√ô—$B4SdÊ*“Õ%∆¥°é^π∆Äu•vhâ'íê*›Me ùDû≈<©≥ ‚ÿ∆QØvñT ¨ejüÑk(üÖnïË˚™ N—ä' @©àXsDâ„Û‹!≤–,Õ§gã¢óS©ëπT√Töëìi{JÒãÄ√âˆÂt∂ˆ‡#RZ§ËM—ı∏ÈΩê»-'°X≥®‡ìCO5AåV˘+5£ﬁÇie°Ãù9lﬁPF”LCctO˜–ï(=ˇGGÎ•WÿªΩøØ¢Ç-Áˆ®„ä√æ??_?èœO˘¯˙£u9≥V"Ùû+œ‚˛PÊ@2üÄ ˛´S˜hˇ∆•k†:ºpÛπ&Ùs˙yyı4L6'°rwNF.Á…ÒRFw∆˚6æ©\ªÒ "Ø‰˝ ∂æ-X
+endstreamendobj5 0 obj<</Intent/View/Name(Page Header/Footer)/Type/OCG>>endobj6 0 obj<</Intent/View/Name(Board Outline)/Type/OCG>>endobj7 0 obj<</Intent/View/Name(Components)/Type/OCG>>endobj8 0 obj<</Intent/View/Name(Nets)/Type/OCG>>endobj10 0 obj<</Intent/View/Name(Text)/Type/OCG>>endobj16 0 obj<</Intent/View/Name(Drawing Origin)/Type/OCG>>endobj17 0 obj<</Intent/View/Name(All Others)/Type/OCG>>endobj764 0 obj<</Subtype/TrueType/FontDescriptor 765 0 R/LastChar 255/Widths[600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600]/BaseFont/CourierNew/FirstChar 0/Encoding/WinAnsiEncoding/Type/Font>>endobj765 0 obj<</StemV 40/FontName/CourierNew/FontStretch/Normal/FontWeight 400/Flags 34/Descent -680/FontBBox[-122 -680 623 1021]/Ascent 1021/FontFamily(Courier New)/CapHeight 571/XHeight 423/Type/FontDescriptor/ItalicAngle 0>>endobj25 0 obj<</Rect[-1.79999 -1.79999 1.79999 1.79999]/Subtype/Link/BS<</S/S/W 0/Type/Border>>/OC 24 0 R/A 27 0 R/Border[0 0 0]/Type/Annot>>endobj24 0 obj<</OCGs 16 0 R/Type/OCMD>>endobj27 0 obj<</S/JavaScript/JS 28 0 R>>endobj28 0 obj(var n="Drawing Origin";F\(n\);)endobj46 0 obj(Symbol Name)endobj45 0 obj(Reference Designator)endobj750 0 obj(CON2_CN2_CON2)endobj44 0 obj(Part Number)endobj761 0 obj(\(67.0809, 17.6972\), 90.0000)endobj42 0 obj(NOT_EMBEDDED)endobj41 0 obj(Embedded Status)endobj39 0 obj(Component Class)endobj758 0 obj(Qwiic_PRT-14417 / 4208)endobj757 0 obj(QWIIC_PRT-14417_4208)endobj755 0 obj(4208_QWIIC_PRT-14417_4208_QWIIC)endobj756 0 obj(\(66.9600, 11.4400\), 90.0000)endobj751 0 obj(\(67.0809, 3.1872\), 90.0000)endobj746 0 obj(2.7372 MM)endobj58 0 obj(Total Etch Length)endobj134 0 obj(RESISTOR_SMD_0402_10K)endobj743 0 obj(\(64.4207, 19.9785\), 180.0000)endobj740 0 obj(\(64.4207, 17.6385\), 180.0000)endobj737 0 obj(2.7567 MM)endobj734 0 obj(\(64.3597, 5.3685\), 180.0000)endobj731 0 obj(\(64.3597, 3.3315\), 180.0000)endobj728 0 obj(6.3446 MM)endobj725 0 obj(4.0336 MM)endobj720 0 obj(5.3282 MM)endobj717 0 obj(9.4138 MM)endobj714 0 obj(6.3493 MM)endobj711 0 obj(3.3957 MM)endobj708 0 obj(11.8121 MM)endobj568 0 obj(EXB_2HV220JV)endobj567 0 obj(EXB2HV220JV)endobj565 0 obj(EXB_0_EXB2HV220JV_EXB_2HV220JV)endobj705 0 obj(\(55.7132, 14.7021\), 270.0000)endobj702 0 obj(2.5597 MM)endobj699 0 obj(7.8919 MM)endobj696 0 obj(3.5122 MM)endobj693 0 obj(6.0741 MM)endobj690 0 obj(2.6868 MM)endobj687 0 obj(5.3706 MM)endobj684 0 obj(\(56.5632, 8.9985\), 270.0000)endobj40 0 obj(MH_0_MH2_5MM_MH)endobj681 0 obj(\(55.7727, 20.3481\), 0.0000)endobj678 0 obj(SD05C.TCT)endobj267 0 obj(SOD-323_S)endobj676 0 obj(ESD9B3_3ST5G_SOD-323_S_SD05C.TC)endobj677 0 obj(\(52.4671, 16.4517\), 0.0000)endobj223 0 obj(CAP NP_SMD_0402_0.1UF)endobj673 0 obj(\(52.2349, 14.6905\), 90.0000)endobj670 0 obj(\(55.7837, 2.5681\), 0.0000)endobj667 0 obj(\(49.3417, 17.8503\), 90.0000)endobj80 0 obj(RESISTOR_SMD_0402_4K7)endobj664 0 obj(\(49.3417, 16.4361\), 90.0000)endobj661 0 obj(\(49.3417, 15.1243\), 90.0000)endobj148 0 obj(TPD2EUSB30DRTR)endobj147 0 obj(TPD2EUSB_SOTFL35P100X50-3N)endobj145 0 obj(TPD2EUSB30DRTR_TPD2EUSB_SOTFL35)endobj658 0 obj(\(49.3380, 13.4719\), 0.0000)endobj655 0 obj(62201021121)endobj654 0 obj(CON_2X5_SMA_1P27)endobj652 0 obj(62201021121_CON_2X5_SMA_1P27_62)endobj653 0 obj(\(51.5500, 8.9000\), 180.0000)endobj648 0 obj(8.9749 MM)endobj645 0 obj(7.9143 MM)endobj642 0 obj(5.9271 MM)endobj639 0 obj(\(46.8285, 18.4229\), 90.0000)endobj636 0 obj(\(44.5349, 13.4803\), 90.0000)endobj633 0 obj(\(46.2483, 8.2385\), 270.0000)endobj630 0 obj(\(46.1052, 6.7781\), 180.0000)endobj627 0 obj(\(46.2383, 4.9567\), 270.0000)endobj624 0 obj(3.8226 MM)endobj621 0 obj(3.5824 MM)endobj618 0 obj(\(42.7700, 17.6000\), 0.0000)endobj606 0 obj(CAP NP_SMD_0402_12 PF)endobj615 0 obj(\(41.8075, 13.1119\), 0.0000)endobj611 0 obj(AAS-B1100-H01_0_VM3011_VM3011)endobj612 0 obj(\(45.6468, 11.1981\), 180.0000)endobj607 0 obj(\(41.8161, 11.2781\), 180.0000)endobj285 0 obj(RESISTOR_SMD_0402_100E)endobj601 0 obj(\(43.7783, 8.2003\), 270.0000)endobj598 0 obj(5.9299 MM)endobj595 0 obj(7.6818 MM)endobj590 0 obj(3.3934 MM)endobj587 0 obj(4.5211 MM)endobj72 0 obj(CAP NP_SMD_0603_4.7UF)endobj584 0 obj(\(37.8644, 17.9335\), 180.0000)endobj581 0 obj(\(37.9049, 15.3563\), 90.0000)endobj578 0 obj(ABS07-32768KHZ-T)endobj577 0 obj(XTAL_ABS07-32768KHZ-T)endobj575 0 obj(ABS07-32768KHZ-T_XTAL_ABS07-327)endobj576 0 obj(\(39.9668, 12.2196\), 90.0000)endobj571 0 obj(\(39.8749, 9.2727\), 90.0000)endobj566 0 obj(\(41.5547, 5.3632\), 0.0000)endobj561 0 obj(4.2384 MM)endobj558 0 obj(8.3129 MM)endobj555 0 obj(6.4439 MM)endobj552 0 obj(\(36.3514, 17.9399\), 180.0000)endobj549 0 obj(10.1309 MM)endobj548 0 obj(SPI_SLV_MISO)endobj545 0 obj(17.0771 MM)endobj544 0 obj(HEADER_P6)endobj541 0 obj(5.8243 MM)endobj538 0 obj(40.2379 MM)endobj535 0 obj(24.9381 MM)endobj532 0 obj(5.8613 MM)endobj529 0 obj(29.2152 MM)endobj526 0 obj(29.5764 MM)endobj523 0 obj(32.9546 MM)endobj520 0 obj(39.4971 MM)endobj517 0 obj(23.8055 MM)endobj514 0 obj(24.7894 MM)endobj511 0 obj(17.3253 MM)endobj508 0 obj(26.1208 MM)endobj505 0 obj(27.1708 MM)endobj502 0 obj(9.4464 MM)endobj499 0 obj(43.554 MM)endobj498 0 obj(SPI_SLV_MOSI)endobj495 0 obj(33.4135 MM)endobj492 0 obj(36.9499 MM)endobj491 0 obj(SPI_SLV_CSN)endobj488 0 obj(33.444 MM)endobj485 0 obj(42.8442 MM)endobj482 0 obj(31.9002 MM)endobj479 0 obj(16.0794 MM)endobj478 0 obj(HEADER_RX)endobj475 0 obj(8.3687 MM)endobj472 0 obj(60.4025 MM)endobj469 0 obj(10.9429 MM)endobj468 0 obj(SPI_SLV_CLK)endobj465 0 obj(20.6375 MM)endobj464 0 obj(HEADER_TX)endobj461 0 obj(48.9173 MM)endobj458 0 obj(\(34.8851, 7.4013\), 270.0000)endobj455 0 obj(6.0031 MM)endobj452 0 obj(7.8674 MM)endobj449 0 obj(2.9723 MM)endobj374 0 obj(RESISTOR_SMD_0402_22E)endobj446 0 obj(\(30.7969, 18.5183\), 0.0000)endobj443 0 obj(\(31.9331, 15.2549\), 180.0000)endobj440 0 obj(29.7591 MM)endobj437 0 obj(\(33.3599, 17.2951\), 0.0000)endobj434 0 obj(29.4073 MM)endobj433 0 obj(SPI_MST_CS2)endobj430 0 obj(29.2109 MM)endobj427 0 obj(\(32.0831, 17.2915\), 0.0000)endobj424 0 obj(EOS_S3B_VBGA64)endobj423 0 obj(VBGA64_3M5X3M5X0M6)endobj421 0 obj(EOS_S3B_VBGA64_VBGA64_3M5X3M5X0)endobj422 0 obj(\(35.0500, 11.3400\), 0.0000)endobj417 0 obj(3.6162 MM)endobj93 0 obj(RESISTOR_SMD_0402_1K5)endobj414 0 obj(\(30.4983, 12.4569\), 270.0000)endobj411 0 obj(3.4986 MM)endobj408 0 obj(\(30.4983, 9.7487\), 270.0000)endobj405 0 obj(2.8821 MM)endobj402 0 obj(\(30.4983, 11.1623\), 270.0000)endobj399 0 obj(3.6177 MM)endobj396 0 obj(\(30.4983, 8.3641\), 270.0000)endobj393 0 obj(39.8264 MM)endobj390 0 obj(8.3253 MM)endobj387 0 obj(\(30.9241, 4.4183\), 0.0000)endobj384 0 obj(\(32.3523, 4.4183\), 0.0000)endobj381 0 obj(9.6192 MM)endobj123 0 obj(RESISTOR_SMD_0402_100K)endobj378 0 obj(\(29.5175, 19.1500\), 180.0000)endobj375 0 obj(\(28.1405, 19.1583\), 0.0000)endobj370 0 obj(RESISTOR_SMD_0402_220E)endobj371 0 obj(\(26.7279, 18.5483\), 0.0000)endobj367 0 obj(59.5586 MM)endobj364 0 obj(28.4681 MM)endobj361 0 obj(\(26.6633, 15.8383\), 0.0000)endobj358 0 obj(23.9774 MM)endobj355 0 obj(22.5192 MM)endobj336 0 obj(2N7002PV_115)endobj335 0 obj(SOTFL50P160X60-6N)endobj333 0 obj(2N7002PV_115_SOTFL50P160X60-6N_)endobj352 0 obj(\(27.5672, 12.5681\), 180.0000)endobj349 0 obj(63.0614 MM)endobj346 0 obj(LIS2DH12TR)endobj345 0 obj(LGA50P200X200100-12N)endobj343 0 obj(LIS2DH12TR_LGA50P200X200100-12N)endobj344 0 obj(\(29.4432, 14.7132\), 0.0000)endobj339 0 obj(13.2916 MM)endobj334 0 obj(\(27.5672, 10.4381\), 180.0000)endobj329 0 obj(20.9346 MM)endobj328 0 obj(SPI_MST_MISO)endobj325 0 obj(2.1276 MM)endobj322 0 obj(\(28.6945, 7.0849\), 180.0000)endobj319 0 obj(30.7043 MM)endobj318 0 obj(SPI_MST_SS)endobj315 0 obj(5.3767 MM)endobj312 0 obj(2.9936 MM)endobj307 0 obj(3.5716 MM)endobj304 0 obj(4.7937 MM)endobj301 0 obj(10.1588 MM)endobj298 0 obj(67-23/R6GHBHC-B06/2T)endobj296 0 obj(CON4A_P-LCC-4_67-23/R6GHBHC-B06)endobj297 0 obj(\(24.4000, 16.8000\), 90.0000)endobj292 0 obj(2.8352 MM)endobj289 0 obj(1.3536 MM)endobj286 0 obj(\(25.4685, 12.7417\), 180.0000)endobj282 0 obj(DFE201610E_R47M=P2)endobj281 0 obj(DFE201610E-R47M_1285ASH1R0MP2)endobj279 0 obj(DFE201610E_R47M=P2_DFE201610E-R)endobj280 0 obj(\(22.9984, 9.5951\), 0.0000)endobj274 0 obj(CAP NP_SMD_0603_22UF)endobj275 0 obj(\(25.1024, 9.9331\), 180.0000)endobj271 0 obj(5.5041 MM)endobj268 0 obj(PMEG4005EJ,115)endobj265 0 obj(MBR0520LT3G_SOD-323_S_PMEG4005E)endobj266 0 obj(\(22.4511, 13.1983\), 180.0000)endobj261 0 obj(\(22.7235, 11.8712\), 90.0000)endobj257 0 obj(RESISTOR_SMD_0402_1M5)endobj258 0 obj(\(19.9740, 12.0801\), 270.0000)endobj254 0 obj(TPS62821DLCR)endobj253 0 obj(SON50P150X200X100-8N)endobj251 0 obj(TPS62821DLCR_SON50P150X200X100-)endobj252 0 obj(\(19.9532, 10.4252\), 0.0000)endobj247 0 obj(1.7855 MM)endobj244 0 obj(SPI_MST_MOSI)endobj241 0 obj(29.1514 MM)endobj240 0 obj(SPI_MST_CLK)endobj237 0 obj(1.9777 MM)endobj234 0 obj(\(20.3017, 5.8249\), 180.0000)endobj231 0 obj(GD25Q16CWIGR)endobj230 0 obj(SON127P500X600X80-9N-D)endobj228 0 obj(GD25Q16CWIGR_SON127P500X600X80-)endobj229 0 obj(\(24.4230, 5.4013\), 180.0000)endobj224 0 obj(\(20.3017, 3.9249\), 180.0000)endobj220 0 obj(16.6348 MM)endobj216 0 obj(CAP NP_SMD_0402_100PF)endobj217 0 obj(\(16.5643, 10.5281\), 180.0000)endobj213 0 obj(\(18.0911, 10.5717\), 180.0000)endobj210 0 obj(S2B-PH-SM4-TBLFSN)endobj209 0 obj(JST_S2B-PH-SM4-TBLFSN)endobj207 0 obj(S2B-PH-SM4-TBLFSN_JST_S2B-PH-SM)endobj208 0 obj(\(18.1700, 18.3300\), 180.0000)endobj203 0 obj(4.2316 MM)endobj199 0 obj(RESISTOR_SMD_0402_453K)endobj200 0 obj(\(15.1851, 10.5383\), 0.0000)endobj196 0 obj(32.251 MM)endobj193 0 obj(2.3814 MM)endobj190 0 obj(\(13.7793, 10.5417\), 180.0000)endobj181 0 obj(KMR221GLFS)endobj179 0 obj(KMR221GLFS_KMR2_1_KMR221GLFS)endobj187 0 obj(\(16.2300, 7.9800\), 0.0000)endobj184 0 obj(\(12.6543, 7.3183\), 0.0000)endobj180 0 obj(\(16.2300, 4.2800\), 0.0000)endobj175 0 obj(67.2379 MM)endobj172 0 obj(APT1608SYCK)endobj171 0 obj(LEDC1608X85N)endobj169 0 obj(APT1608SYCK_LEDC1608X85N_APT160)endobj170 0 obj(\(9.1349, 21.1084\), 90.0000)endobj165 0 obj(MCP73831T_2ACI_OT)endobj164 0 obj(MCP73831T_SOT95P270X145-5N)endobj162 0 obj(MCP73831T_2ACI_OT_MCP73831T_SOT)endobj163 0 obj(\(12.1481, 15.6992\), 90.0000)endobj158 0 obj(\(12.7865, 12.6092\), 270.0000)endobj155 0 obj(NX3008CBKV_115)endobj154 0 obj(NX3008CBKV_SOTFL50P160X60-6N)endobj152 0 obj(NX3008CBKV_0_NX3008CBKV_SOTFL50)endobj153 0 obj(\(11.8096, 9.4519\), 0.0000)endobj146 0 obj(\(9.5884, 11.4381\), 180.0000)endobj141 0 obj(38.8503 MM)endobj138 0 obj(\(9.7049, 9.4483\), 0.0000)endobj135 0 obj(\(12.5283, 5.4143\), 270.0000)endobj131 0 obj(46.1252 MM)endobj128 0 obj(55.2197 MM)endobj127 0 obj(USR_BUTTON)endobj124 0 obj(\(9.6849, 7.3183\), 0.0000)endobj120 0 obj(1.2871 MM)endobj117 0 obj(44.9982 MM)endobj113 0 obj(RESISTOR_SMD_0402_200K)endobj114 0 obj(\(11.2061, 7.3183\), 180.0000)endobj109 0 obj(CAP NP_SMD_0402_1UF)endobj110 0 obj(\(6.8619, 21.7307\), 270.0000)endobj106 0 obj(SOT65P210X110-3N)endobj104 0 obj(2N7002KW_SOT65P210X110-3N_2N700)endobj105 0 obj(\(6.8352, 19.4236\), 270.0000)endobj100 0 obj(26.9572 MM)endobj97 0 obj(1.4097 MM)endobj94 0 obj(\(9.1357, 18.4545\), 180.0000)endobj90 0 obj(7.3231 MM)endobj87 0 obj(1.9347 MM)endobj84 0 obj(2.5574 MM)endobj81 0 obj(\(8.8217, 16.9425\), 90.0000)endobj76 0 obj(27.2047 MM)endobj73 0 obj(\(9.0240, 14.6535\), 180.0000)endobj68 0 obj(13.5219 MM)endobj65 0 obj(28.1078 MM)endobj62 0 obj(\(2.5400, 20.3481\), 0.0000)endobj59 0 obj(96.5212 MM)endobj55 0 obj(USB4105-GF-A)endobj54 0 obj(GCT_USB4105-GF-A)endobj52 0 obj(USB4105-GF-A_GCT_USB4105-GF-A_U)endobj53 0 obj(\(2.6100, 11.4200\), 270.0000)endobj43 0 obj(\(2.5400, 2.5681\), 0.0000)endobj9 0 obj<</Intent/View/Name(Test Points)/Type/OCG>>endobj11 0 obj<</Intent/View/Name(Route Keepin)/Type/OCG>>endobj12 0 obj<</Intent/View/Name(Package Keepin)/Type/OCG>>endobj13 0 obj<</Intent/View/Name(Route Keepouts)/Type/OCG>>endobj14 0 obj<</Intent/View/Name(Package Keepouts)/Type/OCG>>endobj15 0 obj<</Intent/View/Name(Via Keepouts)/Type/OCG>>endobj773 0 obj<</First 774 0 R/Parent 772 0 R/Count 1/Last 774 0 R/Title(Art Films)>>endobj774 0 obj<</Parent 773 0 R/A 775 0 R/Title(ASSY_TOP)>>endobj775 0 obj<</D[23 0 R/Fit]/S/GoTo>>endobj20 0 obj<</Names[(AttribForm)21 0 R]>>endobj21 0 obj<</S/JavaScript/JS 22 0 R>>endobj22 0 obj(function F\(n\){app.popUpMenu\(n\);})endobj3 0 obj<</CreationDate(D:20210204134521+05'30')/Creator(Allegro Design Publisher)/Producer(Adobe PDF Library 8.0)/ModDate(D:20210204134522+05'30')>>endobjxref
+0 777
+0000000004 65535 f
+0000000016 00000 n
+0000004014 00000 n
+0000142586 00000 n
+0000000018 00000 f
+0000128401 00000 n
+0000128467 00000 n
+0000128528 00000 n
+0000128586 00000 n
+0000141873 00000 n
+0000128638 00000 n
+0000141932 00000 n
+0000141993 00000 n
+0000142056 00000 n
+0000142119 00000 n
+0000142184 00000 n
+0000128691 00000 n
+0000128754 00000 n
+0000000762 00001 f
+0000000472 00000 n
+0000142440 00000 n
+0000142487 00000 n
+0000142531 00000 n
+0000098575 00000 n
+0000130364 00000 n
+0000130219 00000 n
+0000098851 00000 n
+0000130407 00000 n
+0000130451 00000 n
+0000004066 00000 n
+0000004154 00000 n
+0000007699 00000 n
+0000004212 00000 n
+0000004248 00000 n
+0000007989 00000 n
+0000008973 00000 n
+0000009071 00000 n
+0000009165 00000 n
+0000009289 00000 n
+0000130746 00000 n
+0000131933 00000 n
+0000130712 00000 n
+0000130681 00000 n
+0000141828 00000 n
+0000130602 00000 n
+0000130530 00000 n
+0000130500 00000 n
+0000009810 00000 n
+0000009904 00000 n
+0000010011 00000 n
+0000010105 00000 n
+0000010215 00000 n
+0000141730 00000 n
+0000141780 00000 n
+0000141695 00000 n
+0000141664 00000 n
+0000010738 00000 n
+0000010833 00000 n
+0000131039 00000 n
+0000141635 00000 n
+0000010986 00000 n
+0000011081 00000 n
+0000141589 00000 n
+0000011603 00000 n
+0000011698 00000 n
+0000141560 00000 n
+0000011859 00000 n
+0000011954 00000 n
+0000141531 00000 n
+0000012111 00000 n
+0000012206 00000 n
+0000012349 00000 n
+0000133725 00000 n
+0000141483 00000 n
+0000012877 00000 n
+0000012972 00000 n
+0000141454 00000 n
+0000013133 00000 n
+0000013228 00000 n
+0000013714 00000 n
+0000132358 00000 n
+0000141407 00000 n
+0000014238 00000 n
+0000014333 00000 n
+0000141379 00000 n
+0000014496 00000 n
+0000014591 00000 n
+0000141351 00000 n
+0000014754 00000 n
+0000014849 00000 n
+0000141323 00000 n
+0000015012 00000 n
+0000015107 00000 n
+0000136012 00000 n
+0000141275 00000 n
+0000015631 00000 n
+0000015726 00000 n
+0000141247 00000 n
+0000015889 00000 n
+0000015984 00000 n
+0000141217 00000 n
+0000016136 00000 n
+0000016233 00000 n
+0000016346 00000 n
+0000141117 00000 n
+0000141168 00000 n
+0000141081 00000 n
+0000016879 00000 n
+0000016976 00000 n
+0000140993 00000 n
+0000141032 00000 n
+0000017505 00000 n
+0000017602 00000 n
+0000140902 00000 n
+0000140944 00000 n
+0000018132 00000 n
+0000018229 00000 n
+0000140872 00000 n
+0000018387 00000 n
+0000018484 00000 n
+0000140843 00000 n
+0000018650 00000 n
+0000018747 00000 n
+0000136519 00000 n
+0000140797 00000 n
+0000019277 00000 n
+0000019374 00000 n
+0000140767 00000 n
+0000140737 00000 n
+0000019540 00000 n
+0000019637 00000 n
+0000140707 00000 n
+0000019795 00000 n
+0000019892 00000 n
+0000131075 00000 n
+0000140658 00000 n
+0000020423 00000 n
+0000020520 00000 n
+0000140612 00000 n
+0000021049 00000 n
+0000021146 00000 n
+0000140582 00000 n
+0000021310 00000 n
+0000021407 00000 n
+0000021546 00000 n
+0000132576 00000 n
+0000140533 00000 n
+0000132530 00000 n
+0000132496 00000 n
+0000022077 00000 n
+0000022174 00000 n
+0000022299 00000 n
+0000140435 00000 n
+0000140486 00000 n
+0000140387 00000 n
+0000140353 00000 n
+0000022830 00000 n
+0000022927 00000 n
+0000140303 00000 n
+0000023456 00000 n
+0000023553 00000 n
+0000023676 00000 n
+0000140203 00000 n
+0000140254 00000 n
+0000140157 00000 n
+0000140120 00000 n
+0000024209 00000 n
+0000024306 00000 n
+0000024415 00000 n
+0000140021 00000 n
+0000140072 00000 n
+0000139989 00000 n
+0000139958 00000 n
+0000024950 00000 n
+0000025047 00000 n
+0000139928 00000 n
+0000025211 00000 n
+0000025308 00000 n
+0000025419 00000 n
+0000139739 00000 n
+0000139881 00000 n
+0000139709 00000 n
+0000025950 00000 n
+0000026047 00000 n
+0000139834 00000 n
+0000026578 00000 n
+0000026675 00000 n
+0000139787 00000 n
+0000027206 00000 n
+0000027303 00000 n
+0000139659 00000 n
+0000027833 00000 n
+0000027930 00000 n
+0000139630 00000 n
+0000028096 00000 n
+0000028193 00000 n
+0000139601 00000 n
+0000028353 00000 n
+0000028450 00000 n
+0000139511 00000 n
+0000139553 00000 n
+0000028980 00000 n
+0000029077 00000 n
+0000139482 00000 n
+0000029243 00000 n
+0000029340 00000 n
+0000029458 00000 n
+0000139381 00000 n
+0000139432 00000 n
+0000139340 00000 n
+0000139303 00000 n
+0000029989 00000 n
+0000030086 00000 n
+0000139253 00000 n
+0000030616 00000 n
+0000030714 00000 n
+0000139162 00000 n
+0000139203 00000 n
+0000031246 00000 n
+0000031344 00000 n
+0000139132 00000 n
+0000031507 00000 n
+0000031605 00000 n
+0000132172 00000 n
+0000139083 00000 n
+0000032139 00000 n
+0000032237 00000 n
+0000032357 00000 n
+0000138983 00000 n
+0000139034 00000 n
+0000138941 00000 n
+0000138909 00000 n
+0000032891 00000 n
+0000032989 00000 n
+0000138860 00000 n
+0000033521 00000 n
+0000033619 00000 n
+0000138831 00000 n
+0000033786 00000 n
+0000033884 00000 n
+0000138800 00000 n
+0000138770 00000 n
+0000034052 00000 n
+0000034150 00000 n
+0000138738 00000 n
+0000034321 00000 n
+0000034419 00000 n
+0000138709 00000 n
+0000034586 00000 n
+0000034684 00000 n
+0000034802 00000 n
+0000138610 00000 n
+0000138661 00000 n
+0000138570 00000 n
+0000138538 00000 n
+0000035336 00000 n
+0000035434 00000 n
+0000138447 00000 n
+0000138488 00000 n
+0000035964 00000 n
+0000036062 00000 n
+0000138398 00000 n
+0000036592 00000 n
+0000036690 00000 n
+0000036805 00000 n
+0000138297 00000 n
+0000138348 00000 n
+0000132044 00000 n
+0000138263 00000 n
+0000037337 00000 n
+0000037435 00000 n
+0000138234 00000 n
+0000037602 00000 n
+0000037700 00000 n
+0000138145 00000 n
+0000138185 00000 n
+0000038231 00000 n
+0000038329 00000 n
+0000038456 00000 n
+0000138047 00000 n
+0000138098 00000 n
+0000137998 00000 n
+0000137960 00000 n
+0000038988 00000 n
+0000039086 00000 n
+0000133518 00000 n
+0000137910 00000 n
+0000039619 00000 n
+0000039717 00000 n
+0000137881 00000 n
+0000039878 00000 n
+0000039976 00000 n
+0000137852 00000 n
+0000040143 00000 n
+0000040241 00000 n
+0000040346 00000 n
+0000137752 00000 n
+0000137803 00000 n
+0000137712 00000 n
+0000040883 00000 n
+0000040981 00000 n
+0000137682 00000 n
+0000041142 00000 n
+0000041240 00000 n
+0000137653 00000 n
+0000041407 00000 n
+0000041505 00000 n
+0000137624 00000 n
+0000041666 00000 n
+0000041764 00000 n
+0000041933 00000 n
+0000042031 00000 n
+0000137595 00000 n
+0000042198 00000 n
+0000042296 00000 n
+0000137566 00000 n
+0000042463 00000 n
+0000042561 00000 n
+0000137536 00000 n
+0000137506 00000 n
+0000042728 00000 n
+0000042826 00000 n
+0000137457 00000 n
+0000043358 00000 n
+0000043456 00000 n
+0000137428 00000 n
+0000043623 00000 n
+0000043721 00000 n
+0000137396 00000 n
+0000137366 00000 n
+0000043890 00000 n
+0000043988 00000 n
+0000044111 00000 n
+0000136986 00000 n
+0000137316 00000 n
+0000136949 00000 n
+0000136917 00000 n
+0000044645 00000 n
+0000044743 00000 n
+0000137286 00000 n
+0000044908 00000 n
+0000045006 00000 n
+0000045124 00000 n
+0000137187 00000 n
+0000137238 00000 n
+0000137147 00000 n
+0000137117 00000 n
+0000045658 00000 n
+0000045756 00000 n
+0000137087 00000 n
+0000045921 00000 n
+0000046019 00000 n
+0000137037 00000 n
+0000046553 00000 n
+0000046651 00000 n
+0000136887 00000 n
+0000046816 00000 n
+0000046914 00000 n
+0000136857 00000 n
+0000047079 00000 n
+0000047177 00000 n
+0000136809 00000 n
+0000047710 00000 n
+0000047808 00000 n
+0000136779 00000 n
+0000047973 00000 n
+0000048071 00000 n
+0000136749 00000 n
+0000048236 00000 n
+0000048334 00000 n
+0000136659 00000 n
+0000136701 00000 n
+0000048867 00000 n
+0000048965 00000 n
+0000135456 00000 n
+0000136611 00000 n
+0000049497 00000 n
+0000049595 00000 n
+0000136561 00000 n
+0000050128 00000 n
+0000050226 00000 n
+0000136490 00000 n
+0000050393 00000 n
+0000050491 00000 n
+0000136443 00000 n
+0000051023 00000 n
+0000051121 00000 n
+0000136396 00000 n
+0000051653 00000 n
+0000051751 00000 n
+0000136367 00000 n
+0000051916 00000 n
+0000052014 00000 n
+0000136337 00000 n
+0000052173 00000 n
+0000052271 00000 n
+0000136288 00000 n
+0000052803 00000 n
+0000052901 00000 n
+0000136259 00000 n
+0000053068 00000 n
+0000053166 00000 n
+0000136209 00000 n
+0000053698 00000 n
+0000053796 00000 n
+0000136180 00000 n
+0000053963 00000 n
+0000054061 00000 n
+0000136131 00000 n
+0000054591 00000 n
+0000054689 00000 n
+0000136102 00000 n
+0000054856 00000 n
+0000054954 00000 n
+0000136052 00000 n
+0000055484 00000 n
+0000055582 00000 n
+0000135983 00000 n
+0000055749 00000 n
+0000055847 00000 n
+0000055963 00000 n
+0000135884 00000 n
+0000135935 00000 n
+0000135846 00000 n
+0000135812 00000 n
+0000056495 00000 n
+0000056593 00000 n
+0000135764 00000 n
+0000057125 00000 n
+0000057223 00000 n
+0000135734 00000 n
+0000057386 00000 n
+0000057484 00000 n
+0000135703 00000 n
+0000135673 00000 n
+0000057652 00000 n
+0000057750 00000 n
+0000135625 00000 n
+0000058282 00000 n
+0000058380 00000 n
+0000135595 00000 n
+0000058543 00000 n
+0000058641 00000 n
+0000135545 00000 n
+0000059173 00000 n
+0000059271 00000 n
+0000135497 00000 n
+0000059803 00000 n
+0000059901 00000 n
+0000135427 00000 n
+0000060068 00000 n
+0000060166 00000 n
+0000135398 00000 n
+0000060333 00000 n
+0000060431 00000 n
+0000135369 00000 n
+0000060598 00000 n
+0000060696 00000 n
+0000135320 00000 n
+0000061230 00000 n
+0000061328 00000 n
+0000135290 00000 n
+0000061493 00000 n
+0000061591 00000 n
+0000135261 00000 n
+0000135231 00000 n
+0000061757 00000 n
+0000061855 00000 n
+0000135200 00000 n
+0000135170 00000 n
+0000062023 00000 n
+0000062121 00000 n
+0000135140 00000 n
+0000062286 00000 n
+0000062384 00000 n
+0000135111 00000 n
+0000062549 00000 n
+0000062647 00000 n
+0000135082 00000 n
+0000135052 00000 n
+0000062813 00000 n
+0000062911 00000 n
+0000135022 00000 n
+0000063076 00000 n
+0000063174 00000 n
+0000134992 00000 n
+0000063341 00000 n
+0000063439 00000 n
+0000134963 00000 n
+0000063606 00000 n
+0000063704 00000 n
+0000134932 00000 n
+0000134902 00000 n
+0000063872 00000 n
+0000063970 00000 n
+0000134872 00000 n
+0000064137 00000 n
+0000064235 00000 n
+0000134840 00000 n
+0000134811 00000 n
+0000064404 00000 n
+0000064502 00000 n
+0000134782 00000 n
+0000064667 00000 n
+0000064765 00000 n
+0000134752 00000 n
+0000064928 00000 n
+0000065026 00000 n
+0000134722 00000 n
+0000065189 00000 n
+0000065287 00000 n
+0000134692 00000 n
+0000065450 00000 n
+0000065548 00000 n
+0000134662 00000 n
+0000065711 00000 n
+0000065809 00000 n
+0000134632 00000 n
+0000065974 00000 n
+0000066072 00000 n
+0000134602 00000 n
+0000066237 00000 n
+0000066335 00000 n
+0000134572 00000 n
+0000066500 00000 n
+0000066598 00000 n
+0000134542 00000 n
+0000066765 00000 n
+0000066863 00000 n
+0000134512 00000 n
+0000067030 00000 n
+0000067128 00000 n
+0000134483 00000 n
+0000067295 00000 n
+0000067393 00000 n
+0000134453 00000 n
+0000067558 00000 n
+0000067656 00000 n
+0000134423 00000 n
+0000067819 00000 n
+0000067917 00000 n
+0000134394 00000 n
+0000068084 00000 n
+0000068182 00000 n
+0000134365 00000 n
+0000134335 00000 n
+0000068348 00000 n
+0000068446 00000 n
+0000134303 00000 n
+0000134273 00000 n
+0000068615 00000 n
+0000068713 00000 n
+0000134223 00000 n
+0000069243 00000 n
+0000069341 00000 n
+0000134194 00000 n
+0000069508 00000 n
+0000069606 00000 n
+0000134165 00000 n
+0000069773 00000 n
+0000069871 00000 n
+0000134136 00000 n
+0000070038 00000 n
+0000070136 00000 n
+0000070269 00000 n
+0000131610 00000 n
+0000134089 00000 n
+0000131579 00000 n
+0000131547 00000 n
+0000070803 00000 n
+0000070901 00000 n
+0000134041 00000 n
+0000071435 00000 n
+0000071533 00000 n
+0000071652 00000 n
+0000133941 00000 n
+0000133992 00000 n
+0000133900 00000 n
+0000133864 00000 n
+0000072184 00000 n
+0000072282 00000 n
+0000133815 00000 n
+0000072814 00000 n
+0000072912 00000 n
+0000133765 00000 n
+0000073442 00000 n
+0000073540 00000 n
+0000133696 00000 n
+0000073707 00000 n
+0000073805 00000 n
+0000133667 00000 n
+0000073972 00000 n
+0000074070 00000 n
+0000074239 00000 n
+0000074337 00000 n
+0000133638 00000 n
+0000074504 00000 n
+0000074602 00000 n
+0000133609 00000 n
+0000074769 00000 n
+0000074867 00000 n
+0000133560 00000 n
+0000075400 00000 n
+0000075498 00000 n
+0000075667 00000 n
+0000075765 00000 n
+0000133280 00000 n
+0000133468 00000 n
+0000076299 00000 n
+0000076397 00000 n
+0000076501 00000 n
+0000133369 00000 n
+0000133418 00000 n
+0000077033 00000 n
+0000077131 00000 n
+0000133321 00000 n
+0000077665 00000 n
+0000077763 00000 n
+0000133232 00000 n
+0000078297 00000 n
+0000078395 00000 n
+0000133203 00000 n
+0000078562 00000 n
+0000078660 00000 n
+0000133174 00000 n
+0000078827 00000 n
+0000078925 00000 n
+0000133125 00000 n
+0000079457 00000 n
+0000079555 00000 n
+0000133076 00000 n
+0000080087 00000 n
+0000080185 00000 n
+0000133027 00000 n
+0000080717 00000 n
+0000080815 00000 n
+0000132978 00000 n
+0000081349 00000 n
+0000081447 00000 n
+0000132929 00000 n
+0000081981 00000 n
+0000082079 00000 n
+0000132900 00000 n
+0000082246 00000 n
+0000082344 00000 n
+0000132871 00000 n
+0000082511 00000 n
+0000082609 00000 n
+0000132842 00000 n
+0000082776 00000 n
+0000082874 00000 n
+0000082988 00000 n
+0000132742 00000 n
+0000132793 00000 n
+0000132706 00000 n
+0000132675 00000 n
+0000083520 00000 n
+0000083618 00000 n
+0000132627 00000 n
+0000084150 00000 n
+0000084248 00000 n
+0000132447 00000 n
+0000084778 00000 n
+0000084876 00000 n
+0000132398 00000 n
+0000085406 00000 n
+0000085504 00000 n
+0000132309 00000 n
+0000086036 00000 n
+0000086134 00000 n
+0000132262 00000 n
+0000086660 00000 n
+0000086758 00000 n
+0000132213 00000 n
+0000087292 00000 n
+0000087390 00000 n
+0000132073 00000 n
+0000132124 00000 n
+0000132015 00000 n
+0000087922 00000 n
+0000088020 00000 n
+0000131967 00000 n
+0000088546 00000 n
+0000088644 00000 n
+0000131884 00000 n
+0000089178 00000 n
+0000089276 00000 n
+0000131855 00000 n
+0000089437 00000 n
+0000089535 00000 n
+0000131826 00000 n
+0000089696 00000 n
+0000089794 00000 n
+0000131797 00000 n
+0000089955 00000 n
+0000090053 00000 n
+0000131768 00000 n
+0000090214 00000 n
+0000090312 00000 n
+0000131739 00000 n
+0000090473 00000 n
+0000090571 00000 n
+0000131710 00000 n
+0000090730 00000 n
+0000090828 00000 n
+0000131660 00000 n
+0000091362 00000 n
+0000091460 00000 n
+0000131517 00000 n
+0000091619 00000 n
+0000091717 00000 n
+0000131488 00000 n
+0000091876 00000 n
+0000091974 00000 n
+0000131459 00000 n
+0000092133 00000 n
+0000092231 00000 n
+0000131430 00000 n
+0000092390 00000 n
+0000092488 00000 n
+0000131401 00000 n
+0000092647 00000 n
+0000092745 00000 n
+0000092906 00000 n
+0000093004 00000 n
+0000131372 00000 n
+0000093163 00000 n
+0000093261 00000 n
+0000131343 00000 n
+0000093420 00000 n
+0000093518 00000 n
+0000131294 00000 n
+0000094050 00000 n
+0000094148 00000 n
+0000131245 00000 n
+0000094680 00000 n
+0000094778 00000 n
+0000131216 00000 n
+0000094945 00000 n
+0000095043 00000 n
+0000131166 00000 n
+0000095575 00000 n
+0000095673 00000 n
+0000131116 00000 n
+0000096205 00000 n
+0000096303 00000 n
+0000131010 00000 n
+0000096470 00000 n
+0000096568 00000 n
+0000096677 00000 n
+0000130569 00000 n
+0000130962 00000 n
+0000097203 00000 n
+0000097301 00000 n
+0000097419 00000 n
+0000130862 00000 n
+0000130913 00000 n
+0000130822 00000 n
+0000130780 00000 n
+0000097951 00000 n
+0000098049 00000 n
+0000130632 00000 n
+0000000763 00001 f
+0000000766 00001 f
+0000128813 00000 n
+0000129987 00000 n
+0000000767 00001 f
+0000000768 00001 f
+0000000769 00001 f
+0000000770 00001 f
+0000000000 00001 f
+0000098876 00000 n
+0000000511 00000 n
+0000142245 00000 n
+0000142334 00000 n
+0000142397 00000 n
+0000000582 00000 n
+trailer
+<</Size 777/Root 1 0 R/Info 3 0 R/ID[<901C5BDFC5AFDD459E92CC4F6088469B><210D397527FE6945B9FA2FF91133CECB>]>>
+startxref
+142743
+%%EOF
