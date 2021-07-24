@@ -18,7 +18,7 @@ Documentation
 --------------
  
 * **[Hookup Guide](https://learn.sparkfun.com/tutorials/17273)** - Basic hookup guide for the SparkFun QuickLogic EOS S3.
-* **[SparkFun Graphical Datasheets](https://github.com/sparkfun/Graphical_Datasheets)** -Graphical Datasheets for various SparkFun products.
+* **[SparkFun Graphical Datasheets](https://github.com/sparkfun/Graphical_Datasheets)** - Graphical Datasheets for various SparkFun products.
 
   
 Product Versions
