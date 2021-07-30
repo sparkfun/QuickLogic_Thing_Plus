@@ -1,9 +1,9 @@
-SparkFun QuickLogic EOS S3
+SparkFun QuickLogic Thing Plus - EOS S3
 ========================================
 
-[![SparkFun QuickLogic EOS S3](https://cdn.sparkfun.com/assets/parts/1/6/2/8/0/17273-SparkFun_QuickLogic_Thing_Plus_-_EOS_S3-01.jpg)](https://www.sparkfun.com/products/17273)
+[![SparkFun QuickLogic Thing Plus - EOS S3](https://cdn.sparkfun.com/assets/parts/1/6/2/8/0/17273-SparkFun_QuickLogic_Thing_Plus_-_EOS_S3-01.jpg)](https://www.sparkfun.com/products/17273)
 
-[*SparkFun QuickLogic EOS S3 (DEV-17273)*](https://www.sparkfun.com/products/17273)
+[*SparkFun QuickLogic Thing Plus - EOS S3 (DEV-17273)*](https://www.sparkfun.com/products/17273)
 
 The SparkFun QuickLogic Thing Plus [EOS&trade; S3](https://www.quicklogic.com/products/eos-s3/), is a small form factor system ideal for enabling the next generation of low-power Machine Learning (ML) devices. The QuickLogic Thing Plus is powered by QuickLogic’s EOS S3, the first eFPGA-enabled Arm Cortex&copy;-M4F MCU to be fully supported with Zephyr RTOS and FreeRTOS. Unlike other development boards which are based on proprietary hardware and software tools, the QuickLogic Things Plus is based on 100% open source hardware, compatible with the Feather form factor, and is built around 100% open source software (with support for FreeRTOS, Zephyr, nMingen, Docker, and SymbiFlow). 
 
